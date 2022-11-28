@@ -219,7 +219,7 @@
 {
     "name": "Colodex",
     "description": "Library to use Holodex (vtuber stream aggregator) in C",
-    "languages": [ "C", "C++" ],
+    "languages": [ "C" ],
     "links": [
         {
             "name": "Source Code",
