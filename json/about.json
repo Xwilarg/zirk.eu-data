@@ -1,0 +1,133 @@
+{
+    "social": [{
+        "name": "Steam",
+        "link": "https://steamcommunity.com/id/xwilarg/"
+    }, {
+        "name": "AniList",
+        "link": "https://anilist.co/user/Xwilarg/"
+    }, {
+        "name": "GitHub",
+        "link": "https://github.com/Xwilarg/"
+    }],
+    "music": [{
+        "name": "KINEMA106",
+        "link": "https://www.youtube.com/user/Tom106zany"
+    }, {
+        "name": "暁Records",
+        "link": "https://www.youtube.com/channel/UCZaFfDBBCqmYdfp6DJl0cRw"
+    }, {
+        "name": "ナナヲアカリ",
+        "link": "https://www.youtube.com/c/nanawoakariSMEJ"
+    }, {
+        "name": "ツユ",
+        "link": "https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg"
+    }, {
+        "name": "Nanahira",
+        "link": "https://www.youtube.com/channel/UC_fYA9QRK-aJnFTgvR_4zug"
+    }, {
+        "name": "IOSYS",
+        "link": "https://www.youtube.com/c/IOSYSmusic"
+    }],
+    "games": [{
+        "name": "Team Fortress 2",
+        "store": {
+            "name": "Steam",
+            "link": "https://store.steampowered.com/app/440/Team_Fortress_2/"
+        },
+        "links": [{
+            "name": "logs.tf",
+            "content": "https://logs.tf/profile/76561198039345808",
+            "type": "link"
+        }],
+        "type": "FPS"
+    }, {
+        "name": "Rainbow 6 Siege",
+        "store": {
+            "name": "Steam",
+            "link": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/"
+        },
+        "links": [{
+            "name": "R6 Tracker",
+            "content": "https://r6.tracker.network/profile/id/a5f1eb6b-9f4c-4079-9115-8662ccae055e",
+            "type": "link"
+        }],
+        "type": "FPS"
+    }, {
+        "name": "Fire Emblem",
+        "store": {
+            "name": "Nintendo Store (3 Houses)",
+            "content": "https://www.nintendo.com/store/products/fire-emblem-three-houses-switch/"
+        },
+        "links": [{
+            "name": "S ranks",
+            "content": "data/img/FireEmblem.png",
+            "type": "image"
+        }],
+        "type": "TRPG"
+    }, {
+        "name": "pop'n music",
+        "store": {
+            "name": "Konami",
+            "link": "https://www.konami.com/amusement/video/popn/"
+        },
+        "links": [{
+            "name": "Flower",
+            "content": "https://projectflower.eu/game/pnm/13362322",
+            "type": "link"
+        }],
+        "type": "Rhythm"
+    }, {
+        "name": "Project Sekai: Colorful Stage",
+        "store": {
+            "name": "Sega",
+            "link": "https://pjsekai.sega.jp/"
+        },
+        "links": [{
+            "name": "Profile",
+            "content": "data/img/ProjectSekai.jpg",
+            "type": "image"
+        }],
+        "type": "Rhythm"
+    }, {
+        "name": "Wario Ware: D.I.Y.",
+        "store": {
+            "name": "Nintendo Store",
+            "link": "https://www.nintendo.co.uk/Games/Nintendo-DS/WarioWare-Do-It-Yourself-273542.html"
+        },
+        "links": [],
+        "type": "Other"
+    }, {
+        "name": "Kantai Collection",
+        "store": {
+            "name": "DMM",
+            "link": "https://www.dmm.com/netgame/feature/kancolle.html"
+        },
+        "links": [{
+            "name": "Profile",
+            "content": "data/img/KanColle.png",
+            "type": "image"
+        }],
+        "type": "Other"
+    }, {
+        "name": "Long Live The Queen",
+        "store": {
+            "name": "Steam",
+            "link": "https://store.steampowered.com/app/251990/Long_Live_The_Queen/"
+        },
+        "links": [],
+        "type": "Other"
+    }],
+    "novels": [{
+        "name": "Maitetsu",
+        "link": "https://vndb.org/v25635",
+        "type": "visual novel"
+    }, {
+        "name": "Kumo desu ga, Nani ka?",
+        "link": "https://anilist.co/manga/86406/Kumo-desu-ga-Nani-ka/",
+        "type": "light novel"
+    }, {
+        "name": "Anemone wa Netsu wo Obiru",
+        "link": "https://anilist.co/manga/126722/Anemone-wa-Netsu-wo-Obiru/",
+        "type": "manga"
+    }]
+}
