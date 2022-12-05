@@ -8,6 +8,9 @@
     }, {
         "name": "GitHub",
         "link": "https://github.com/Xwilarg/"
+    }, {
+        "name": "Mastodon",
+        "link": "https://mastodon.gamedev.place/@xwilarg"
     }],
     "music": [{
         "name": "KINEMA106",
@@ -60,7 +63,7 @@
         },
         "links": [{
             "name": "S ranks",
-            "content": "data/img/FireEmblem.png",
+            "content": "data/img/about/FireEmblem.png",
             "type": "image"
         }],
         "type": "TRPG"
@@ -84,7 +87,7 @@
         },
         "links": [{
             "name": "Profile",
-            "content": "data/img/ProjectSekai.jpg",
+            "content": "data/img/about/ProjectSekai.jpg",
             "type": "image"
         }],
         "type": "Rhythm"
@@ -103,8 +106,8 @@
             "link": "https://www.dmm.com/netgame/feature/kancolle.html"
         },
         "links": [{
-            "name": "Profile",
-            "content": "data/img/KanColle.png",
+            "name": "Ships List",
+            "content": "data/img/about/KanColle.png",
             "type": "image"
         }],
         "type": "Other"
