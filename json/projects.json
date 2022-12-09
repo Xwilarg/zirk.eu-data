@@ -1,20 +1,20 @@
 [{
     "name": "Chessweeper",
     "description": "A mix between Chess and Minesweeper",
-    "languages": [ "JavaScript", "PHP" ],
+    "languages": [ "TypeScript", "PHP" ],
     "links": [
         {
             "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Chessweeper"
+            "content": "https://github.com/Chessweeper/Chessweeper"
         },
         {
             "name": "Game",
-            "content": "https://chessweeper.zirk.eu/"
+            "content": "https://chessweeper.com/"
         }
     ],
     "image": {
         "id": "Chessweeper",
-        "description": "Example of board in 'puzzle' mode"
+        "description": "Example of board in 'classic' mode"
     },
     "nsfw": false,
     "type": "Game",
@@ -265,7 +265,7 @@
     "highlight": false,
     "dates": {
         "start": "2021-05-03",
-        "end": "2022-09-15"
+        "end": null
     },
     "state": {
         "status": 0,
@@ -357,7 +357,7 @@
 {
     "name": "FPL-TimePlayed",
     "description": "Flashpoint extension to display how much time you spent on a game",
-    "languages": [ "Typescript" ],
+    "languages": [ "TypeScript" ],
     "links": [
         {
             "name": "Source Code",
