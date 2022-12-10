@@ -317,7 +317,7 @@
     "highlight": false,
     "dates": {
         "start": "2019-05-29",
-        "end": "2022-05-29"
+        "end": null
     },
     "state": {
         "status": 0,
