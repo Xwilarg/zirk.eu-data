@@ -197,11 +197,11 @@
         },
         {
             "name": "Invitation Link",
-            "content": "https://discord.com/oauth2/authorize?client_id=329664361016721408&scope=bot%20applications.commands"
+            "content": "https://discord.com/oauth2/authorize?client_id=329664361016721408&permissions=51264&scope=bot%20applications.commands"
         },
         {
             "name": "Invitation Link (SFW)",
-            "content": "https://discord.com/oauth2/authorize?client_id=883767204733157397&scope=bot%20applications.commands"
+            "content": "https://discord.com/oauth2/authorize?client_id=883767204733157397&permissions=51264&scope=bot%20applications.commands"
         }
     ],
     "nsfw": false,
