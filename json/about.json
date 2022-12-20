@@ -1,15 +1,19 @@
 {
     "social": [{
         "name": "Steam",
+        "logo": "Steam.svg",
         "link": "https://steamcommunity.com/id/xwilarg/"
     }, {
         "name": "AniList",
+        "logo": "AniList.svg",
         "link": "https://anilist.co/user/Xwilarg/"
     }, {
         "name": "GitHub",
+        "logo": "GitHub.svg",
         "link": "https://github.com/Xwilarg/"
     }, {
         "name": "Mastodon",
+        "logo": "Mastodon.svg",
         "link": "https://mastodon.gamedev.place/@xwilarg"
     }],
     "music": [{
