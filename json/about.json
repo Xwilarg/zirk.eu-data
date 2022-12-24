@@ -62,7 +62,7 @@
     }, {
         "name": "Fire Emblem",
         "store": {
-            "name": "Nintendo Store (3 Houses)",
+            "name": "Nintendo (3 Houses)",
             "content": "https://www.nintendo.com/store/products/fire-emblem-three-houses-switch/"
         },
         "links": [{
@@ -98,7 +98,7 @@
     }, {
         "name": "Wario Ware: D.I.Y.",
         "store": {
-            "name": "Nintendo Store",
+            "name": "Nintendo",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-DS/WarioWare-Do-It-Yourself-273542.html"
         },
         "links": [],

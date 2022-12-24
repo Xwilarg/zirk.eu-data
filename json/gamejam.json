@@ -1,5 +1,32 @@
 [
     {
+        "name": "YouAreFired",
+        "fullName": "You Are Fired!",
+        "location": "Online",
+        "theme": [
+            "Termination"
+        ],
+        "event": "One Hour Game Jam",
+        "date": "2022-12-24",
+        "duration": 2,
+        "engine": "Unity",
+        "github": "https://github.com/Xwilarg/OneHourJam400",
+        "website": "https://onehourgamejam.com/?page=jam&jam=400",
+        "webgl": [
+            "https://gamejam.zirk.eu/YouAreFired/index.html"
+        ],
+        "postModification": null,
+        "nsfw": false,
+        "rating": {
+            "entries": 1,
+            "entriesRated": null,
+            "totalRatingCount": null,
+            "scores": null
+        },
+        "stream": [],
+        "gameplay": []
+    },
+    {
         "name": "TheShadowOfBearrintown",
         "fullName": "The Shadow of Bearrintown",
         "location": "Online",
@@ -23,7 +50,7 @@
             "totalRatingCount": null,
             "scores": null
         },
-        "stream": [ "https://www.twitch.tv/videos/1643766339?t=00h18m40s" ],
+        "stream": [],
         "gameplay": [ "https://youtu.be/bWtQn0u-nfc" ]
     },
     {
