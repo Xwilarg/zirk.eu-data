@@ -18,7 +18,11 @@
     }],
     "music": [{
         "name": "KINEMA106",
-        "link": "https://www.youtube.com/user/Tom106zany"
+        "link": "https://www.youtube.com/user/Tom106zany",
+        "youtube": [{
+            "name": "ドレミゴール",
+            "id": "R1u7oCJ8dK4"
+        }]
     }, {
         "name": "暁Records",
         "link": "https://www.youtube.com/channel/UCZaFfDBBCqmYdfp6DJl0cRw"
@@ -91,7 +95,7 @@
         },
         "links": [{
             "name": "Profile",
-            "content": "data/img/about/ProjectSekai.jpg",
+            "content": "data/img/about/ProjectSekai.png",
             "type": "image"
         }],
         "type": "Rhythm"
@@ -110,8 +114,12 @@
             "link": "https://www.dmm.com/netgame/feature/kancolle.html"
         },
         "links": [{
-            "name": "Ships List",
+            "name": "Ship List",
             "content": "data/img/about/KanColle.png",
+            "type": "image"
+        }, {
+            "name": "Equipement List",
+            "content": "data/img/about/KanColleEq.png",
             "type": "image"
         }],
         "type": "Other"
