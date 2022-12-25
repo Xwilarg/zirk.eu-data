@@ -22,22 +22,61 @@
         "youtube": [{
             "name": "ドレミゴール",
             "id": "R1u7oCJ8dK4"
+        }, {
+            "name": "ディープブルー",
+            "id": "LXjoIE8T-OE"
+        }, {
+            "name": "レンドエンズ",
+            "id": "Xztk5j98FZs"
         }]
     }, {
         "name": "暁Records",
-        "link": "https://www.youtube.com/channel/UCZaFfDBBCqmYdfp6DJl0cRw"
+        "link": "https://www.youtube.com/channel/UCZaFfDBBCqmYdfp6DJl0cRw",
+        "youtube": [{
+            "name": "LOVE EAST",
+            "id": "-4FkfYIZw14"
+        }, {
+            "name": "WARNING×WARNING×WARNING",
+            "id": "7UubKYqEy3s"
+        }, {
+            "name": "KARMANATIONS",
+            "id": "slVPS_VJqhs"
+        }]
     }, {
         "name": "ナナヲアカリ",
-        "link": "https://www.youtube.com/c/nanawoakariSMEJ"
+        "link": "https://www.youtube.com/c/nanawoakariSMEJ",
+        "youtube": [{
+            "name": "ラブみ",
+            "id": "hKCPSpUiwec"
+        }, {
+            "name": "全部ホントで全部ウソ",
+            "id": "SlBmv7w1VqY"
+        }, {
+            "name": "ベイビーあいへいちゅー",
+            "id": "aprOk-w2lxE"
+        }]
     }, {
         "name": "ツユ",
-        "link": "https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg"
+        "link": "https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg",
+        "youtube": [{
+            "name": "いつかオトナになれるといいね。",
+            "id": "cp8UEv8i0lc"
+        }, {
+            "name": "ユトリ最強世代",
+            "id": "mkE607dZ0Gw"
+        }, {
+            "name": "アンダーキッズ",
+            "id": "TBoBfT-_sfM"
+        }]
     }, {
         "name": "Nanahira",
         "link": "https://www.youtube.com/channel/UC_fYA9QRK-aJnFTgvR_4zug"
     }, {
         "name": "IOSYS",
         "link": "https://www.youtube.com/c/IOSYSmusic"
+    }, {
+        "name": "Shinra-Bansho",
+        "link": "https://www.youtube.com/@Shinrabansho_music"
     }],
     "games": [{
         "name": "Team Fortress 2",
