@@ -69,17 +69,31 @@
             "id": "TBoBfT-_sfM"
         }]
     }, {
-        "name": "Nanahira",
-        "link": "https://www.youtube.com/channel/UC_fYA9QRK-aJnFTgvR_4zug"
-    }, {
         "name": "IOSYS",
-        "link": "https://www.youtube.com/c/IOSYSmusic"
-    }, {
-        "name": "Shinra-Bansho",
-        "link": "https://www.youtube.com/@Shinrabansho_music"
+        "link": "https://www.youtube.com/c/IOSYSmusic",
+        "youtube": [{
+            "name": "なのです！",
+            "id": "MYxhx9Tf85A"
+        }, {
+            "name": "チルノのパーフェクトさんすう教室",
+            "id": "V_bQNPG2OyE"
+        }, {
+            "name": "うさぬこぬんぬんファンタジー！",
+            "id": "GB8T0JYzwJU"
+        }]
     }, {
         "name": "HoneyWorks",
-        "link": "https://www.youtube.com/@HoneyWorksOFFICIAL"
+        "link": "https://www.youtube.com/@HoneyWorksOFFICIAL",
+        "youtube": [{
+            "name": "ヒロインたるもの！",
+            "id": "jb6AHqi0MbE"
+        }, {
+            "name": "大嫌いなはずだった。",
+            "id": "zARhHJNrpnU"
+        }, {
+            "name": "Alive",
+            "id": "SgRV3IjmxTI"
+        }]
     }],
     "games": [{
         "name": "Team Fortress 2",
@@ -173,7 +187,8 @@
         "name": "Long Live The Queen",
         "store": {
             "name": "Steam",
-            "link": "https://store.steampowered.com/app/251990/Long_Live_The_Queen/"
+            "link": "https://store.steampowered.com/app/251990/Long_Live_The_Queen/",
+            "trailer": "https://youtu.be/pfRmag-zkQE"
         },
         "links": [],
         "type": "Other"
