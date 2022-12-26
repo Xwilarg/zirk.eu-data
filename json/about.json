@@ -165,7 +165,7 @@
             "type": "image"
         }, {
             "name": "Inventory Minigame",
-            "content": "data/img/about/KanColleShip.png",
+            "content": "data/img/about/KanColleSheep.png",
             "type": "image"
         }],
         "type": "Other"
