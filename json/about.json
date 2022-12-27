@@ -106,6 +106,8 @@
             "content": "https://logs.tf/profile/76561198039345808",
             "type": "link"
         }],
+        "video": "GLlLQ3LmZWU",
+        "gameplay": null,
         "type": "FPS"
     }, {
         "name": "Rainbow 6 Siege",
@@ -118,18 +120,22 @@
             "content": "https://r6.tracker.network/profile/id/a5f1eb6b-9f4c-4079-9115-8662ccae055e",
             "type": "link"
         }],
+        "video": "5aUG2Pn-WDs",
+        "gameplay": null,
         "type": "FPS"
     }, {
         "name": "Fire Emblem",
         "store": {
             "name": "Nintendo (3 Houses)",
-            "content": "https://www.nintendo.com/store/products/fire-emblem-three-houses-switch/"
+            "link": "https://www.nintendo.com/store/products/fire-emblem-three-houses-switch/"
         },
         "links": [{
             "name": "S ranks",
             "content": "data/img/about/FireEmblem.png",
             "type": "image"
         }],
+        "video": "k73RENsZ464",
+        "gameplay": "usDy8YBesqQ",
         "type": "TRPG"
     }, {
         "name": "pop'n music",
@@ -142,6 +148,8 @@
             "content": "https://projectflower.eu/game/pnm/13362322",
             "type": "link"
         }],
+        "video": null,
+        "gameplay": null,
         "type": "Rhythm"
     }, {
         "name": "Project Sekai: Colorful Stage",
@@ -154,6 +162,8 @@
             "content": "data/img/about/ProjectSekai.png",
             "type": "image"
         }],
+        "video": null,
+        "gameplay": "P8m0NCsK-dQ",
         "type": "Rhythm"
     }, {
         "name": "Wario Ware: D.I.Y.",
@@ -162,6 +172,8 @@
             "link": "https://www.nintendo.co.uk/Games/Nintendo-DS/WarioWare-Do-It-Yourself-273542.html"
         },
         "links": [],
+        "video": null,
+        "gameplay": "0p9XLte6GNU",
         "type": "Other"
     }, {
         "name": "Kantai Collection",
@@ -182,28 +194,34 @@
             "content": "data/img/about/KanColleSheep.png",
             "type": "image"
         }],
+        "video": "iVEpvp-NVvI",
+        "gameplay": null,
         "type": "Other"
     }, {
         "name": "Long Live The Queen",
         "store": {
             "name": "Steam",
-            "link": "https://store.steampowered.com/app/251990/Long_Live_The_Queen/",
-            "trailer": "https://youtu.be/pfRmag-zkQE"
+            "link": "https://store.steampowered.com/app/251990/Long_Live_The_Queen/"
         },
         "links": [],
+        "video": null,
+        "gameplay": "pfRmag-zkQE",
         "type": "Other"
     }],
     "novels": [{
         "name": "Maitetsu",
         "link": "https://vndb.org/v25635",
-        "type": "visual novel"
+        "type": "visual novel",
+        "image": "Maitetsu.jpg"
     }, {
         "name": "Kumo desu ga, Nani ka?",
         "link": "https://anilist.co/manga/86406/Kumo-desu-ga-Nani-ka/",
-        "type": "light novel"
+        "type": "light novel",
+        "image": "KumoDesuGa.jpg"
     }, {
         "name": "Anemone wa Netsu wo Obiru",
         "link": "https://anilist.co/manga/126722/Anemone-wa-Netsu-wo-Obiru/",
-        "type": "manga"
+        "type": "manga",
+        "image": "Anemone.png"
     }]
 }
