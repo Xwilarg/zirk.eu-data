@@ -1,4 +1,33 @@
 [{
+    "name": "FIP-Discord",
+    "description": "Discord bot that stream musics from the french radio FIP ",
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/FIP-Discord/"
+        },
+        {
+            "name": "Invite Link",
+            "content": "https://discord.com/oauth2/authorize?client_id=1062043607252606976&permissions=3145728&scope=bot%20applications.commands"
+        }
+    ],
+    "image": {
+        "id": "FIP-Discord",
+        "description": "A playlist being played"
+    },
+    "nsfw": false,
+    "type": "Discord Bot",
+    "highlight": false,
+    "dates": {
+        "start": "2023-01-09",
+        "end": null
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+}, {
     "name": "Chessweeper",
     "description": "A mix between Chess and Minesweeper",
     "languages": [ "TypeScript", "PHP" ],
