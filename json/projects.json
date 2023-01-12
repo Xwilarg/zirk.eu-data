@@ -1118,12 +1118,7 @@
     "name": "Isathos",
     "description": "An RPG",
     "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Isathos"
-        }
-    ],
+    "links": [],
     "image": {
         "id": "Isathos",
         "description": "RPG"
@@ -1375,12 +1370,7 @@
     "name": "HoloRPG",
     "description": "Tactical RPG",
     "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/HoloRPG-old"
-        }
-    ],
+    "links": [],
     "image": {
         "id": "HoloRPG",
         "description": null
@@ -1881,7 +1871,7 @@
     "highlight": false,
     "dates": {
         "start": "2022-09-15",
-        "end": null
+        "end": "2022-09-24"
     },
     "state": {
         "status": 2,
