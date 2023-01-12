@@ -20,14 +20,14 @@ class TestMethods(unittest.TestCase):
             self.assertEqual(x.status_code, 200, f"Invalid link {url}")
 
     def test_projects(self):
-        with open('../json/projects.json', 'r', encoding='utf-8') as file:
+        with open('./json/projects.json', 'r', encoding='utf-8') as file:
             j = json.loads(file.read())
             for elem in j:
                 for l in elem["links"]:
                     self.do_request(l["content"])
 
     def test_about(self):
-        with open('../json/about.json', 'r', encoding='utf-8') as file:
+        with open('./json/about.json', 'r', encoding='utf-8') as file:
             j = json.loads(file.read())
             for l in j["social"]:
                 self.do_request(l["link"])
@@ -50,7 +50,7 @@ class TestMethods(unittest.TestCase):
                 self.do_request(l["link"])
 
     def test_gamejam(self):
-        with open('../json/gamejam.json', 'r', encoding='utf-8') as file:
+        with open('./json/gamejam.json', 'r', encoding='utf-8') as file:
             j = json.loads(file.read())
             for elem in j:
                 if elem["github"] is not None:
