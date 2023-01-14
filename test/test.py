@@ -11,7 +11,7 @@ class TestMethods(unittest.TestCase):
             x = requests.head(url)
 
         if url.startswith("https://www.youtube.com"):
-            self.assertTrue(x.status_code in [200, 302], f"Invalid link {url}")
+            self.assertTrue(x.status_code in [200, 302], f"Invalid link {url} returned {x.status_code}")
         elif  url.startswith("https://projectflower.eu"): # Project flower need login so by default it redirect to main page
             self.assertEqual(x.status_code, 302, f"Invalid link {url}")
         elif url.startswith("https://vndb.org"): # I don't know
