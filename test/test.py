@@ -34,13 +34,13 @@ class TestMethods(unittest.TestCase):
             for l in j["music"]:
                 self.do_request(l["link"])
                 for l2 in l["youtube"]:
-                    self.do_request(f"https://www.youtube.com/{l2['id']}")
+                    self.do_request(f"https://www.youtube.com/watch?v={l2['id']}")
             for l in j["games"]:
                 self.do_request(l["store"]["link"])
                 if l['video'] is not None:
-                    self.do_request(f"https://www.youtube.com/{l['video']}")
+                    self.do_request(f"https://www.youtube.com/watch?v={l['video']}")
                 if l['gameplay'] is not None:
-                    self.do_request(f"https://www.youtube.com/{l['gameplay']}")
+                    self.do_request(f"https://www.youtube.com/watch?v={l['gameplay']}")
                 for l2 in l["links"]:
                     if l2["content"].startswith("https://"):
                         self.do_request(l2["content"])
