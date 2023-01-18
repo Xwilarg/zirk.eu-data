@@ -1,4 +1,54 @@
 [{
+    "name": "Darkness",
+    "description": "Text-based RPG",
+    "languages": [ "PHP", "JavaScript" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Darkness/"
+        }
+    ],
+    "image": {
+        "id": null,
+        "description": ""
+    },
+    "nsfw": false,
+    "type": "Video Game",
+    "highlight": false,
+    "dates": {
+        "start": "2023-01-09",
+        "end": null
+    },
+    "state": {
+        "status": 2,
+        "comment": null
+    }
+}, {
+    "name": "Tansy",
+    "description": "",
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Tansy/"
+        }
+    ],
+    "image": {
+        "id": null,
+        "description": ""
+    },
+    "nsfw": false,
+    "type": "Discord Bot",
+    "highlight": false,
+    "dates": {
+        "start": "2023-01-08",
+        "end": null
+    },
+    "state": {
+        "status": 2,
+        "comment": null
+    }
+}, {
     "name": "FIP-Discord",
     "description": "Discord bot that stream musics from the french radio FIP ",
     "languages": [ "C#" ],
