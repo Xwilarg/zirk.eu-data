@@ -193,6 +193,10 @@
             "name": "Inventory Minigame",
             "content": "data/img/about/KanColleSheep.png",
             "type": "image"
+        }, {
+            "name": "AirSimulator",
+            "content": "https://aircalc.page.link/AYsS",
+            "type": "link"
         }],
         "video": "iVEpvp-NVvI",
         "gameplay": null,
