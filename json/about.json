@@ -1,21 +1,32 @@
 {
-    "social": [{
-        "name": "Steam",
-        "logo": "Steam.svg",
-        "link": "https://steamcommunity.com/id/xwilarg/"
-    }, {
-        "name": "AniList",
-        "logo": "AniList.svg",
-        "link": "https://anilist.co/user/Xwilarg/"
-    }, {
-        "name": "GitHub",
-        "logo": "GitHub.svg",
-        "link": "https://github.com/Xwilarg/"
-    }, {
-        "name": "Itch",
-        "logo": "itch.svg",
-        "link": "https://zirk.itch.io/"
-    }],
+    "social": {
+        "general": [{
+            "name": "Steam",
+            "logo": "Steam.svg",
+            "link": "https://steamcommunity.com/id/xwilarg/"
+        }, {
+            "name": "AniList",
+            "logo": "AniList.svg",
+            "link": "https://anilist.co/user/Xwilarg/"
+        }, {
+            "name": "GitHub",
+            "logo": "GitHub.svg",
+            "link": "https://github.com/Xwilarg/"
+        }],
+        "gamejams": [{
+            "name": "itch",
+            "logo": "itch.svg",
+            "link": "https://zirk.itch.io/"
+        }, {
+            "name": "Ludum Dare",
+            "logo": "LudumDare.png",
+            "link": "https://ldjam.com/users/xwilarg/games"
+        }, {
+            "name": "Global Game Jam",
+            "logo": "GlobalGameJam.svg",
+            "link": "https://globalgamejam.org/users/zirk"
+        }]
+    },
     "music": [{
         "name": "KINEMA106",
         "link": "https://www.youtube.com/user/Tom106zany",
