@@ -7,6 +7,7 @@
             "Termination"
         ],
         "event": "One Hour Game Jam",
+        "shortEvent": "One Hour Game Jam",
         "date": "2022-12-24",
         "duration": 1,
         "engine": "Unity",
@@ -34,6 +35,7 @@
             "Change of Plans"
         ],
         "event": "Bear Jams Fall 2022",
+        "shortEvent": "Bear Jams",
         "date": "2022-10-29",
         "duration": 45,
         "engine": "Godot",
@@ -61,6 +63,7 @@
             "Every 10 seconds"
         ],
         "event": "Ludum Dare 51",
+        "shortEvent": "Ludum Dare",
         "date": "2022-09-31",
         "duration": 72,
         "engine": "Unity",
@@ -129,6 +132,7 @@
             "Conquer"
         ],
         "event": "One Hour Game Jam",
+        "shortEvent": "One Hour Game Jam",
         "date": "2022-09-17",
         "duration": 1,
         "engine": "Unity",
@@ -156,6 +160,7 @@
             "The enemy is stupid... and needs help"
         ],
         "event": "Shitty Horror Game Jam",
+        "shortEvent": "Shitty Horror Game Jam",
         "date": "2022-09-09",
         "duration": 24,
         "engine": "Godot",
@@ -227,6 +232,7 @@
             "Alternative Movement"
         ],
         "event": "Monthly Scratch Jam #1",
+        "shortEvent": "Monthly Scratch Jam",
         "date": "2022-09-03",
         "duration": 36,
         "engine": "Scratch",
@@ -252,6 +258,7 @@
         "location": "Online",
         "theme": [],
         "event": "TF2Maps 72-Hour Summer Jam",
+        "shortEvent": "TF2Maps 72-Hour Jam",
         "date": "2022-07-22",
         "duration": 72,
         "engine": "Unity",
@@ -275,6 +282,7 @@
             "Economic and Social Cooperation in Eastern and Central Europe"
         ],
         "event": "United With Ukraine Game Jam",
+        "shortEvent": "United With Ukraine Game Jam",
         "date": "2022-07-09",
         "duration": 41,
         "engine": "Unity",
@@ -300,6 +308,7 @@
         "location": "Online",
         "theme": [],
         "event": "Touhou Pride Game Jam 4",
+        "shortEvent": "Touhou Pride Game Jam",
         "date": "2022-06-01",
         "duration": 744,
         "engine": "Unity",
@@ -368,6 +377,7 @@
             "Time"
         ],
         "event": "Game Boy Showdown",
+        "shortEvent": "Game Boy Showdown",
         "date": "2022-05-22",
         "duration": 168,
         "engine": "GB Studio",
@@ -429,6 +439,7 @@
         "location": "Gothenburg, Sweden",
         "theme": [],
         "event": "GBG Science Jam 2022",
+        "shortEvent": "GBG Science Jam",
         "date": "2022-05-03",
         "duration": 48,
         "engine": "Unity",
@@ -456,6 +467,7 @@
             "Only One"
         ],
         "event": "Mini Jame Gam #9",
+        "shortEvent": "Mini Jame Gam",
         "date": "2022-04-22",
         "duration": 58.5,
         "engine": "Unity",
@@ -519,6 +531,7 @@
             "It's not a bug!"
         ],
         "event": "One Hour Game Jam",
+        "shortEvent": "One Hour Game Jam",
         "date": "2022-04-09",
         "duration": 1,
         "engine": "Unity",
@@ -546,6 +559,7 @@
             "Delay the inevitable"
         ],
         "event": "Ludum Dare 50",
+        "shortEvent": "Ludum Dare",
         "date": "2022-04-01",
         "duration": 72,
         "engine": "Unity",
@@ -614,6 +628,7 @@
             "herd"
         ],
         "event": "One Hour Game Jam",
+        "shortEvent": "One Hour Game Jam",
         "date": "2022-03-26",
         "duration": 1,
         "engine": "Unity",
@@ -639,6 +654,7 @@
         "location": "Online",
         "theme": [],
         "event": "Scientific Game Jam - Printemps 2022",
+        "shortEvent": "Scientific Game Jam",
         "date": "2022-03-18",
         "duration": 48,
         "engine": "Unity",
@@ -666,6 +682,7 @@
             "Mix it up!"
         ],
         "event": "GamesPlusJam 2022",
+        "shortEvent": "GamesPlusJam",
         "date": "2022-03-11",
         "duration": 48,
         "engine": "Unity",
@@ -719,6 +736,7 @@
             "Clouds"
         ],
         "event": "One Hour Game Jam",
+        "shortEvent": "One Hour Game Jam",
         "date": "2022-03-05",
         "duration": 1,
         "engine": "Unity",
@@ -746,6 +764,7 @@
             "Обманчивая простота"
         ],
         "event": "Indie Varvar's Jam #1",
+        "shortEvent": "Indie Varvar's Jam",
         "date": "2022-02-25",
         "duration": 72,
         "engine": "Unity",
@@ -804,6 +823,7 @@
             "Aux fourneaux !"
         ],
         "event": "Game Anatomy Jam",
+        "shortEvent": "Game Anatomy Jam",
         "date": "2022-02-18",
         "duration": 56,
         "engine": "Unity",
@@ -832,6 +852,7 @@
             "Shapes and Colors"
         ],
         "event": "One Hour Game Jam",
+        "shortEvent": "One Hour Game Jam",
         "date": "2022-01-29",
         "duration": 1,
         "engine": "Unity",
@@ -859,6 +880,7 @@
             "Globe"
         ],
         "event": "Bean Jam #23",
+        "shortEvent": "Bean Jam",
         "date": "2022-01-23",
         "duration": 3,
         "engine": "Unity",
@@ -928,6 +950,7 @@
             "Жестокость"
         ],
         "event": "Crystal Gamejam",
+        "shortEvent": "Crystal Gamejam",
         "date": "2022-01-15",
         "duration": 5,
         "engine": "Unity",
@@ -981,6 +1004,7 @@
             "Unstable"
         ],
         "event": "Ludum Dare 49",
+        "shortEvent": "Ludum Dare",
         "date": "2021-10-02",
         "duration": 72,
         "engine": "Unity",
@@ -1039,6 +1063,7 @@
             "Alea jacta est"
         ],
         "event": "TUFRJAM2",
+        "shortEvent": "TUFRJAM",
         "date": "2021-04-30",
         "duration": 48,
         "engine": "Unity",
@@ -1066,6 +1091,7 @@
             "Deeper and Deeper"
         ],
         "event": "Ludum Dare 48",
+        "shortEvent": "Ludum Dare",
         "date": "2021-04-24",
         "duration": 72,
         "engine": "Unity",
@@ -1093,6 +1119,7 @@
             "Repair"
         ],
         "event": "Global Game Jam 2020",
+        "shortEvent": "Global Game Jam",
         "date": "2020-01-31",
         "duration": 48,
         "engine": "Unity",
@@ -1120,6 +1147,7 @@
             "You are the final boss"
         ],
         "event": "42Jam #2",
+        "shortEvent": "42Jam",
         "date": "2019-11-30",
         "duration": 48,
         "engine": "Unity",
@@ -1183,6 +1211,7 @@
             "Starry Night"
         ],
         "event": "Paint Jam",
+        "shortEvent": "Paint Jam",
         "date": "2019-02-16",
         "duration": 48,
         "engine": "Unity",
@@ -1237,6 +1266,7 @@
             "Intimacy"
         ],
         "event": "NSFW Valentines",
+        "shortEvent": "NSFW Valentines",
         "date": "2019-02-08",
         "duration": 72,
         "engine": "Unity",
@@ -1264,6 +1294,7 @@
             "What home means to you"
         ],
         "event": "Global Game Jam 2019",
+        "shortEvent": "Global Game Jam",
         "date": "2019-01-25",
         "duration": 48,
         "engine": "Unreal Engine",
@@ -1291,6 +1322,7 @@
             "You're on the naughty list"
         ],
         "event": "Christmas Jam 2018",
+        "shortEvent": "Christmas Jam",
         "date": "2018-12-22",
         "duration": 48,
         "engine": "Unity",
@@ -1345,6 +1377,7 @@
             "Running out of Spaces"
         ],
         "event": "Ludum Dare 42",
+        "shortEvent": "Ludum Dare",
         "date": "2018-08-11",
         "duration": 72,
         "engine": "Unity",
@@ -1408,6 +1441,7 @@
             "Green Game"
         ],
         "event": "Sogeti Green X Games",
+        "shortEvent": "Sogeti Green X Games",
         "date": "2018-06-15",
         "duration": 48,
         "engine": "Unity",
@@ -1430,6 +1464,7 @@
             "Transmission"
         ],
         "event": "Global Game Jam 2018",
+        "shortEvent": "Global Game Jam",
         "date": "2018-01-26",
         "duration": 48,
         "engine": "Unity",
@@ -1457,6 +1492,7 @@
             "The more you have, the worse it is"
         ],
         "event": "Ludum Dare 40",
+        "shortEvent": "Ludum Dare",
         "date": "2017-12-02",
         "duration": 72,
         "engine": "Unity",
@@ -1510,6 +1546,7 @@
             "Waves"
         ],
         "event": "Global Game Jam 2017",
+        "shortEvent": "Global Game Jam",
         "date": "2017-01-20",
         "duration": 48,
         "engine": "Unity",
@@ -1537,6 +1574,7 @@
             "One Room"
         ],
         "event": "Ludum Dare 37",
+        "shortEvent": "Ludum Dare",
         "date": "2016-12-09",
         "duration": 72,
         "engine": "Unity",
