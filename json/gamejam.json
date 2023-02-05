@@ -20,7 +20,7 @@
         "nsfw": false,
         "rating": null,
         "stream": [],
-        "gameplay": []
+        "gameplay": [ "https://www.youtube.com/watch?v=QHcAmiX1TsM" ]
     },
     {
         "name": "YouAreFired",
