@@ -1406,11 +1406,11 @@
         "name": "NewSensations",
         "fullName": "New Sensations",
         "location": "Online",
-        "tags": [
+        "theme": [
             "What home means to you"
         ],
         "language": [ "English" ],
-        "genre": [],
+        "tags": [],
         "solo": false,
         "event": "Global Game Jam 2019",
         "shortEvent": "Global Game Jam",
