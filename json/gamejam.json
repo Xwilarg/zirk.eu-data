@@ -301,7 +301,7 @@
         "fullName": "Going Straight to the Point",
         "location": "Online",
         "theme": [],
-        "language": [ "English", "Polish" ],
+        "language": [ "English", "French" ],
         "tags": [ "Platformer" ],
         "solo": true,
         "event": "TF2Maps 72-Hour Summer Jam",
@@ -328,7 +328,7 @@
             "Heritage of Ukraine",
             "Economic and Social Cooperation in Eastern and Central Europe"
         ],
-        "language": [ "English" ],
+        "language": [ "English", "Polish" ],
         "tags": [],
         "solo": false,
         "event": "United With Ukraine Game Jam",
