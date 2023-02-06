@@ -6,6 +6,9 @@
         "theme": [
             "Roots"
         ],
+        "language": [ "English", "French" ],
+        "tags": [ "Platformer" ],
+        "solo": false,
         "event": "Global Game Jam 2023",
         "shortEvent": "Global Game Jam",
         "date": "2023-02-03",
@@ -29,6 +32,9 @@
         "theme": [
             "Termination"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": true,
         "event": "One Hour Game Jam",
         "shortEvent": "One Hour Game Jam",
         "date": "2022-12-24",
@@ -57,6 +63,9 @@
         "theme": [
             "Change of Plans"
         ],
+        "language": [ "English" ],
+        "tags": [ "Rhythm" ],
+        "solo": false,
         "event": "Bear Jams Fall 2022",
         "shortEvent": "Bear Jams",
         "date": "2022-10-29",
@@ -85,6 +94,9 @@
         "theme": [
             "Every 10 seconds"
         ],
+        "language": [ "English", "French" ],
+        "tags": [],
+        "solo": false,
         "event": "Ludum Dare 51",
         "shortEvent": "Ludum Dare",
         "date": "2022-09-31",
@@ -154,6 +166,9 @@
         "theme": [
             "Conquer"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "One Hour Game Jam",
         "shortEvent": "One Hour Game Jam",
         "date": "2022-09-17",
@@ -182,6 +197,9 @@
         "theme": [
             "The enemy is stupid... and needs help"
         ],
+        "language": [ "English" ],
+        "tags": [ "Local multiplayer", "Local versus" ],
+        "solo": false,
         "event": "Shitty Horror Game Jam",
         "shortEvent": "Shitty Horror Game Jam",
         "date": "2022-09-09",
@@ -254,6 +272,9 @@
         "theme": [
             "Alternative Movement"
         ],
+        "language": [ "English", "French" ],
+        "tags": [],
+        "solo": true,
         "event": "Monthly Scratch Jam #1",
         "shortEvent": "Monthly Scratch Jam",
         "date": "2022-09-03",
@@ -280,6 +301,9 @@
         "fullName": "Going Straight to the Point",
         "location": "Online",
         "theme": [],
+        "language": [ "English", "Polish" ],
+        "tags": [ "Platformer" ],
+        "solo": true,
         "event": "TF2Maps 72-Hour Summer Jam",
         "shortEvent": "TF2Maps 72-Hour Jam",
         "date": "2022-07-22",
@@ -304,6 +328,9 @@
             "Heritage of Ukraine",
             "Economic and Social Cooperation in Eastern and Central Europe"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "United With Ukraine Game Jam",
         "shortEvent": "United With Ukraine Game Jam",
         "date": "2022-07-09",
@@ -330,6 +357,9 @@
         "fullName": "Frog Quest",
         "location": "Online",
         "theme": [],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "Touhou Pride Game Jam 4",
         "shortEvent": "Touhou Pride Game Jam",
         "date": "2022-06-01",
@@ -399,6 +429,9 @@
         "theme": [
             "Time"
         ],
+        "language": [ "English", "French" ],
+        "tags": [ "Puzzle" ],
+        "solo": false,
         "event": "Game Boy Showdown",
         "shortEvent": "Game Boy Showdown",
         "date": "2022-05-22",
@@ -461,6 +494,9 @@
         "fullName": "DiNAsaur Time",
         "location": "Gothenburg, Sweden",
         "theme": [],
+        "language": [ "English", "French", "German", "Dutch", "Spanish" ],
+        "tags": [],
+        "solo": false,
         "event": "GBG Science Jam 2022",
         "shortEvent": "GBG Science Jam",
         "date": "2022-05-03",
@@ -489,6 +525,9 @@
         "theme": [
             "Only One"
         ],
+        "language": [ "English" ],
+        "tags": [ "Local multiplayer", "Local versus", "Shooter" ],
+        "solo": false,
         "event": "Mini Jame Gam #9",
         "shortEvent": "Mini Jame Gam",
         "date": "2022-04-22",
@@ -553,6 +592,9 @@
         "theme": [
             "It's not a bug!"
         ],
+        "language": [ "English" ],
+        "tags": [ "Platformer" ],
+        "solo": false,
         "event": "One Hour Game Jam",
         "shortEvent": "One Hour Game Jam",
         "date": "2022-04-09",
@@ -581,6 +623,9 @@
         "theme": [
             "Delay the inevitable"
         ],
+        "language": [ "English", "French", "Russian", "Dutch" ],
+        "tags": [],
+        "solo": false,
         "event": "Ludum Dare 50",
         "shortEvent": "Ludum Dare",
         "date": "2022-04-01",
@@ -650,6 +695,9 @@
         "theme": [
             "herd"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "One Hour Game Jam",
         "shortEvent": "One Hour Game Jam",
         "date": "2022-03-26",
@@ -676,6 +724,9 @@
         "fullName": "AcCELLère",
         "location": "Online",
         "theme": [],
+        "language": [ "English", "French" ],
+        "tags": [ "Racing" ],
+        "solo": false,
         "event": "Scientific Game Jam - Printemps 2022",
         "shortEvent": "Scientific Game Jam",
         "date": "2022-03-18",
@@ -704,6 +755,9 @@
         "theme": [
             "Mix it up!"
         ],
+        "language": [ "English" ],
+        "tags": [ "Puzzle" ],
+        "solo": false,
         "event": "GamesPlusJam 2022",
         "shortEvent": "GamesPlusJam",
         "date": "2022-03-11",
@@ -758,6 +812,9 @@
         "theme": [
             "Clouds"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "One Hour Game Jam",
         "shortEvent": "One Hour Game Jam",
         "date": "2022-03-05",
@@ -786,6 +843,9 @@
         "theme": [
             "Обманчивая простота"
         ],
+        "language": [ "English", "Russian", "French", "Dutch" ],
+        "tags": [],
+        "solo": false,
         "event": "Indie Varvar's Jam #1",
         "shortEvent": "Indie Varvar's Jam",
         "date": "2022-02-25",
@@ -845,6 +905,9 @@
         "theme": [
             "Aux fourneaux !"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "Game Anatomy Jam",
         "shortEvent": "Game Anatomy Jam",
         "date": "2022-02-18",
@@ -874,6 +937,9 @@
         "theme": [
             "Shapes and Colors"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "One Hour Game Jam",
         "shortEvent": "One Hour Game Jam",
         "date": "2022-01-29",
@@ -902,6 +968,9 @@
         "theme": [
             "Globe"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "Bean Jam #23",
         "shortEvent": "Bean Jam",
         "date": "2022-01-23",
@@ -972,6 +1041,9 @@
         "theme": [
             "Жестокость"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "Crystal Gamejam",
         "shortEvent": "Crystal Gamejam",
         "date": "2022-01-15",
@@ -1026,6 +1098,9 @@
         "theme": [
             "Unstable"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "Ludum Dare 49",
         "shortEvent": "Ludum Dare",
         "date": "2021-10-02",
@@ -1085,6 +1160,9 @@
         "theme": [
             "Alea jacta est"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "TUFRJAM2",
         "shortEvent": "TUFRJAM",
         "date": "2021-04-30",
@@ -1113,6 +1191,9 @@
         "theme": [
             "Deeper and Deeper"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "Ludum Dare 48",
         "shortEvent": "Ludum Dare",
         "date": "2021-04-24",
@@ -1141,6 +1222,9 @@
         "theme": [
             "Repair"
         ],
+        "language": [ "Japanese" ],
+        "tags": [ "Local multiplayer", "Local co-op" ],
+        "solo": false,
         "event": "Global Game Jam 2020",
         "shortEvent": "Global Game Jam",
         "date": "2020-01-31",
@@ -1169,6 +1253,9 @@
         "theme": [
             "You are the final boss"
         ],
+        "language": [ "English" ],
+        "tags": [ "Dungeon Keeper" ],
+        "solo": false,
         "event": "42Jam #2",
         "shortEvent": "42Jam",
         "date": "2019-11-30",
@@ -1233,6 +1320,9 @@
         "theme": [
             "Starry Night"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "Paint Jam",
         "shortEvent": "Paint Jam",
         "date": "2019-02-16",
@@ -1288,6 +1378,9 @@
         "theme": [
             "Intimacy"
         ],
+        "language": [ "English", "French", "Dutch" ],
+        "tags": [],
+        "solo": false,
         "event": "NSFW Valentines",
         "shortEvent": "NSFW Valentines",
         "date": "2019-02-08",
@@ -1313,9 +1406,12 @@
         "name": "NewSensations",
         "fullName": "New Sensations",
         "location": "Online",
-        "theme": [
+        "tags": [
             "What home means to you"
         ],
+        "language": [ "English" ],
+        "genre": [],
+        "solo": false,
         "event": "Global Game Jam 2019",
         "shortEvent": "Global Game Jam",
         "date": "2019-01-25",
@@ -1344,6 +1440,9 @@
         "theme": [
             "You're on the naughty list"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": false,
         "event": "Christmas Jam 2018",
         "shortEvent": "Christmas Jam",
         "date": "2018-12-22",
@@ -1399,6 +1498,9 @@
         "theme": [
             "Running out of Spaces"
         ],
+        "language": [ "English" ],
+        "tags": [ "Endless runner" ],
+        "solo": false,
         "event": "Ludum Dare 42",
         "shortEvent": "Ludum Dare",
         "date": "2018-08-11",
@@ -1463,6 +1565,9 @@
         "theme": [
             "Green Game"
         ],
+        "language": [ "English" ],
+        "tags": [ "asymmetric" ],
+        "solo": false,
         "event": "Sogeti Green X Games",
         "shortEvent": "Sogeti Green X Games",
         "date": "2018-06-15",
@@ -1486,6 +1591,9 @@
         "theme": [
             "Transmission"
         ],
+        "language": [ "English" ],
+        "tags": [ "asymmetric" ],
+        "solo": false,
         "event": "Global Game Jam 2018",
         "shortEvent": "Global Game Jam",
         "date": "2018-01-26",
@@ -1514,6 +1622,9 @@
         "theme": [
             "The more you have, the worse it is"
         ],
+        "language": [ "English" ],
+        "tags": [],
+        "solo": true,
         "event": "Ludum Dare 40",
         "shortEvent": "Ludum Dare",
         "date": "2017-12-02",
@@ -1568,6 +1679,9 @@
         "theme": [
             "Waves"
         ],
+        "language": [ "English" ],
+        "tags": [ "Platformer" ],
+        "solo": false,
         "event": "Global Game Jam 2017",
         "shortEvent": "Global Game Jam",
         "date": "2017-01-20",
@@ -1596,6 +1710,9 @@
         "theme": [
             "One Room"
         ],
+        "language": [ "English" ],
+        "tags": [ "Beat 'em up" ],
+        "solo": false,
         "event": "Ludum Dare 37",
         "shortEvent": "Ludum Dare",
         "date": "2016-12-09",
