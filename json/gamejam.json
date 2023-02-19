@@ -1043,7 +1043,7 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "solo": true,
         "event": "Crystal Gamejam",
         "shortEvent": "Crystal Gamejam",
         "date": "2022-01-15",
