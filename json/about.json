@@ -161,6 +161,16 @@
         "gameplay": "0p9XLte6GNU",
         "type": "Other"
     }, {
+        "name": "Mahjong Soul",
+        "store": {
+            "name": "Mahjong Soul",
+            "link": "https://mahjongsoul.yo-star.com/"
+        },
+        "links": [],
+        "video": null,
+        "gameplay": "XwQOSMcApDs",
+        "type": "Other"
+    }, {
         "name": "Kantai Collection",
         "store": {
             "name": "DMM",
@@ -180,7 +190,7 @@
             "type": "image"
         }, {
             "name": "AirSimulator",
-            "content": "https://aircalc.page.link/AYsS",
+            "content": "https://aircalc.page.link/zNb4",
             "type": "link"
         }],
         "video": "iVEpvp-NVvI",
@@ -203,10 +213,10 @@
         "type": "visual novel",
         "image": "Maitetsu.jpg"
     }, {
-        "name": "Kumo desu ga, Nani ka?",
-        "link": "https://anilist.co/manga/86406/Kumo-desu-ga-Nani-ka/",
-        "type": "light novel",
-        "image": "KumoDesuGa.jpg"
+        "name": "Ookami no Kawa wo Kabutta Hitsujihime",
+        "link": "https://anilist.co/manga/124885/Ookami-no-Kawa-wo-Kabutta-Hitsujihime/",
+        "type": "manga",
+        "image": "OokamiNoKawaWoKabuttaHitsujihime.jpg"
     }, {
         "name": "Anemone wa Netsu wo Obiru",
         "link": "https://anilist.co/manga/126722/Anemone-wa-Netsu-wo-Obiru/",
