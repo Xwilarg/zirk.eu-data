@@ -166,7 +166,11 @@
             "name": "Mahjong Soul",
             "link": "https://mahjongsoul.yo-star.com/"
         },
-        "links": [],
+        "links": [{
+            "name": "Profile (4P)",
+            "content": "data/img/about/Majsoul.jpg",
+            "type": "image"
+        }],
         "video": null,
         "gameplay": "XwQOSMcApDs",
         "type": "Other"
