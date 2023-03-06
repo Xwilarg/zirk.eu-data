@@ -8,7 +8,14 @@
         ],
         "language": [ "English", "French", "German", "Turkish" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "5F8995B77CE3ADD7E1E1D89F51401365",
+            "A1C7658239587962F162982B38926AD8",
+            "0EE34F45D65AD97BC8F94A276062FF51",
+            "3D58454CE541ABEF64EA078375AF70DB",
+            "F6E41F6D8F6F6D68C0122183C976CA3F",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "Bear Jams Spring 2023",
         "shortEvent": "Bear Jams",
         "date": "2023-03-04",
@@ -21,7 +28,12 @@
         ],
         "postModification": null,
         "nsfw": false,
-        "rating": null,
+        "rating": {
+            "entries": 18,
+            "entriesRated": null,
+            "totalRatingCount": null,
+            "scores": null
+        },
         "stream": [],
         "gameplay": []
     },
@@ -34,7 +46,13 @@
         ],
         "language": [ "English", "French" ],
         "tags": [ "Platformer" ],
-        "solo": false,
+        "team": [
+            "86E35E229931AC149CA674B12C09C2FB",
+            "C833038CF16E37422842F3887D8D6EE0",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "51C23E3CEC5D5B1E5000E37F5B5B5894",
+            "C47904A4C8DDC7918A29518E58F1FA0B"
+        ],
         "event": "Global Game Jam 2023",
         "shortEvent": "Global Game Jam",
         "date": "2023-02-03",
@@ -60,7 +78,9 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": true,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "One Hour Game Jam",
         "shortEvent": "One Hour Game Jam",
         "date": "2022-12-24",
@@ -91,7 +111,12 @@
         ],
         "language": [ "English" ],
         "tags": [ "Rhythm" ],
-        "solo": false,
+        "team": [
+            "EBB7B8C7B09372F858720F944DDC04E1",
+            "C833038CF16E37422842F3887D8D6EE0",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "21F58B60DEA020580B51ABD3F4F27864"
+        ],
         "event": "Bear Jams Fall 2022",
         "shortEvent": "Bear Jams",
         "date": "2022-10-29",
@@ -122,7 +147,14 @@
         ],
         "language": [ "English", "French" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "425AE4C554E7156EF670FDCA59C03F5A",
+            "A8C419ED88830EA032FAE614047BD5C7",
+            "186D80A0C3A0FE7F5080DF26ABE94AF5",
+            "6B154858526198F6294A5F8BE9DE313E",
+            "9D002A7D3E85D3C91F14005BEEA9CAE9",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "Ludum Dare 51",
         "shortEvent": "Ludum Dare",
         "date": "2022-09-31",
@@ -194,7 +226,10 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "EBB7B8C7B09372F858720F944DDC04E1",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "One Hour Game Jam",
         "shortEvent": "One Hour Game Jam",
         "date": "2022-09-17",
@@ -225,7 +260,12 @@
         ],
         "language": [ "English" ],
         "tags": [ "Local multiplayer", "Local versus" ],
-        "solo": false,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "FEDF01670508E80302573357546D9E09",
+            "A8A43A6991AFEE7A2EB373C523A6F780",
+            "21F58B60DEA020580B51ABD3F4F27864"
+        ],
         "event": "Shitty Horror Game Jam",
         "shortEvent": "Shitty Horror Game Jam",
         "date": "2022-09-09",
@@ -300,7 +340,9 @@
         ],
         "language": [ "English", "French" ],
         "tags": [],
-        "solo": true,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "Monthly Scratch Jam #1",
         "shortEvent": "Monthly Scratch Jam",
         "date": "2022-09-03",
@@ -329,7 +371,9 @@
         "theme": [],
         "language": [ "English", "French" ],
         "tags": [ "Platformer" ],
-        "solo": true,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "TF2Maps 72-Hour Summer Jam",
         "shortEvent": "TF2Maps 72-Hour Jam",
         "date": "2022-07-22",
@@ -356,7 +400,13 @@
         ],
         "language": [ "English", "Polish" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "813A71888E3E17BF7B30D1079F463BA2",
+            "25EC4406ABA2039135ABC8F286809BE1",
+            "F91BCBB3336654D48465E649597EBF61",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "697D44A7025F24527A1617390AE14D7D"
+        ],
         "event": "United With Ukraine Game Jam",
         "shortEvent": "United With Ukraine Game Jam",
         "date": "2022-07-09",
@@ -385,7 +435,17 @@
         "theme": [],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "3B1A92EE1F846788928A07D5BDD40076",
+            "9C15CBC6DDD7914F216C532317F4A4CB",
+            "442E1C026A58E1CD17046E9A09FD4905",
+            "7D84983ADB3FDCE4EAD73B5E47F33903",
+            "B1EDB465441AE79BA6482338AE4DE874",
+            "147BAF3B6DD87CD9E96D65E0792E59CD",
+            "F1B59095B19FA7A6640D1CBAF8A62F9E",
+            "BBDCCA6A6432ED7F9C8B13709C619588",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "Touhou Pride Game Jam 4",
         "shortEvent": "Touhou Pride Game Jam",
         "date": "2022-06-01",
@@ -457,7 +517,11 @@
         ],
         "language": [ "English", "French" ],
         "tags": [ "Puzzle" ],
-        "solo": false,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "C833038CF16E37422842F3887D8D6EE0",
+            "BBDCCA6A6432ED7F9C8B13709C619588"
+        ],
         "event": "Game Boy Showdown",
         "shortEvent": "Game Boy Showdown",
         "date": "2022-05-22",
@@ -522,7 +586,12 @@
         "theme": [],
         "language": [ "English", "French", "German", "Dutch", "Spanish" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "9C8A9AC980BF10F9B766746794C7A15B",
+            "EBB7B8C7B09372F858720F944DDC04E1",
+            "E1BABDB62FCBA28B1733C57E51C7B52E",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "GBG Science Jam 2022",
         "shortEvent": "GBG Science Jam",
         "date": "2022-05-03",
@@ -553,7 +622,14 @@
         ],
         "language": [ "English" ],
         "tags": [ "Local multiplayer", "Local versus", "Shooter" ],
-        "solo": false,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "C833038CF16E37422842F3887D8D6EE0",
+            "EBB7B8C7B09372F858720F944DDC04E1",
+            "29E81E974B76F5CCE811261DC15B5590",
+            "0470519D43A7ACEA0CDDE02DF5A258C8",
+            "01A7F1F653549FD862B257535F3272F7"
+        ],
         "event": "Mini Jame Gam #9",
         "shortEvent": "Mini Jame Gam",
         "date": "2022-04-22",
@@ -620,7 +696,10 @@
         ],
         "language": [ "English" ],
         "tags": [ "Platformer" ],
-        "solo": false,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "C833038CF16E37422842F3887D8D6EE0"
+        ],
         "event": "One Hour Game Jam",
         "shortEvent": "One Hour Game Jam",
         "date": "2022-04-09",
@@ -651,7 +730,14 @@
         ],
         "language": [ "English", "French", "Russian", "Dutch" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "13F75F8635A2FEDC6C975861A7012113",
+            "05D790613DCB0312DD0EFD42F387E6BA",
+            "C5F1B167CE449E7B79C78A12280350C6",
+            "EBB7B8C7B09372F858720F944DDC04E1",
+            "C833038CF16E37422842F3887D8D6EE0",
+            "7E3FB5BBD51D8F473B2DCACB6DA57DC8"
+        ],
         "event": "Ludum Dare 50",
         "shortEvent": "Ludum Dare",
         "date": "2022-04-01",
@@ -723,7 +809,10 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "C833038CF16E37422842F3887D8D6EE0"
+        ],
         "event": "One Hour Game Jam",
         "shortEvent": "One Hour Game Jam",
         "date": "2022-03-26",
@@ -752,7 +841,16 @@
         "theme": [],
         "language": [ "English", "French" ],
         "tags": [ "Racing" ],
-        "solo": false,
+        "team": [
+            "148245A0EC8288F2565FBC7968B73759",
+            "1863697A90A701AB1D7F8D4808CD109F",
+            "CE626990CC7E2E2898C2DC13C7A02DFA",
+            "F11D68990D07E5C867B514CDDE7F8830",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "3BBF195BDB1A76083795ED31E0DB2440",
+            "9FD9C930A217DCF0DC3E21BFA0546EFD",
+            "C1C92B02B037EFAC7DB2E1B2FBAAFB98"
+        ],
         "event": "Scientific Game Jam - Printemps 2022",
         "shortEvent": "Scientific Game Jam",
         "date": "2022-03-18",
@@ -783,7 +881,11 @@
         ],
         "language": [ "English" ],
         "tags": [ "Puzzle" ],
-        "solo": false,
+        "team": [
+            "EBB7B8C7B09372F858720F944DDC04E1",
+            "0A51F02DADEFFBCBCD97098C894B1EE7",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "GamesPlusJam 2022",
         "shortEvent": "GamesPlusJam",
         "date": "2022-03-11",
@@ -840,7 +942,10 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "442E1C026A58E1CD17046E9A09FD4905"
+        ],
         "event": "One Hour Game Jam",
         "shortEvent": "One Hour Game Jam",
         "date": "2022-03-05",
@@ -871,7 +976,16 @@
         ],
         "language": [ "English", "Russian", "French", "Dutch" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "C5F1B167CE449E7B79C78A12280350C6",
+            "B50AB7DBC682BE9EC571BC8BDB023504",
+            "A2B292B5CE6160E55ABBEF3D8343EB79",
+            "2E916BB72C097E3CA81C8C0DBB831743",
+            "68D934DCD1F4373055B2EC74705F3119",
+            "7E3FB5BBD51D8F473B2DCACB6DA57DC8",
+            "CA213A521CD977BF291D97CEEE941011"
+        ],
         "event": "Indie Varvar's Jam #1",
         "shortEvent": "Indie Varvar's Jam",
         "date": "2022-02-25",
@@ -933,7 +1047,13 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "A13C5CF0BE0B797D2B5533D161D84AE7",
+            "01A7F1F653549FD862B257535F3272F7",
+            "442E1C026A58E1CD17046E9A09FD4905",
+            "71ECC9B97DA25EAB60997F0A35E6F75F"
+        ],
         "event": "Game Anatomy Jam",
         "shortEvent": "Game Anatomy Jam",
         "date": "2022-02-18",
@@ -942,8 +1062,7 @@
         "github": "https://github.com/Xwilarg/Game-Anatomy-Jam",
         "website": "https://itch.io/jam/game-anatomy-jam/rate/1409591",
         "webgl": [
-            "https://gamejam.zirk.eu/NotAllHeroesWearSwords/index.html",
-            "https://zirk.itch.io/not-all-heroes-wear-swords"
+            "https://gamejam.zirk.eu/NotAllHeroesWearSwords/index.html"
         ],
         "postModification": null,
         "nsfw": false,
@@ -965,7 +1084,10 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "593AAD9DF24B472AF7034410B3692B3C",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "One Hour Game Jam",
         "shortEvent": "One Hour Game Jam",
         "date": "2022-01-29",
@@ -996,7 +1118,11 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "377F70723CFAFAF0A9A494441E1351F9",
+            "442E1C026A58E1CD17046E9A09FD4905"
+        ],
         "event": "Bean Jam #23",
         "shortEvent": "Bean Jam",
         "date": "2022-01-23",
@@ -1005,8 +1131,7 @@
         "github": "https://github.com/Xwilarg/BeanJam23",
         "website": "https://itch.io/jam/bean-jam-23/rate/1365339",
         "webgl": [
-            "https://gamejam.zirk.eu/GlobeTrotter/index.html",
-            "https://zirk.itch.io/globetrotter"
+            "https://gamejam.zirk.eu/GlobeTrotter/index.html"
         ],
         "postModification": null,
         "nsfw": false,
@@ -1069,7 +1194,9 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": true,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "Crystal Gamejam",
         "shortEvent": "Crystal Gamejam",
         "date": "2022-01-15",
@@ -1126,7 +1253,13 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "425AE4C554E7156EF670FDCA59C03F5A",
+            "A8C419ED88830EA032FAE614047BD5C7",
+            "186D80A0C3A0FE7F5080DF26ABE94AF5",
+            "29C1A6BAA5D956DAC948AA080A213BD5",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "Ludum Dare 49",
         "shortEvent": "Ludum Dare",
         "date": "2021-10-02",
@@ -1188,7 +1321,11 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "01A7F1F653549FD862B257535F3272F7",
+            "442E1C026A58E1CD17046E9A09FD4905"
+        ],
         "event": "TUFRJAM2",
         "shortEvent": "TUFRJAM",
         "date": "2021-04-30",
@@ -1219,7 +1356,14 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "A6CA1FA5D993CF8B1725A65015660A85",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "140F3F081771A4FAC6E1D0C9FC06525F",
+            "186D80A0C3A0FE7F5080DF26ABE94AF5",
+            "01A7F1F653549FD862B257535F3272F7",
+            "A8C419ED88830EA032FAE614047BD5C7"
+        ],
         "event": "Ludum Dare 48",
         "shortEvent": "Ludum Dare",
         "date": "2021-04-24",
@@ -1250,7 +1394,15 @@
         ],
         "language": [ "Japanese" ],
         "tags": [ "Local multiplayer", "Local co-op" ],
-        "solo": false,
+        "team": [
+            "600CF3B77B724A9286EE15D94A38DEC4",
+            "2D90DCBB259BF31DDEFE07F59DBCD6D1",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "FFF497298A7D446FB427CCD84D95C7A4",
+            "CCA3C62852C864B2CA39533E150BF60B",
+            "A3F700E1F291CC06BE645F54B13F67B7",
+            "3D5F5BDCA975E4B7DB08091AB146AF86"
+        ],
         "event": "Global Game Jam 2020",
         "shortEvent": "Global Game Jam",
         "date": "2020-01-31",
@@ -1281,7 +1433,12 @@
         ],
         "language": [ "English" ],
         "tags": [ "Dungeon Keeper" ],
-        "solo": false,
+        "team": [
+            "0C4AABD40402EED0B22FF44CC7052840",
+            "B50AB7DBC682BE9EC571BC8BDB023504",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "3FDDBB9C305A9D822159C0929C855D44"
+        ],
         "event": "42Jam #2",
         "shortEvent": "42Jam",
         "date": "2019-11-30",
@@ -1348,7 +1505,12 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "FE6DFDCE3E3EFBCE9CC44BD8B12FAB4C",
+            "98BBE2B87EBF8B4C3C397414F8E12EDC",
+            "9F8628912BDFA70A8C1823E12E4F4170",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "Paint Jam",
         "shortEvent": "Paint Jam",
         "date": "2019-02-16",
@@ -1357,8 +1519,7 @@
         "github": "https://github.com/Xwilarg/Paint-Jam",
         "website": "https://itch.io/jam/paint-jam-2019/rate/372107",
         "webgl": [
-            "https://gamejam.zirk.eu/Unity/index.html?jamName=larryTheSheepsMuseumInvasion",
-            "https://zirk.itch.io/larry-the-sheep-s-museum-invasion"
+            "https://gamejam.zirk.eu/Unity/index.html?jamName=larryTheSheepsMuseumInvasion"
         ],
         "postModification": null,
         "nsfw": false,
@@ -1406,7 +1567,14 @@
         ],
         "language": [ "English", "French", "Dutch" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "C04F14016F38F81A3A43C37DC3E7A841",
+            "1038E85237BD62DBD98A916B62FA41F4",
+            "B29949CEC0A304AA0BCB848FD0E0F9A0",
+            "E13E177BB23235A58BF55E2D51A68C8C",
+            "ADEE81BDDCB7BEAECFD8ED0D43DA276D",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "NSFW Valentines",
         "shortEvent": "NSFW Valentines",
         "date": "2019-02-08",
@@ -1437,7 +1605,13 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "59DAD1669099D09C399445C23043024C",
+            "5DD38D084F4BEF0295114E0672CAC75A",
+            "670900E742CE07807CD962ABF3223FF3",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "67B099A7061169C4C6C9620DC5ADB0E3"
+        ],
         "event": "Global Game Jam 2019",
         "shortEvent": "Global Game Jam",
         "date": "2019-01-25",
@@ -1468,7 +1642,11 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": false,
+        "team": [
+            "74CB22F76FFBE7CC13EF2743A6B8C4BF",
+            "CB9475E9561F8CEBBB03CEE1E9C60C83",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "Christmas Jam 2018",
         "shortEvent": "Christmas Jam",
         "date": "2018-12-22",
@@ -1477,8 +1655,7 @@
         "github": "https://github.com/Xwilarg/Jovial-Judgement",
         "website": "https://itch.io/jam/christmas-jam-2018/rate/349359",
         "webgl": [
-            "https://gamejam.zirk.eu/Unity/index.html?jamName=jovialJudgement",
-            "https://zirk.itch.io/jovial-jugement"
+            "https://gamejam.zirk.eu/Unity/index.html?jamName=jovialJudgement"
         ],
         "postModification": null,
         "nsfw": false,
@@ -1526,7 +1703,12 @@
         ],
         "language": [ "English" ],
         "tags": [ "Endless runner" ],
-        "solo": false,
+        "team": [
+            "E494D24D77DA1DFAABDDE4F9A100E9BD",
+            "B01CD8FB0FA6C336493E10B3E3A9E4D8",
+            "AFC3D3BEB68E907ABB772437667D2856",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "Ludum Dare 42",
         "shortEvent": "Ludum Dare",
         "date": "2018-08-11",
@@ -1593,7 +1775,13 @@
         ],
         "language": [ "English" ],
         "tags": [ "asymmetric" ],
-        "solo": false,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "278BA2A3CF10AFED48DFAEAB18F6F2E2",
+            "C95A6FBD872EF06D0E8B7344C332A859",
+            "A4DA94DF0C2E961BA22E31A20DA97CA9",
+            "01A7F1F653549FD862B257535F3272F7"
+        ],
         "event": "Sogeti Green X Games",
         "shortEvent": "Sogeti Green X Games",
         "date": "2018-06-15",
@@ -1619,7 +1807,17 @@
         ],
         "language": [ "English" ],
         "tags": [ "asymmetric" ],
-        "solo": false,
+        "team": [
+            "E61DDFB14B55B774CEA67CD2E6483430",
+            "DF17C05E77D0E834437E60E1E8EC90E7",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "DA8E20FC110AC7B63C92E5725162F36B",
+            "13F75F8635A2FEDC6C975861A7012113",
+            "2F7F30991D8AFE1FF6AA5BE7A343BE47",
+            "CF4AE4AAE81E655D5474C82307523470",
+            "3A2ACE268CB4FE5C331168C3435E7E6E",
+            "B4AC9008E7A6C6CD30FE0DA7387F640B"
+        ],
         "event": "Global Game Jam 2018",
         "shortEvent": "Global Game Jam",
         "date": "2018-01-26",
@@ -1650,7 +1848,9 @@
         ],
         "language": [ "English" ],
         "tags": [],
-        "solo": true,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+        ],
         "event": "Ludum Dare 40",
         "shortEvent": "Ludum Dare",
         "date": "2017-12-02",
@@ -1707,7 +1907,16 @@
         ],
         "language": [ "English" ],
         "tags": [ "Platformer" ],
-        "solo": false,
+        "team": [
+            "72B78BDABDA9AAC606838BF2419D64F0",
+            "9D1D0FFA07DAC830523B655F0327BDF4",
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "55B6F3CDAC26423AE474280116A83FA6",
+            "DB6976242F27CDD127D704B1727E9B60",
+            "13F75F8635A2FEDC6C975861A7012113",
+            "3A2ACE268CB4FE5C331168C3435E7E6E",
+            "225B8A13622073AD1D67B25F11A405FA"
+        ],
         "event": "Global Game Jam 2017",
         "shortEvent": "Global Game Jam",
         "date": "2017-01-20",
@@ -1738,7 +1947,12 @@
         ],
         "language": [ "English" ],
         "tags": [ "Beat 'em up" ],
-        "solo": false,
+        "team": [
+            "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+            "32C95820242B8D1AF90406881B14739A",
+            "ADEE81BDDCB7BEAECFD8ED0D43DA276D",
+            "13F75F8635A2FEDC6C975861A7012113"
+        ],
         "event": "Ludum Dare 37",
         "shortEvent": "Ludum Dare",
         "date": "2016-12-09",
