@@ -1,5 +1,31 @@
 [
     {
+        "name": "CritterCatcher",
+        "fullName": "Critter Catcher",
+        "location": "Online",
+        "theme": [
+            "INTO THE UNKNOWN"
+        ],
+        "language": [ "English", "French", "German", "Turkish" ],
+        "tags": [],
+        "solo": false,
+        "event": "Bear Jams Spring 2023",
+        "shortEvent": "Bear Jams Spring",
+        "date": "2023-03-04",
+        "duration": 45,
+        "engine": "Godot",
+        "github": "https://github.com/Xwilarg/CritterCatcher",
+        "website": "https://itch.io/jam/bear-jams-spring-2023/rate/1956226",
+        "webgl": [
+            "https://gamejam.zirk.eu/CritterCatcher/index.html"
+        ],
+        "postModification": null,
+        "nsfw": false,
+        "rating": null,
+        "stream": [],
+        "gameplay": []
+    },
+    {
         "name": "Carroot",
         "fullName": "Carroot",
         "location": "Evry, France",
