@@ -92,6 +92,19 @@
             "name": "サイコパスラヴ",
             "id": "CTPlzhJTdY4"
         }]
+    }, {
+        "name": "hololive",
+        "link": "https://hololive.hololivepro.com/en/music/",
+        "youtube": [{
+            "name": "P.E.T.",
+            "id": "wztmSx2_T6w"
+        }, {
+            "name": "オーバード",
+            "id": "O0aSJdN3mVY"
+        }, {
+            "name": "カミサマ・ネコサマ",
+            "id": "gA6Qf7iu8SE"
+        }]
     }],
     "games": [{
         "name": "Team Fortress 2",

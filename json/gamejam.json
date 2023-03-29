@@ -9,7 +9,39 @@
             "link": "https://loge0.itch.io/"
         }
     },
-    "jams": [{
+    "jams": [
+        {
+            "name": "MaitreDuDonjon",
+            "fullName": "Maître du Donjon",
+            "location": "Online",
+            "theme": [ "You are the Monster" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "C833038CF16E37422842F3887D8D6EE0",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "21F58B60DEA020580B51ABD3F4F27864",
+                "AD07165363408C105FEC50F46AFBFC7F",
+                "442E1C026A58E1CD17046E9A09FD4905",
+                "419C6EAE36109F8400215C0045508E11",
+                "93DA0E4DC6E7B5612101A6B622167EA7"
+            ],
+            "event": "Jame Gam #26",
+            "shortEvent": "Jame Gam",
+            "date": "2023-03-24",
+            "duration": 120,
+            "engine": "Unity",
+            "github": "https://github.com/Xwilarg/MaitreDuDonjon",
+            "website": "https://itch.io/jam/jame-gam-26/rate/1992351",
+            "webgl": [
+                "https://gamejam.zirk.eu/MaitreDuDonjon/index.html"
+            ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },{
             "name": "WigglingHunt",
             "fullName": "Wiggling Hunt",
             "location": "Strasbourg, France",
@@ -674,7 +706,7 @@
                 "01A7F1F653549FD862B257535F3272F7"
             ],
             "event": "Mini Jame Gam #9",
-            "shortEvent": "Mini Jame Gam",
+            "shortEvent": "Jame Gam",
             "date": "2022-04-22",
             "duration": 58.5,
             "engine": "Unity",
