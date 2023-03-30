@@ -108,6 +108,7 @@
     }],
     "games": [{
         "name": "Team Fortress 2",
+        "logo": "TF2.jpg",
         "store": {
             "name": "Steam",
             "link": "https://store.steampowered.com/app/440/Team_Fortress_2/"
@@ -122,6 +123,7 @@
         "type": "FPS"
     }, {
         "name": "Rainbow 6 Siege",
+        "logo": "R6.jpg",
         "store": {
             "name": "Steam",
             "link": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/"
@@ -136,6 +138,7 @@
         "type": "FPS"
     }, {
         "name": "Fire Emblem",
+        "logo": "FE.jpg",
         "store": {
             "name": "Nintendo (3 Houses)",
             "link": "https://www.nintendo.com/store/products/fire-emblem-three-houses-switch/"
@@ -150,6 +153,7 @@
         "type": "TRPG"
     }, {
         "name": "pop'n music",
+        "logo": "popn.jpg",
         "store": {
             "name": "Konami",
             "link": "https://www.konami.com/amusement/video/popn/"
@@ -164,6 +168,7 @@
         "type": "Rhythm"
     }, {
         "name": "Project Sekai",
+        "logo": "ProjectSekai.png",
         "store": {
             "name": "Sega",
             "link": "https://pjsekai.sega.jp/"
@@ -178,6 +183,7 @@
         "type": "Rhythm"
     }, {
         "name": "Wario Ware: D.I.Y.",
+        "logo": "WarioWare.jpg",
         "store": {
             "name": "Nintendo",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-DS/WarioWare-Do-It-Yourself-273542.html"
@@ -188,6 +194,7 @@
         "type": "Other"
     }, {
         "name": "Mahjong Soul",
+        "logo": "Majsoul.jpg",
         "store": {
             "name": "Mahjong Soul",
             "link": "https://mahjongsoul.yo-star.com/"
@@ -202,6 +209,7 @@
         "type": "Other"
     }, {
         "name": "Kantai Collection",
+        "logo": "KanColle.jpg",
         "store": {
             "name": "DMM",
             "link": "https://www.dmm.com/netgame/feature/kancolle.html"
@@ -224,6 +232,7 @@
         "type": "Other"
     }, {
         "name": "Long Live The Queen",
+        "logo": "LongLiveTheQueen.jpg",
         "store": {
             "name": "Steam",
             "link": "https://store.steampowered.com/app/251990/Long_Live_The_Queen/"
