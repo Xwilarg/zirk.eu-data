@@ -160,7 +160,7 @@
             "type": "link"
         }],
         "video": null,
-        "gameplay": null,
+        "gameplay": "4Qz5hZfl-ew",
         "type": "Rhythm"
     }, {
         "name": "Project Sekai: Colorful Stage",
@@ -213,10 +213,6 @@
         }, {
             "name": "Equipement List",
             "content": "data/img/about/KanColleEq.png",
-            "type": "image"
-        }, {
-            "name": "Inventory Minigame",
-            "content": "data/img/about/KanColleSheep.png",
             "type": "image"
         }, {
             "name": "AirSimulator",
