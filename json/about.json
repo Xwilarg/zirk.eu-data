@@ -32,12 +32,15 @@
         "link": "https://www.youtube.com/user/Tom106zany",
         "youtube": [{
             "name": "ドレミゴール",
+            "en": "Do-Re-Mi-Goal",
             "id": "R1u7oCJ8dK4"
         }, {
             "name": "ディープブルー",
+            "en": "Deep Blue",
             "id": "LXjoIE8T-OE"
         }, {
             "name": "レンドエンズ",
+            "en": "rEND enS",
             "id": "Xztk5j98FZs"
         }]
     }, {
@@ -45,12 +48,15 @@
         "link": "https://www.youtube.com/c/nanawoakariSMEJ",
         "youtube": [{
             "name": "ラブみ",
+            "en": "Lovemi",
             "id": "hKCPSpUiwec"
         }, {
             "name": "全部ホントで全部ウソ",
+            "en": "Zenbuhonto de Zenbuuso",
             "id": "SlBmv7w1VqY"
         }, {
             "name": "ベイビーあいへいちゅー",
+            "en": "Baby I Hate you",
             "id": "aprOk-w2lxE"
         }]
     }, {
@@ -58,12 +64,15 @@
         "link": "https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg",
         "youtube": [{
             "name": "いつかオトナになれるといいね。",
+            "en": "Would be nice if you grow up one day.",
             "id": "cp8UEv8i0lc"
         }, {
             "name": "ユトリ最強世代",
+            "en": "ユトリ最強世代",
             "id": "mkE607dZ0Gw"
         }, {
             "name": "アンダーキッズ",
+            "en": "Under Kids",
             "id": "TBoBfT-_sfM"
         }]
     }, {
@@ -71,12 +80,15 @@
         "link": "https://www.youtube.com/@HoneyWorksOFFICIAL",
         "youtube": [{
             "name": "ヒロインたるもの！",
+            "en": "Heroine tarumono",
             "id": "jb6AHqi0MbE"
         }, {
             "name": "大嫌いなはずだった。",
+            "en": "Daikirai na Hazu Datta.",
             "id": "zARhHJNrpnU"
         }, {
             "name": "Alive",
+            "en": "Alive",
             "id": "SgRV3IjmxTI"
         }]
     }, {
@@ -84,12 +96,15 @@
         "link": "https://www.youtube.com/channel/UC9AYHlE2OLcMlZJo3MBlfkQ",
         "youtube": [{
             "name": "ギザバ怪文書",
+            "en": "Gizaba Crazy Letter",
             "id": "rf-hjy8W2OI"
         }, {
             "name": "デッドマンズバラッド",
+            "en": "DEADMAN'S BALLAD",
             "id": "irp13ainb0E"
         }, {
             "name": "サイコパスラヴ",
+            "en": "PSYCHOPATH LoVE",
             "id": "CTPlzhJTdY4"
         }]
     }, {
@@ -97,12 +112,15 @@
         "link": "https://hololive.hololivepro.com/en/music/",
         "youtube": [{
             "name": "P.E.T.",
+            "en": "P.E.T.",
             "id": "wztmSx2_T6w"
         }, {
             "name": "オーバード",
+            "en": "Overd",
             "id": "O0aSJdN3mVY"
         }, {
             "name": "カミサマ・ネコサマ",
+            "en": "KAMISAMA・NEKOSAMA",
             "id": "gA6Qf7iu8SE"
         }]
     }],
