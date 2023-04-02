@@ -11,6 +11,36 @@
     },
     "jams": [
         {
+            "name": "Panotapecon",
+            "fullName": "Panotapecon",
+            "location": "Online",
+            "theme": [ "Break the rules" ],
+            "language": [ "English", "French" ],
+            "tags": [],
+            "team": [
+                "C833038CF16E37422842F3887D8D6EE0",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "8F07A13B461243651CB594BBF46A668A",
+                "93DA0E4DC6E7B5612101A6B622167EA7",
+                "BBDCCA6A6432ED7F9C8B13709C619588",
+                "2F40B6984ECEC0CCCBB3BCF751EB768E"
+            ],
+            "event": "Mini Jame Gam #16",
+            "shortEvent": "Jame Gam",
+            "date": "2023-03-31",
+            "duration": 55,
+            "engine": "Unity",
+            "github": "https://github.com/Xwilarg/Panotapecon",
+            "website": "https://itch.io/jam/mini-jame-gam-16/rate/1997611",
+            "webgl": [
+                "https://gamejam.zirk.eu/Panotapecon/index.html"
+            ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        }, {
             "name": "MaitreDuDonjon",
             "fullName": "Maître du Donjon",
             "location": "Online",
@@ -82,7 +112,7 @@
             },
             "stream": [],
             "gameplay": []
-        },{
+        }, {
             "name": "WigglingHunt",
             "fullName": "Wiggling Hunt",
             "location": "Strasbourg, France",
