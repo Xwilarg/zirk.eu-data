@@ -5,7 +5,7 @@
         "id": "Sanara",
         "description": "Top left: image search<br/>Bottom left: shiritori (Japanese associative word game)<br/>Right: text translation from image"
     },
-    "languages": [ "C#" ],
+    "languages": [ "C#", "JavaScript", "PHP" ],
     "links": [
         {
             "name": "Source Code",
@@ -26,7 +26,32 @@
     ],
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": true,
+    "highlight": {
+        "components": [{
+            "name": "Discord Bot",
+            "techDescription": "Made in C# with Discord.NET, uses Rethinkdb as a database and makes call to various API for the different services",
+            "description": [
+                "Discord Bot made for the VoIP software Discord",
+                "Its main features are:",
+                " - Games: Play games such as quizzes directly on Discord, support single player and multiplayer on versus and cooperation mode",
+                " - Subscriptions: Subscribe to a service to be informed",
+                " - Translations: Translate text in any language by providing either a sentence or an image",
+                "And various other commands such as image search, image/text generation, gather information about anime/manga/drama..."
+            ],
+            "languages": [ "C#" ]
+        }, {
+            "name": "Website",
+            "techDescription": "Made from scratch in HTML / CSS / JavaScript / PHP",
+            "description": [
+                "Website used to gather information such as:",
+                " - Command list, splitted by modules",
+                " - General stats about the bot, amount of server it is in, commands used, games played...",
+                " - Developer documentation, information on how to use the bot from its source code and contribute to it",
+                " - Gallery: Past images used for the bot"
+            ],
+            "languages": [ "PHP", "JavaScript" ]
+        }]
+    },
     "dates": {
         "start": "2017-08-28",
         "end": null
@@ -52,7 +77,7 @@
     ],
     "nsfw": false,
     "type": "Website",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2023-02-02",
         "end": null
@@ -78,7 +103,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2023-01-09",
         "end": null
@@ -103,7 +128,7 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2023-01-08",
         "end": null
@@ -132,7 +157,7 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2023-01-09",
         "end": null
@@ -186,7 +211,7 @@
     },
     "nsfw": false,
     "type": "Website",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2022-02-07",
         "end": "2022-10-06"
@@ -337,7 +362,7 @@
     },
     "nsfw": false,
     "type": "Library",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-09-08",
         "end": "2021-10-27"
@@ -367,7 +392,7 @@
     ],
     "nsfw": false,
     "type": "Library",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-05-03",
         "end": null
@@ -393,7 +418,7 @@
     },
     "nsfw": false,
     "type": "Library",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-04-10",
         "end": "2022-02-16"
@@ -419,7 +444,7 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-05-29",
         "end": null
@@ -449,7 +474,7 @@
     },
     "nsfw": false,
     "type": "Library",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-04-19",
         "end": "2021-09-01"
@@ -475,7 +500,7 @@
     },
     "nsfw": false,
     "type": "Flashpoint extension",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-04-04",
         "end": "2021-04-30"
@@ -502,7 +527,7 @@
     ],
     "nsfw": false,
     "type": "Android App",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-02-07",
         "end": "2021-12-20"
@@ -532,7 +557,7 @@
     ],
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-07-20",
         "end": "2021-12-21"
@@ -559,7 +584,7 @@
     ],
     "nsfw": false,
     "type": "Software",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-01-22",
         "end": "2019-02-03"
@@ -586,7 +611,7 @@
     ],
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2018-06-08",
         "end": "2020-09-03"
@@ -612,7 +637,7 @@
     },
     "nsfw": false,
     "type": "Script",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2018-12-30",
         "end": "2019-01-20"
@@ -638,7 +663,7 @@
     ],
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "End of 2016",
         "end": "End of 2016"
@@ -664,7 +689,7 @@
     ],
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2015",
         "end": "2016"
@@ -690,7 +715,7 @@
     ],
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "Around 2012",
         "end": "Around 2012"
@@ -716,7 +741,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2017-12-17",
         "end": "2018-03-04"
@@ -737,7 +762,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2017-11-09",
         "end": "2017-11-23"
@@ -763,7 +788,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2018-06-08",
         "end": "2018-10-04"
@@ -789,7 +814,7 @@
     },
     "nsfw": false,
     "type": "Software",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2018-12-29",
         "end": "2019-01-10"
@@ -810,7 +835,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-02-28",
         "end": "2019-03-03"
@@ -844,7 +869,7 @@
     },
     "nsfw": false,
     "type": "Website",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-04-02",
         "end": "2022-05-17"
@@ -870,7 +895,7 @@
     },
     "nsfw": false,
     "type": "Library",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-02-21",
         "end": "2019-08-09"
@@ -896,7 +921,7 @@
     },
     "nsfw": false,
     "type": "Website",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-08-12",
         "end": "2019-08-10"
@@ -922,7 +947,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-09-11",
         "end": "2019-09-24"
@@ -948,7 +973,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-11-18",
         "end": "2019-12-01"
@@ -974,7 +999,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-10-26",
         "end": "2019-12-26"
@@ -1000,7 +1025,7 @@
     },
     "nsfw": false,
     "type": "Software",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-01-21",
         "end": "2020-01-25"
@@ -1023,7 +1048,7 @@
     "image": null,
     "nsfw": false,
     "type": "Website",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-04-07",
         "end": "2020-02-19"
@@ -1049,7 +1074,7 @@
     },
     "nsfw": false,
     "type": "Robot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-03-02",
         "end": "2020-03-10"
@@ -1079,7 +1104,7 @@
     },
     "nsfw": false,
     "type": "Library",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-04-10",
         "end": "2020-05-01"
@@ -1105,7 +1130,7 @@
     },
     "nsfw": false,
     "type": "Script",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-06-30",
         "end": "2020-07-01"
@@ -1131,7 +1156,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-04-20",
         "end": "2020-07-13"
@@ -1154,7 +1179,7 @@
     "nsfw": false,
     "image": null,
     "type": "Script",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-04-03",
         "end": "2020-08-07"
@@ -1180,7 +1205,7 @@
     },
     "nsfw": false,
     "type": "Mobile Application",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-07-06",
         "end": "2020-10-22"
@@ -1201,7 +1226,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-07-24",
         "end": "2020-10-25"
@@ -1227,7 +1252,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-11-14",
         "end": "2020-11-28"
@@ -1253,7 +1278,7 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-11-22",
         "end": "2020-12-04"
@@ -1279,7 +1304,7 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-12-04",
         "end": "2020-12-04"
@@ -1305,7 +1330,7 @@
     },
     "nsfw": false,
     "type": "Website",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-09-21",
         "end": "2021-01-09"
@@ -1331,7 +1356,7 @@
     },
     "nsfw": false,
     "type": "Website",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-01-13",
         "end": "2021-01-19"
@@ -1357,7 +1382,7 @@
     },
     "nsfw": false,
     "type": "Website",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-12-10",
         "end": "2021-03-10"
@@ -1383,7 +1408,7 @@
     },
     "nsfw": false,
     "type": "Website",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-02-12",
         "end": "2021-03-28"
@@ -1409,7 +1434,7 @@
     },
     "nsfw": false,
     "type": "Website",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-04-02",
         "end": "2021-04-06"
@@ -1432,7 +1457,7 @@
     "image": null,
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-04-21",
         "end": "2021-04-22"
@@ -1453,7 +1478,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-05-08",
         "end": "2021-05-22"
@@ -1479,7 +1504,7 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-05-05",
         "end": "2021-07-12"
@@ -1505,7 +1530,7 @@
     },
     "nsfw": false,
     "type": "Software",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-07-09",
         "end": "2021-07-10"
@@ -1531,7 +1556,7 @@
     },
     "nsfw": false,
     "type": "Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-03-18",
         "end": "2021-07-28"
@@ -1557,7 +1582,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-11-06",
         "end": "2021-09-01"
@@ -1583,7 +1608,7 @@
     },
     "nsfw": true,
     "type": "Browser Extension",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-12-07",
         "end": "2021-09-22"
@@ -1609,7 +1634,7 @@
     },
     "nsfw": false,
     "type": "Software",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-09-15",
         "end": "2021-09-29"
@@ -1635,7 +1660,7 @@
     },
     "nsfw": false,
     "type": "Library",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2020-12-19",
         "end": "2021-11-01"
@@ -1658,7 +1683,7 @@
     "image": null,
     "nsfw": true,
     "type": "Library",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2018-08-08",
         "end": "2021-11-25"
@@ -1684,7 +1709,7 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2021-07-21",
         "end": "2021-11-26"
@@ -1710,7 +1735,7 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2018-11-29",
         "end": "2019-09-14"
@@ -1736,36 +1761,10 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2019-04-25",
         "end": "2019-07-19"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},
-{
-    "name": "Sanara Website",
-    "description": "Website of Sanara",
-    "languages": [ "JavaScript", "PHP" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Sanara-Website"
-        }
-    ],
-    "image": {
-        "id": "SanaraWebsite",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Website",
-    "highlight": false,
-    "dates": {
-        "start": "2019-04-29",
-        "end": null
     },
     "state": {
         "status": 0,
@@ -1788,7 +1787,7 @@
     },
     "nsfw": false,
     "type": "Software",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2022-03-15",
         "end": "2022-03-16"
@@ -1814,7 +1813,7 @@
     },
     "nsfw": false,
     "type": "Browser Extension",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2022-04-13",
         "end": "2022-04-14"
@@ -1840,7 +1839,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2022-03-28",
         "end": null
@@ -1866,7 +1865,7 @@
     },
     "nsfw": false,
     "type": "Website",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2018-08-14",
         "end": "2022-04-16"
@@ -1897,7 +1896,7 @@
     "image": null,
     "nsfw": false,
     "type": "Website",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2018",
         "end": null
@@ -1918,7 +1917,7 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "Q1 2019",
         "end": "Q1 2019"
@@ -1944,7 +1943,7 @@
     },
     "nsfw": false,
     "type": "Video Game",
-    "highlight": false,
+    "highlight": null,
     "dates": {
         "start": "2022-09-15",
         "end": "2022-09-24"
