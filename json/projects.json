@@ -25,10 +25,10 @@
         }
     ],
     "nsfw": false,
-    "type": "Website",
-    "highlight": false,
+    "type": "Discord Bot",
+    "highlight": true,
     "dates": {
-        "start": "2023-02-02",
+        "start": "2017-08-28",
         "end": null
     },
     "state": {
@@ -51,10 +51,10 @@
         }
     ],
     "nsfw": false,
-    "type": "Discord Bot",
-    "highlight": true,
+    "type": "Website",
+    "highlight": false,
     "dates": {
-        "start": "2017-08-28",
+        "start": "2023-02-02",
         "end": null
     },
     "state": {
