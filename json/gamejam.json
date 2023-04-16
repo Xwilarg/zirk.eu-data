@@ -11,6 +11,38 @@
     },
     "jams": [
         {
+            "name": "FUUUUUUUU Dogs",
+            "fullName": "FUUUUUUUUDogs",
+            "location": "Copenhagen, Denmark",
+            "theme": [ "Dark matter, Fu Dog, Enthusiasm" ],
+            "language": [ "English", "French", "Spanish", "Italian" ],
+            "tags": [ "Local co-op" ],
+            "team": [
+                "0BEF70BCFF2B4BDFE2BC1DF6192D6324",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "BC2B666788F5B9B33714C9BC81AA97EF",
+                "E25E9FBD7D3BF8BB40D9A8CD53A727A5",
+                "E827E8B3DEFF3E95CA53C48F24CA72C6",
+                "1948E3EF9A94F2B1E5F1B0562F93185E",
+                "C833038CF16E37422842F3887D8D6EE0"
+            ],
+            "event": "Nordic Game Jam 2023",
+            "shortEvent": "Nordic Game Jam",
+            "date": "2023-04-14",
+            "duration": 48,
+            "engine": "Unity",
+            "github": "https://github.com/Xwilarg/fuuuuuuuu-dogs",
+            "website": "https://itch.io/jam/nordic-game-jam-2023/rate/2019715",
+            "webgl": [
+                "https://gamejam.zirk.eu/FUUUUUUUUDogs/index.html"
+            ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "Panotapecon",
             "fullName": "Panotapecon",
             "location": "Online",
