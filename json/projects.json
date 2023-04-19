@@ -62,6 +62,49 @@
     }
 },
 {
+    "name": "Euphonia",
+    "description": "Website to host and play your music",
+    "languages": [ "JavaScript", "PHP", "Python", "Kotlin" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Euphonia"
+        }
+    ],
+    "image": {
+        "id": "Euphonia",
+        "description": "Example of the website with a music playing. Top right: Preview from mobile notification"
+    },
+    "nsfw": false,
+    "type": "Website",
+    "highlight": {
+        "components": [{
+            "name": "Website",
+            "techDescription": "Made from scratch in HTML / CSS / JavaScript",
+            "description": [
+                "Display musics splitted into playlist and allow to play them in a random order",
+                "Have a few others features such as a search bar or a way to switch to minimalist mode"
+            ],
+            "languages": [ "JavaScript" ]
+        }, {
+            "name": "Android App",
+            "techDescription": "Made in Kotlin with Android Studio",
+            "description": [
+                "Download the data for offline use and allow to play the musics"
+            ],
+            "languages": [ "Kotlin" ]
+        }]
+    },
+    "dates": {
+        "start": "2021-11-25",
+        "end": null
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
     "name": "Shika",
     "description": "Analytics tool",
     "image": {
@@ -244,32 +287,6 @@
     "highlight": true,
     "dates": {
         "start": "2022-08-25",
-        "end": null
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},
-{
-    "name": "Euphonia",
-    "description": "Website to host and play your music",
-    "languages": [ "JavaScript", "PHP", "Python", "Kotlin" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Euphonia"
-        }
-    ],
-    "image": {
-        "id": "Euphonia",
-        "description": "Example of the website with a music playing. Top right: Preview from mobile notification"
-    },
-    "nsfw": false,
-    "type": "Website",
-    "highlight": true,
-    "dates": {
-        "start": "2021-11-25",
         "end": null
     },
     "state": {
