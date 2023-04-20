@@ -229,7 +229,7 @@
     },
     "nsfw": false,
     "type": "Game",
-    "highlight": true,
+    "highlight": false,
     "dates": {
         "start": "2022-11-13",
         "end": null
@@ -284,7 +284,7 @@
     },
     "nsfw": false,
     "type": "Website",
-    "highlight": true,
+    "highlight": false,
     "dates": {
         "start": "2022-08-25",
         "end": null
@@ -314,7 +314,7 @@
     ],
     "nsfw": true,
     "type": "Web Extension",
-    "highlight": true,
+    "highlight": false,
     "dates": {
         "start": "2018-09-04",
         "end": null
@@ -353,7 +353,7 @@
     ],
     "nsfw": true,
     "type": "Library",
-    "highlight": true,
+    "highlight": false,
     "dates": {
         "start": "2018-07-16",
         "end": null
