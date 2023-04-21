@@ -187,7 +187,7 @@
             "content": "https://github.com/Xwilarg/FIP-Discord/"
         },
         {
-            "name": "Invite Link",
+            "name": "Invitation Link",
             "content": "https://discord.com/oauth2/authorize?client_id=1062043607252606976&permissions=3145728&scope=bot%20applications.commands"
         }
     ],
