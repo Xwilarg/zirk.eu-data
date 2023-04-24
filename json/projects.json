@@ -16,6 +16,10 @@
             "content": "https://sanara.zirk.eu"
         },
         {
+            "name": "top.gg",
+            "content": "https://top.gg/bot/329664361016721408"
+        },
+        {
             "name": "Invitation Link",
             "content": "https://discord.com/oauth2/authorize?client_id=329664361016721408&permissions=51264&scope=bot%20applications.commands"
         },
@@ -450,6 +454,10 @@
         {
             "name": "Source Code",
             "content": "https://github.com/Xwilarg/Pina"
+        },
+        {
+            "name": "top.gg",
+            "content": "https://top.gg/bot/583314556848308261"
         }
     ],
     "image": {
@@ -567,6 +575,10 @@
         {
             "name": "Invitation Link",
             "content": "https://discord.com/oauth2/authorize?client_id=734788725388869742&permissions=3196928&scope=bot"
+        },
+        {
+            "name": "top.gg",
+            "content": "https://top.gg/bot/734788725388869742"
         }
     ],
     "nsfw": false,
