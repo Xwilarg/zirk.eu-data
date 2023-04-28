@@ -195,6 +195,10 @@
             "name": "Profile",
             "content": "data/img/about/ProjectSekai.png",
             "type": "image"
+        }, {
+            "name": "Ranked",
+            "content": "data/img/about/ProjectSekaiRank.jpg",
+            "type": "image"
         }],
         "video": null,
         "gameplay": "P8m0NCsK-dQ",
