@@ -15,6 +15,37 @@
     },
     "jams": [
         {
+            "name": "OtherworldlyDelivery",
+            "fullName": "Otherworldly Delivery",
+            "location": "Online",
+            "theme": [ "Delivery" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+            ],
+            "event": "Ludum Dare 53",
+            "shortEvent": "Ludum Dare",
+            "date": "2023-04-29",
+            "duration": 48,
+            "engine": "Unity",
+            "github": "https://github.com/Xwilarg/OtherworldlyDelivery",
+            "website": "",
+            "webgl": [
+                "https://gamejam.zirk.eu/OtherworldlyDelivery/index.html"
+            ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": {
+                "entries": null,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "FUUUUUUUUDogs",
             "fullName": "FUUUUUUUU Dogs",
             "location": "Copenhagen, Denmark",
