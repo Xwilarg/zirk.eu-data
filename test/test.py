@@ -55,7 +55,7 @@ class TestMethods(unittest.TestCase):
     def test_gamejam(self):
         with open('./json/gamejam.json', 'r', encoding='utf-8') as file:
             j = json.loads(file.read())
-            for elem in j:
+            for elem in j["jams"]:
                 if elem["github"] is not None:
                     self.do_request(elem["github"])
                 if elem["website"] is not None:
