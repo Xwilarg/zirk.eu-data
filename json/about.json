@@ -28,7 +28,8 @@
         }]
     },
     "music": [{
-        "name": "KINEMA106",
+        "name": "キネマ106",
+        "en": "KINEMA106",
         "link": "https://www.youtube.com/user/Tom106zany",
         "youtube": [{
             "name": "ドレミゴール",
@@ -45,6 +46,7 @@
         }]
     }, {
         "name": "ナナヲアカリ",
+        "en": "Nanawoakari",
         "link": "https://www.youtube.com/c/nanawoakariSMEJ",
         "youtube": [{
             "name": "ラブみ",
@@ -61,15 +63,16 @@
         }]
     }, {
         "name": "ツユ",
+        "en": "TUYU",
         "link": "https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg",
         "youtube": [{
             "name": "いつかオトナになれるといいね。",
             "en": "Would be nice if you grow up one day.",
             "id": "cp8UEv8i0lc"
         }, {
-            "name": "ユトリ最強世代",
-            "en": "ユトリ最強世代",
-            "id": "mkE607dZ0Gw"
+            "name": "アンダーヒロイン",
+            "en": "Under Heroine",
+            "id": "mHnt8TVbC9M"
         }, {
             "name": "アンダーキッズ",
             "en": "Under Kids",
@@ -77,6 +80,7 @@
         }]
     }, {
         "name": "HoneyWorks",
+        "en": "HoneyWorks",
         "link": "https://www.youtube.com/@HoneyWorksOFFICIAL",
         "youtube": [{
             "name": "ヒロインたるもの！",
@@ -93,6 +97,7 @@
         }]
     }, {
         "name": "cosMo@暴走P",
+        "en": "cosMo@Bousou-P",
         "link": "https://www.youtube.com/channel/UC9AYHlE2OLcMlZJo3MBlfkQ",
         "youtube": [{
             "name": "ギザバ怪文書",
@@ -108,7 +113,8 @@
             "id": "CTPlzhJTdY4"
         }]
     }, {
-        "name": "hololive",
+        "name": "ホロライブ",
+        "en": "hololive",
         "link": "https://hololive.hololivepro.com/en/music/",
         "youtube": [{
             "name": "P.E.T.",
