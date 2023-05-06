@@ -83,9 +83,9 @@
         "en": "HoneyWorks",
         "link": "https://www.youtube.com/@HoneyWorksOFFICIAL",
         "youtube": [{
-            "name": "ヒロインたるもの！",
-            "en": "Heroine tarumono",
-            "id": "jb6AHqi0MbE"
+            "name": "可愛くてごめん",
+            "en": "Kawaikute Gomen",
+            "id": "K4xLi8IF1FM"
         }, {
             "name": "大嫌いなはずだった。",
             "en": "Daikirai na Hazu Datta.",
@@ -113,6 +113,57 @@
             "id": "CTPlzhJTdY4"
         }]
     }, {
+        "name": "森羅万象",
+        "en": "Shinra-Bansho",
+        "link": "https://www.youtube.com/@Shinrabansho_music/",
+        "youtube": [{
+            "name": "ヒューマノイドレギオン",
+            "en": "Humanoid Legion",
+            "id": "2NR0QZznEJM"
+        }, {
+            "name": "無間嫉妬劇場『666』",
+            "en": "Netaminity Theater[666]",
+            "id": "TPjAsus_bZo"
+        }, {
+            "name": "キラメキ居残り大戦争",
+            "en": "Kirameki Inokori Daisensou",
+            "id": "pMXRWurZenY"
+        }]
+    }, {
+        "name": "ウォルピス社",
+        "en": "Wolpis Carter",
+        "link": "https://www.youtube.com/channel/UCrFREdqSkLslvG2BpYpZHmg",
+        "youtube": [{
+            "name": "素っ頓狂な夜が来る",
+            "en": "Madness Night",
+            "id": "DiiD3pR0hEs"
+        }, {
+            "name": "泥中に咲く",
+            "en": "Blooming in the Mud",
+            "id": "40dJS_LC6S8"
+        }, {
+            "name": "1％",
+            "en": "1％",
+            "id": "vvGq429iHjk"
+        }]
+    }, {
+        "name": "AKINO from bless4",
+        "en": "AKINO from bless4",
+        "link": "http://bless4.jp/",
+        "youtube": [{
+            "name": "海色",
+            "en": "Miiro",
+            "id": "IZ5UB9abD-c"
+        }, {
+            "name": "エクストラマジックアワー",
+            "en": "Extra Magic Hour",
+            "id": "E6Fi15JaQ1k"
+        }, {
+            "name": "君の神話 ～アクエリオン第二章",
+            "en": "Kimi no Shinwa ~ Aquarion Dai 2 Shou",
+            "id": "P4oTsUz0aIY"
+        }]
+    }, {
         "name": "ホロライブ",
         "en": "hololive",
         "link": "https://hololive.hololivepro.com/en/music/",
@@ -125,9 +176,43 @@
             "en": "Overd",
             "id": "O0aSJdN3mVY"
         }, {
-            "name": "カミサマ・ネコサマ",
-            "en": "KAMISAMA・NEKOSAMA",
-            "id": "gA6Qf7iu8SE"
+            "name": "ペルソナ",
+            "en": "PERSONA",
+            "id": "g-K6PJi7b0o"
+        }]
+    }, {
+        "name": "MARINA",
+        "en": null,
+        "link": "https://www.youtube.com/channel/UCO_hWjivU900eBRkSQNtlAw",
+        "youtube": [{
+            "name": "Purge The Poison",
+            "en": null,
+            "id": "W5u3kP85LYI"
+        }, {
+            "name": "Seventeen",
+            "en": null,
+            "id": "TPAZe6bMk2o"
+        }, {
+            "name": "The Family Jewels",
+            "en": null,
+            "id": "sxKExvAujeg"
+        }]
+    }, {
+        "name": "Les Fatals Picards",
+        "en": null,
+        "link": "https://www.youtube.com/channel/UCO_hWjivU900eBRkSQNtlAw",
+        "youtube": [{
+            "name": "Le Combat Ordinaire",
+            "en": null,
+            "id": "VvFWGkz6CF4"
+        }, {
+            "name": "Française des jeux",
+            "en": null,
+            "id": "BWgq3eGu93k"
+        }, {
+            "name": "La nouille à l'air",
+            "en": null,
+            "id": "xlwpdH0zX5Q"
         }]
     }],
     "games": [{
@@ -229,7 +314,11 @@
         },
         "links": [{
             "name": "Profile (4P)",
-            "content": "data/img/about/Majsoul.jpg",
+            "content": "data/img/about/Majsoul4P.jpg",
+            "type": "image"
+        }, {
+            "name": "Profile (3P)",
+            "content": "data/img/about/Majsoul3P.jpg",
             "type": "image"
         }],
         "video": null,
