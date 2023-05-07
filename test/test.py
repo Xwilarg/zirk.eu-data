@@ -12,6 +12,8 @@ class TestMethods(unittest.TestCase):
 
         if url.startswith("https://www.youtube.com"):
             self.assertTrue(x.status_code in [200, 302], f"Invalid link {url} returned {x.status_code}")
+        elif url.startswith("https://globalgamejam.org"): # Cloudflare
+            self.assertEqual(x.status_code, 302, f"Invalid link {url}")
         elif  url.startswith("https://projectflower.eu"): # Project flower need login so by default it redirect to main page
             self.assertEqual(x.status_code, 302, f"Invalid link {url}")
         elif url.startswith("https://aircalc.page.link"): # Load data then redirect to https://noro6.github.io/kc-web/#/manager
