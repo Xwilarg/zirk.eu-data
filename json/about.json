@@ -147,23 +147,6 @@
             "id": "vvGq429iHjk"
         }]
     }, {
-        "name": "AKINO from bless4",
-        "en": "AKINO from bless4",
-        "link": "http://bless4.jp/",
-        "youtube": [{
-            "name": "海色",
-            "en": "Miiro",
-            "id": "IZ5UB9abD-c"
-        }, {
-            "name": "エクストラマジックアワー",
-            "en": "Extra Magic Hour",
-            "id": "E6Fi15JaQ1k"
-        }, {
-            "name": "君の神話 ～アクエリオン第二章",
-            "en": "Kimi no Shinwa ~ Aquarion Dai 2 Shou",
-            "id": "P4oTsUz0aIY"
-        }]
-    }, {
         "name": "ホロライブ",
         "en": "hololive",
         "link": "https://hololive.hololivepro.com/en/music/",
@@ -181,38 +164,21 @@
             "id": "g-K6PJi7b0o"
         }]
     }, {
-        "name": "MARINA",
-        "en": null,
-        "link": "https://www.youtube.com/channel/UCO_hWjivU900eBRkSQNtlAw",
+        "name": "Others",
+        "en": "Others",
+        "link": null,
         "youtube": [{
-            "name": "Purge The Poison",
-            "en": null,
-            "id": "W5u3kP85LYI"
+            "name": "魔崇華麗奴 (FAKE TYPE.)",
+            "en": "Masquerade (FAKE TYPE.)",
+            "id": "yC1lS1mlenc"
         }, {
-            "name": "Seventeen",
-            "en": null,
-            "id": "TPAZe6bMk2o"
+            "name": "アイドル (YOASOBI)",
+            "en": "Idol (YOASOBI)",
+            "id": "ZRtdQ81jPUQ"
         }, {
-            "name": "The Family Jewels",
-            "en": null,
-            "id": "sxKExvAujeg"
-        }]
-    }, {
-        "name": "Les Fatals Picards",
-        "en": null,
-        "link": "https://www.youtube.com/channel/UCO_hWjivU900eBRkSQNtlAw",
-        "youtube": [{
-            "name": "Le Combat Ordinaire",
-            "en": null,
-            "id": "VvFWGkz6CF4"
-        }, {
-            "name": "Française des jeux",
-            "en": null,
-            "id": "BWgq3eGu93k"
-        }, {
-            "name": "La nouille à l'air",
-            "en": null,
-            "id": "xlwpdH0zX5Q"
+            "name": "海色 (AKINO from bless4)",
+            "en": "Miiro (AKINO from bless4)",
+            "id": "IZ5UB9abD-c"
         }]
     }],
     "games": [{
