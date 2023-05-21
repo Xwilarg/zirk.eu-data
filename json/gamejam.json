@@ -78,44 +78,44 @@
                 "totalRatingCount": null,
                 "scores": {
                     "Overall": {
-                        "rank": 638,
-                        "score": 3.474,
-                        "ratingCount": 21
+                        "rank": 343,
+                        "score": 3.043,
+                        "ratingCount": 25
                     },
                     "Fun": {
-                        "rank": 354,
-                        "score": 3.632,
-                        "ratingCount": 21
+                        "rank": 351,
+                        "score": 2.783,
+                        "ratingCount": 25
                     },
                     "Innovation": {
-                        "rank": 915,
-                        "score": 2.921,
-                        "ratingCount": 21
+                        "rank": 160,
+                        "score": 3.477,
+                        "ratingCount": 24
                     },
                     "Theme": {
-                        "rank": 1024,
-                        "score": 3.079,
-                        "ratingCount": 21
+                        "rank": 248,
+                        "score": 3.696,
+                        "ratingCount": 25
                     },
                     "Graphics": {
-                        "rank": 576,
-                        "score": 3.632,
-                        "ratingCount": 21
+                        "rank": 376,
+                        "score": 2.565,
+                        "ratingCount": 25
                     },
                     "Audio": {
-                        "rank": 294,
-                        "score": 3.632,
-                        "ratingCount": 21
+                        "rank": 302,
+                        "score": 2.609,
+                        "ratingCount": 25
                     },
                     "Humor": {
-                        "rank": 71,
-                        "score": 4.079,
-                        "ratingCount": 21
+                        "rank": 65,
+                        "score": 3.659,
+                        "ratingCount": 24
                     },
                     "Mood": {
-                        "rank": 397,
-                        "score": 3.639,
-                        "ratingCount": 20
+                        "rank": 320,
+                        "score": 2.818,
+                        "ratingCount": 24
                     }
                 }
             },
