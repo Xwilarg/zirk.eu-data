@@ -11,9 +11,41 @@
         "EBB7B8C7B09372F858720F944DDC04E1": {
             "name": "Jadith",
             "link": null
+        },
+        "AC7EEDA7ACF39B61E8F1D02E06EF0C2A": {
+            "name": "TheIndra",
+            "link": "https://theindra.eu/"
         }
     },
     "jams": [
+        {
+            "name": "QuantumRanger",
+            "fullName": "Quantum Ranger",
+            "location": "Online",
+            "theme": [ "Quantum Jump" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "AC7EEDA7ACF39B61E8F1D02E06EF0C2A",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "EBB7B8C7B09372F858720F944DDC04E1",
+                "903CCD4B6AE6D0AFB0A073097B1DAF90"
+            ],
+            "event": "4MB Jam 2023",
+            "shortEvent": "4MB Jam",
+            "eventCategory": null,
+            "date": "2023-05-01",
+            "duration": 744,
+            "engine": "Direct X",
+            "github": "https://github.com/Xwilarg/QuantumJump",
+            "website": "https://itch.io/jam/4mb-jam-2023/rate/2095910",
+            "webgl": [],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
         {
             "name": "FlowerInTheMud",
             "fullName": "Flower in the Mud",
