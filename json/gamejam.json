@@ -72,7 +72,18 @@
             "webgl": [],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 12,
+                "entriesRated": 12,
+                "totalRatingCount": null,
+                "scores": {
+                    "Overall": {
+                        "rank": 7,
+                        "score": 8.2,
+                        "ratingCount": null
+                    }
+                }
+            },
             "stream": [],
             "gameplay": []
         },

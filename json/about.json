@@ -62,23 +62,6 @@
             "id": "aprOk-w2lxE"
         }]
     }, {
-        "name": "ツユ",
-        "en": "TUYU",
-        "link": "https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg",
-        "youtube": [{
-            "name": "いつかオトナになれるといいね。",
-            "en": "Would be nice if you grow up one day.",
-            "id": "cp8UEv8i0lc"
-        }, {
-            "name": "アンダーヒロイン",
-            "en": "Under Heroine",
-            "id": "mHnt8TVbC9M"
-        }, {
-            "name": "アンダーキッズ",
-            "en": "Under Kids",
-            "id": "TBoBfT-_sfM"
-        }]
-    }, {
         "name": "HoneyWorks",
         "en": "HoneyWorks",
         "link": "https://www.youtube.com/@HoneyWorksOFFICIAL",
@@ -151,16 +134,16 @@
         "en": "hololive",
         "link": "https://hololive.hololivepro.com/en/music/",
         "youtube": [{
-            "name": "P.E.T.",
-            "en": "P.E.T.",
+            "name": "P.E.T. (沙花叉クロヱ)",
+            "en": "P.E.T. (Sakamata Chloe)",
             "id": "wztmSx2_T6w"
         }, {
-            "name": "オーバード",
-            "en": "Overd",
-            "id": "O0aSJdN3mVY"
+            "name": "ばかばっか (鷹嶺ルイ)",
+            "en": "Fools Fools Fools (Takane Lui)",
+            "id": "By8x65oteIw"
         }, {
-            "name": "ペルソナ",
-            "en": "PERSONA",
+            "name": "ペルソナ (尾丸ポルカ)",
+            "en": "PERSONA (Omaru Polka)",
             "id": "g-K6PJi7b0o"
         }]
     }, {
@@ -179,6 +162,23 @@
             "name": "悪くないもん (ミルグラム / ムウ)",
             "en": "It's Not My Fault (MILGRAM / Mu)",
             "id": "xl-TuKghSuA"
+        }]
+    }, {
+        "name": "",
+        "en": "",
+        "link": null,
+        "youtube": [{
+            "name": "いつかオトナになれるといいね。 (ツユ)",
+            "en": "Would be nice if you grow up one day. (TUYU)",
+            "id": "cp8UEv8i0lc"
+        }, {
+            "name": "絶対敵対メチャキライヤー (ミクと可不)",
+            "en": "Unfriendly Hater (Meddmia)",
+            "id": "kGDWVV_1do4"
+        }, {
+            "name": "Be The MUSIC! (プロジェクトセカイ)",
+            "en": "Be The MUSIC! (Project SEKAI)",
+            "id": "mZI9HEVh6Yw"
         }]
     }],
     "games": [{
