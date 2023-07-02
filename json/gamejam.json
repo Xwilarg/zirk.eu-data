@@ -19,6 +19,37 @@
     },
     "jams": [
         {
+            "name": "UnderbeatMelodyOfMight",
+            "fullName": "Underbeat: Melody of Might",
+            "location": "Online",
+            "theme": [],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "9328CF19CF005E57052A485C47489778",
+                "90D1D15701F5625E9410C41F6A89DDEC",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "B8C356F48790A425CB1E987382E695EF",
+                "3B596DBD1E0BFB11DCC011BA4A3A530A"
+            ],
+            "event": "furry game jam 2023",
+            "shortEvent": "furry game jam",
+            "eventCategory": null,
+            "date": "2023-06-01",
+            "duration": 768,
+            "engine": "Unity",
+            "github": null,
+            "website": "https://itch.io/jam/furry-game-jam/rate/2142304",
+            "webgl": [
+                "https://gamejam.zirk.eu/UnderbeatMelodyOfMight/index.html"
+            ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "IceColdInsanity",
             "fullName": "Ice Cold Insanity",
             "location": "Online",
@@ -44,8 +75,13 @@
             "webgl": [],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
-            "stream": [],
+            "rating": {
+                "entries": 31,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
+            "stream": [ "https://www.twitch.tv/videos/1859675584?t=00h09m40s" ],
             "gameplay": []
         },
         {
