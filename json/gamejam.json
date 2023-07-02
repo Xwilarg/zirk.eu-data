@@ -22,7 +22,7 @@
             "name": "UnderbeatMelodyOfMight",
             "fullName": "Underbeat: Melody of Might",
             "location": "Online",
-            "theme": [],
+            "theme": [ "Combo" ],
             "language": [ "English" ],
             "tags": [],
             "team": [
