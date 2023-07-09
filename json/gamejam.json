@@ -19,6 +19,43 @@
     },
     "jams": [
         {
+            "name": "FaeBay",
+            "fullName": "Fae Bay",
+            "location": "Online",
+            "theme": [ "Roles Reversed" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "716E0E3D0D64FA9A572D405F27CDED0B",
+                "B1B9DA59D6B45496F439358744397B22",
+                "65568FA5DA8453D9DB27AD0A3F8894C7",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "EBB7B8C7B09372F858720F944DDC04E1",
+                "442E1C026A58E1CD17046E9A09FD4905",
+                "A4247CC532534770F760490979439E70",
+                "CDE2C5272FE6B24D991AD0208EB5CEE1"
+            ],
+            "event": "GMTK Game Jam 2023",
+            "shortEvent": "GMTK Game Jam",
+            "eventCategory": null,
+            "date": "2023-07-07",
+            "duration": 48,
+            "engine": "Unreal Engine",
+            "github": null,
+            "website": "https://itch.io/jam/gmtk-2023/rate/2158854",
+            "webgl": [],
+            "postModification": null,
+            "nsfw": false,
+            "rating": {
+                "entries": null,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "UnderbeatMelodyOfMight",
             "fullName": "Underbeat: Melody of Might",
             "location": "Online",
