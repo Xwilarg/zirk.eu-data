@@ -5,15 +5,15 @@ import json
 class TestMethods(unittest.TestCase):
 
     def do_request(self, url):
-        if url.startswith("https://www.nuget.org"): # NuGet returns 404 for HEAD request on package page
+        if url.startswith("https://www.nuget.org") or url.startswith("https://www.twitch.tv"): # NuGet returns 404 for HEAD request on package page
             x = requests.get(url)
         else:
             x = requests.head(url)
 
         if url.startswith("https://www.youtube.com"):
             self.assertTrue(x.status_code in [200, 302], f"Invalid link {url} returned {x.status_code}")
-        elif url.startswith("https://globalgamejam.org"): # Cloudflare
-            self.assertEqual(x.status_code, 302, f"Invalid link {url}")
+        elif url.startswith("https://globalgamejam.org") or url.startswith("https://top.gg"): # Cloudflare
+            self.assertEqual(x.status_code, 403, f"Invalid link {url}")
         elif  url.startswith("https://projectflower.eu"): # Project flower need login so by default it redirect to main page
             self.assertEqual(x.status_code, 302, f"Invalid link {url}")
         elif url.startswith("https://aircalc.page.link"): # Load data then redirect to https://noro6.github.io/kc-web/#/manager
@@ -37,7 +37,8 @@ class TestMethods(unittest.TestCase):
                 for l in j["social"][c]:
                     self.do_request(l["link"])
             for l in j["music"]:
-                self.do_request(l["link"])
+                if l["link"] is not None:
+                    self.do_request(l["link"])
                 for l2 in l["youtube"]:
                     self.do_request(f"https://www.youtube.com/watch?v={l2['id']}")
             for l in j["games"]:
