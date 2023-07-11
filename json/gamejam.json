@@ -635,7 +635,7 @@
             "duration": 45,
             "engine": "Godot",
             "github": "https://github.com/Xwilarg/TheShadowOfBearrintown",
-            "version": "3",
+            "version": "3.5.1",
             "website": "https://itch.io/jam/bear-jams-fall-2022/rate/1769963",
             "webgl": [
                 "https://gamejam.zirk.eu/TheShadowOfBearrintown/index.html"
@@ -791,7 +791,7 @@
             "duration": 72,
             "engine": "Godot",
             "github": "https://github.com/Xwilarg/EscapeTheCrunch",
-            "version": "3",
+            "version": "3.5.0",
             "website": "https://itch.io/jam/shitty-horror-game-jam/rate/1699024",
             "webgl": [],
             "postModification": null,
