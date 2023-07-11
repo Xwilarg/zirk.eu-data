@@ -41,6 +41,7 @@
             "date": "2023-07-07",
             "duration": 48,
             "engine": "Unreal Engine",
+            "version": "5.2",
             "github": null,
             "website": "https://itch.io/jam/gmtk-2023/rate/2158854",
             "webgl": [],
@@ -75,6 +76,7 @@
             "date": "2023-06-01",
             "duration": 768,
             "engine": "Unity",
+            "version": "2022.2.21f1",
             "github": null,
             "website": "https://itch.io/jam/furry-game-jam/rate/2142304",
             "webgl": [
@@ -112,6 +114,7 @@
             "date": "2023-06-01",
             "duration": 336,
             "engine": "Unity",
+            "version": "2022.2.21f1",
             "github": null,
             "website": "https://itch.io/jam/touhou-pride-5/rate/2114859",
             "webgl": [],
@@ -144,7 +147,8 @@
             "eventCategory": null,
             "date": "2023-05-01",
             "duration": 744,
-            "engine": "Direct X",
+            "engine": "DirectX",
+            "version": "9",
             "github": "https://github.com/Xwilarg/QuantumJump",
             "website": "https://itch.io/jam/4mb-jam-2023/rate/2095910",
             "webgl": [],
@@ -184,6 +188,7 @@
             "date": "2023-04-01",
             "duration": 1056,
             "engine": "Unity",
+            "version": "2021.3.12f1",
             "github": null,
             "website": "https://itch.io/jam/blossom-vn-jam-2023/rate/2068307",
             "webgl": [
@@ -216,6 +221,7 @@
             "date": "2023-04-29",
             "duration": 48,
             "engine": "Unity",
+            "version": "2022.2.16f1",
             "github": "https://github.com/Xwilarg/OtherworldlyDelivery",
             "website": "https://ldjam.com/events/ludum-dare/53/otherworldly-delivery",
             "webgl": [
@@ -295,6 +301,7 @@
             "date": "2023-04-14",
             "duration": 48,
             "engine": "Unity",
+            "version": "2022.2.15f1",
             "github": "https://github.com/Xwilarg/fuuuuuuuu-dogs",
             "website": "https://itch.io/jam/nordic-game-jam-2023/rate/2019715",
             "webgl": [
@@ -332,6 +339,7 @@
             "date": "2023-03-31",
             "duration": 55,
             "engine": "Unity",
+            "version": "2022.2.12f1",
             "github": "https://github.com/Xwilarg/Panotapecon",
             "website": "https://itch.io/jam/mini-jame-gam-16/rate/1997611",
             "webgl": [
@@ -405,6 +413,7 @@
             "date": "2023-03-24",
             "duration": 120.5,
             "engine": "Unity",
+            "version": "2022.2.12f1",
             "github": "https://github.com/Xwilarg/MaitreDuDonjon",
             "website": "https://itch.io/jam/jame-gam-26/rate/1992351",
             "webgl": [
@@ -476,6 +485,7 @@
             "date": "2023-03-10",
             "duration": 48,
             "engine": "Unity",
+            "version": "2022.2.10f1",
             "github": "https://github.com/Xwilarg/WigglingHunt",
             "website": "https://itch.io/jam/scientific-game-jam-printemps-2023/rate/1966123",
             "webgl": [
@@ -515,6 +525,7 @@
             "date": "2023-03-04",
             "duration": 45,
             "engine": "Godot",
+            "version": "4.0",
             "github": "https://github.com/Xwilarg/CritterCatcher",
             "website": "https://itch.io/jam/bear-jams-spring-2023/rate/1956226",
             "webgl": [
@@ -555,6 +566,7 @@
             "date": "2023-02-03",
             "duration": 48,
             "engine": "Unity",
+            "version": "2022.2.5f1",
             "github": "https://github.com/Xwilarg/Carroot",
             "website": "https://globalgamejam.org/2023/games/carroot-5",
             "webgl": [
@@ -584,6 +596,7 @@
             "date": "2022-12-24",
             "duration": 1,
             "engine": "Unity",
+            "version": "2022.1.23f1",
             "github": "https://github.com/Xwilarg/OneHourJam400",
             "website": "https://onehourgamejam.com/?page=jam&jam=400",
             "webgl": [
@@ -622,6 +635,7 @@
             "duration": 45,
             "engine": "Godot",
             "github": "https://github.com/Xwilarg/TheShadowOfBearrintown",
+            "version": "3",
             "website": "https://itch.io/jam/bear-jams-fall-2022/rate/1769963",
             "webgl": [
                 "https://gamejam.zirk.eu/TheShadowOfBearrintown/index.html"
@@ -660,6 +674,7 @@
             "date": "2022-09-31",
             "duration": 72,
             "engine": "Unity",
+            "version": "2022.2.0b4",
             "github": "https://github.com/BionomeeX/LudumDare51",
             "website": "https://ldjam.com/events/ludum-dare/51/nachoverflow",
             "webgl": [
@@ -736,6 +751,7 @@
             "date": "2022-09-17",
             "duration": 1,
             "engine": "Unity",
+            "version": "2022.2.0b4",
             "github": "https://github.com/Xwilarg/OneHourJam386",
             "website": "https://onehourgamejam.com/?page=jam&jam=386",
             "webgl": [
@@ -775,6 +791,7 @@
             "duration": 72,
             "engine": "Godot",
             "github": "https://github.com/Xwilarg/EscapeTheCrunch",
+            "version": "3",
             "website": "https://itch.io/jam/shitty-horror-game-jam/rate/1699024",
             "webgl": [],
             "postModification": null,
@@ -852,6 +869,7 @@
             "date": "2022-09-03",
             "duration": 36,
             "engine": "Scratch",
+            "version": null,
             "github": "https://scratch.mit.edu/projects/727826287/editor/",
             "website": "https://itch.io/jam/best-coding-language-jam/rate/1691304",
             "webgl": [
@@ -884,6 +902,7 @@
             "date": "2022-07-22",
             "duration": 72,
             "engine": "Unity",
+            "version": "2021.2.19f1",
             "github": "https://github.com/Xwilarg/GoingStraightToThePoint",
             "website": "https://tf2maps.net/downloads/going-straight-to-the-point.14272/",
             "webgl": [
@@ -918,6 +937,7 @@
             "date": "2022-07-09",
             "duration": 41,
             "engine": "Unity",
+            "version": "2022.1.8f1",
             "github": "https://github.com/Xwilarg/KupalaNight",
             "website": "https://gamejolt.com/c/UnitedwithUkraine-vauaz4/submit#entry-2091",
             "webgl": [
@@ -958,6 +978,7 @@
             "date": "2022-06-01",
             "duration": 744,
             "engine": "Unity",
+            "version": "2022.1.3f1",
             "github": "https://github.com/Xwilarg/FrogQuest/",
             "website": "https://itch.io/jam/touhou-pride-4/rate/1595766",
             "webgl": [
@@ -1035,6 +1056,7 @@
             "date": "2022-05-22",
             "duration": 168,
             "engine": "GB Studio",
+            "version": "3.0.0",
             "github": "https://github.com/Xwilarg/DontWasteYourTime",
             "website": "https://itch.io/jam/game-boy-showdown/rate/1550843",
             "webgl": [
@@ -1106,6 +1128,7 @@
             "date": "2022-05-03",
             "duration": 48,
             "engine": "Unity",
+            "version": "2021.3.2f1",
             "github": "https://github.com/Xwilarg/DiNAsaurTime",
             "website": "https://itch.io/jam/science-jam-gbg/rate/1520599",
             "webgl": [
@@ -1145,6 +1168,7 @@
             "date": "2022-04-22",
             "duration": 58.5,
             "engine": "Unity",
+            "version": "2021.3.0f1",
             "github": "https://github.com/Xwilarg/anomaly.exe",
             "website": "https://itch.io/jam/mini-jame-gam-9/rate/1500749",
             "webgl": [
@@ -1216,6 +1240,7 @@
             "date": "2022-04-09",
             "duration": 1,
             "engine": "Unity",
+            "version": "2021.2.16f1",
             "github": "https://github.com/Xwilarg/OneHourJam363",
             "website": "https://onehourgamejam.com/?page=jam&jam=363",
             "webgl": [
@@ -1256,6 +1281,7 @@
             "date": "2022-04-01",
             "duration": 72,
             "engine": "Unity",
+            "version": "2021.2.16f1",
             "github": "https://github.com/Xwilarg/DemainSeraBien",
             "website": "https://ldjam.com/events/ludum-dare/50/$288628",
             "webgl": [
@@ -1332,6 +1358,7 @@
             "date": "2022-03-26",
             "duration": 1,
             "engine": "Unity",
+            "version": "2021.2.16f1",
             "github": "https://github.com/Xwilarg/OneHourJam361",
             "website": "https://onehourgamejam.com/?page=jam&jam=361",
             "webgl": [
@@ -1371,6 +1398,7 @@
             "date": "2022-03-18",
             "duration": 48,
             "engine": "Unity",
+            "versions": "2021.2.16f1",
             "github": "https://github.com/Xwilarg/ScientificGameJam",
             "website": "https://itch.io/jam/scientific-game-jam-spring-2022/rate/1448850",
             "webgl": [
@@ -1407,6 +1435,7 @@
             "date": "2022-03-11",
             "duration": 48,
             "engine": "Unity",
+            "version": "2021.2.14f1",
             "github": "https://github.com/Xwilarg/GraphysCrypt/",
             "website": "https://itch.io/jam/gamesplusjam2022/rate/1440233",
             "webgl": [
@@ -1468,6 +1497,7 @@
             "date": "2022-03-05",
             "duration": 1,
             "engine": "Unity",
+            "version": "2021.2.12f1",
             "github": "https://github.com/Xwilarg/OneHourGameJam358/",
             "website": "https://onehourgamejam.com/?page=jam&jam=358",
             "webgl": [
@@ -1509,6 +1539,7 @@
             "date": "2022-02-25",
             "duration": 72,
             "engine": "Unity",
+            "version": "2021.2.12f1",
             "github": "https://github.com/Xwilarg/Under",
             "website": "https://itch.io/jam/indie-varvars-jam-1/rate/1421267",
             "webgl": [
@@ -1578,6 +1609,7 @@
             "date": "2022-02-18",
             "duration": 56,
             "engine": "Unity",
+            "version": "2021.2.12f1",
             "github": "https://github.com/Xwilarg/Game-Anatomy-Jam",
             "website": "https://itch.io/jam/game-anatomy-jam/rate/1409591",
             "webgl": [
@@ -1613,6 +1645,7 @@
             "date": "2022-01-29",
             "duration": 1,
             "engine": "Unity",
+            "version": "2021.2.9f1",
             "github": "https://github.com/Xwilarg/OneHourGameJam353",
             "website": "https://onehourgamejam.com/?page=jam&jam=353",
             "webgl": [
@@ -1649,6 +1682,7 @@
             "date": "2022-01-23",
             "duration": 3,
             "engine": "Unity",
+            "version": "2021.2.7f1",
             "github": "https://github.com/Xwilarg/BeanJam23",
             "website": "https://itch.io/jam/bean-jam-23/rate/1365339",
             "webgl": [
@@ -1724,6 +1758,7 @@
             "date": "2022-01-15",
             "duration": 5,
             "engine": "Unity",
+            "version": "2021.2.7f1",
             "github": "https://github.com/Xwilarg/Crystal-Gamejam",
             "website": "https://itch.io/jam/crystal-gamejam/rate/1354761",
             "webgl": [
@@ -1788,6 +1823,7 @@
             "date": "2021-10-02",
             "duration": 72,
             "engine": "Unity",
+            "version": "2022.1.0a9",
             "github": "https://github.com/BionomeeX/LudumDare49",
             "website": "https://ldjam.com/events/ludum-dare/49/escape-from-space",
             "webgl": [
@@ -1855,6 +1891,7 @@
             "date": "2021-04-30",
             "duration": 48,
             "engine": "Unity",
+            "version": "2021.1.4f1",
             "github": "https://github.com/Xwilarg/TUFRJAM2",
             "website": "https://www.jam.tutounity.fr/jeu-details.php?id=140",
             "webgl": [
@@ -1894,6 +1931,7 @@
             "date": "2021-04-24",
             "duration": 72,
             "engine": "Unity",
+            "version": "2021.1.4f1",
             "github": "https://github.com/BionomeeX/LudumDare48",
             "website": "https://ldjam.com/events/ludum-dare/48/nautilus-1",
             "webgl": [
@@ -1934,6 +1972,7 @@
             "date": "2020-01-31",
             "duration": 48,
             "engine": "Unity",
+            "version": "2019.3.0f6",
             "github": "https://github.com/TORISOUP/GGJ2020_Akiba_team2",
             "website": "https://globalgamejam.org/2020/games/rrr-remove-reuse-repair-0",
             "webgl": [
@@ -1971,6 +2010,7 @@
             "date": "2019-11-30",
             "duration": 48,
             "engine": "Unity",
+            "version": "2019.2.8f1",
             "github": "https://github.com/Xwilarg/42Jam/",
             "website": "https://itch.io/jam/42jam-2/rate/527252",
             "webgl": [
@@ -2044,6 +2084,7 @@
             "date": "2019-02-16",
             "duration": 48,
             "engine": "Unity",
+            "version": "2018.3.5f1",
             "github": "https://github.com/Xwilarg/Paint-Jam",
             "website": "https://itch.io/jam/paint-jam-2019/rate/372107",
             "webgl": [
@@ -2109,6 +2150,7 @@
             "date": "2019-02-08",
             "duration": 72,
             "engine": "Unity",
+            "version": "2018.3.5f1",
             "github": "https://github.com/Xwilarg/NSFWValentinesJam",
             "website": "https://itch.io/jam/nsfw-valentines/rate/369107",
             "webgl": [
@@ -2147,6 +2189,7 @@
             "date": "2019-01-25",
             "duration": 48,
             "engine": "Unreal Engine",
+            "version": "4.21",
             "github": "https://github.com/Xwilarg/Global-Game-Jam-2019",
             "website": "https://globalgamejam.org/2019/games/new-sensations",
             "webgl": [
@@ -2183,6 +2226,7 @@
             "date": "2018-12-22",
             "duration": 48,
             "engine": "Unity",
+            "version": "2018.3.0f2",
             "github": "https://github.com/Xwilarg/Jovial-Judgement",
             "website": "https://itch.io/jam/christmas-jam-2018/rate/349359",
             "webgl": [
@@ -2246,6 +2290,7 @@
             "date": "2018-08-11",
             "duration": 72,
             "engine": "Unity",
+            "version": "2018.2.3f1",
             "github": "https://github.com/Xwilarg/Ludum-Dare-42",
             "website": "https://ldjam.com/events/ludum-dare/42/tofdsdfsftpdrrodwl",
             "webgl": [
@@ -2320,6 +2365,7 @@
             "date": "2018-06-15",
             "duration": 48,
             "engine": "Unity",
+            "version": "2018.1.4f1",
             "github": "https://github.com/Xwilarg/Manchaud",
             "website": null,
             "webgl": [
@@ -2357,6 +2403,7 @@
             "date": "2018-01-26",
             "duration": 48,
             "engine": "Unity",
+            "version": "2017.3.0f3",
             "github": "https://github.com/Xwilarg/HadipoRun",
             "website": "https://globalgamejam.org/2018/games/hadiporun",
             "webgl": [
@@ -2391,6 +2438,7 @@
             "date": "2017-12-02",
             "duration": 72,
             "engine": "Unity",
+            "version": "2017.1.1f1",
             "github": "https://github.com/Xwilarg/LudumDare40",
             "website": "https://ldjam.com/events/ludum-dare/40/powerdown",
             "webgl": [
@@ -2458,6 +2506,7 @@
             "date": "2017-01-20",
             "duration": 48,
             "engine": "Unity",
+            "version": "5.5.0f3",
             "github": null,
             "website": "https://globalgamejam.org/2017/games/tales-layinskia",
             "webgl": [
@@ -2495,6 +2544,7 @@
             "date": "2016-12-09",
             "duration": 72,
             "engine": "Unity",
+            "version": "5.5.0f3",
             "github": "https://github.com/Hinara/LudumDare",
             "website": "https://web.archive.org/web/20210227130840/http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=123799",
             "webgl": [
