@@ -122,9 +122,50 @@
             "nsfw": false,
             "rating": {
                 "entries": 31,
-                "entriesRated": null,
-                "totalRatingCount": null,
-                "scores": null
+                "entriesRated": 31,
+                "totalRatingCount": 984,
+                "scores": {
+                    "Challenge": {
+                        "rank": 5,
+                        "score": 3.939,
+                        "ratingCount": 33
+                    },
+                    "Gameplay": {
+                        "rank": 8,
+                        "score": 3.818,
+                        "ratingCount": 33
+                    },
+                    "Audio": {
+                        "rank": 10,
+                        "score": 3.788,
+                        "ratingCount": 33
+                    },
+                    "Story / Writing": {
+                        "rank": 16,
+                        "score": 3.091,
+                        "ratingCount": 33
+                    },
+                    "Visuals": {
+                        "rank": 16,
+                        "score": 3.667,
+                        "ratingCount": 33
+                    },
+                    "Overall": {
+                        "rank": 17,
+                        "score": 3.545,
+                        "ratingCount": 33
+                    },
+                    "Use of LGBT Themes": {
+                        "rank": 19,
+                        "score": 2.818,
+                        "ratingCount": 33
+                    },
+                    "Concept": {
+                        "rank": 21,
+                        "score": 3.424,
+                        "ratingCount": 33
+                    }
+                }
             },
             "stream": [ "https://www.twitch.tv/videos/1859675584?t=00h09m40s" ],
             "gameplay": []
