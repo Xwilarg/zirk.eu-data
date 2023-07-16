@@ -193,6 +193,10 @@
         {
             "name": "Invitation Link",
             "content": "https://discord.com/oauth2/authorize?client_id=1062043607252606976&permissions=3145728&scope=bot%20applications.commands"
+        },
+        {
+            "name": "top.gg",
+            "content": "https://top.gg/bot/1062043607252606976"
         }
     ],
     "image": {
