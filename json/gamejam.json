@@ -48,10 +48,31 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": null,
-                "entriesRated": null,
-                "totalRatingCount": null,
-                "scores": null
+                "entries": 6842,
+                "entriesRated": 6738,
+                "totalRatingCount": 160479,
+                "scores": {
+                    "Creativity": {
+                        "rank": 5442,
+                        "score": 2.079,
+                        "ratingCount": 7
+                    },
+                    "Presentation": {
+                        "rank": 5715,
+                        "score": 1.795,
+                        "ratingCount": 7
+                    },
+                    "Overall": {
+                        "rank": 5760,
+                        "score": 1.827,
+                        "ratingCount": 7
+                    },
+                    "Enjoyment": {
+                        "rank": 5800,
+                        "score": 1.606,
+                        "ratingCount": 7
+                    }
+                }
             },
             "stream": [],
             "gameplay": []
