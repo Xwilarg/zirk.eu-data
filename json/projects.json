@@ -71,6 +71,10 @@
     "languages": [ "JavaScript", "PHP", "Python", "Kotlin" ],
     "links": [
         {
+            "name": "Demo",
+            "content": "https://euphonia.zirk.eu"
+        },
+        {
             "name": "Source Code",
             "content": "https://github.com/Xwilarg/Euphonia"
         }
