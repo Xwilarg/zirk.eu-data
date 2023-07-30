@@ -19,6 +19,44 @@
     },
     "jams": [
         {
+            "name": "TankNPower",
+            "fullName": "Tank'n Power",
+            "location": "Online",
+            "theme": [ "Combo" ],
+            "language": [ "English", "French" ],
+            "tags": [],
+            "team": [
+                "1C1F3750848AFE746A511151E57D4A67",
+                "93DA0E4DC6E7B5612101A6B622167EA7",
+                "01B01A3BD804E96646A19517BF02A51F",
+                "50EE4FBAF5161F54C3482CB93C4D20BF",
+                "5211A678F3C264AFE6C42E5229C13408",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+            ],
+            "event": "First GameNite Jam",
+            "shortEvent": "GameNite Jam",
+            "eventCategory": null,
+            "date": "2023-06-29",
+            "duration": 48,
+            "engine": "Unity",
+            "version": "2021.3.28f1",
+            "github": "https://github.com/Xwilarg/FirstGameNiteJam",
+            "website": "https://itch.io/jam/first-gamenite-jam/rate/2195952",
+            "webgl": [
+                "https://gamejam.zirk.eu/TankNPower/index.html"
+            ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": {
+                "entries": null,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "FaeBay",
             "fullName": "Fae Bay",
             "location": "Online",
