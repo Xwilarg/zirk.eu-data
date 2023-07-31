@@ -22,7 +22,7 @@
             "name": "TankNPower",
             "fullName": "Tank'n Power",
             "location": "Online",
-            "theme": [ "Combo" ],
+            "theme": [ "Decoys and Deception" ],
             "language": [ "English", "French" ],
             "tags": [],
             "team": [
@@ -48,13 +48,13 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": null,
+                "entries": 2,
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
             },
             "stream": [],
-            "gameplay": []
+            "gameplay": [ "https://youtu.be/LBxSKPA6rpo" ]
         },
         {
             "name": "FaeBay",
