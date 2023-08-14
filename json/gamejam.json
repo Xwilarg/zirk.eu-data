@@ -49,12 +49,18 @@
             "nsfw": false,
             "rating": {
                 "entries": 2,
-                "entriesRated": null,
+                "entriesRated": 2,
                 "totalRatingCount": null,
-                "scores": null
+                "scores": {
+                    "Overall": {
+                        "rank": 1,
+                        "score": null,
+                        "ratingCount": null
+                    }
+                }
             },
             "stream": [],
-            "gameplay": [ "https://youtu.be/LBxSKPA6rpo" ]
+            "gameplay": [ "https://www.youtube.com/watch?v=LBxSKPA6rpo" ]
         },
         {
             "name": "FaeBay",
