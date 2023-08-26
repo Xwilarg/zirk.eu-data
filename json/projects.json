@@ -114,6 +114,29 @@
     }
 },
 {
+    "name": "StackGame",
+    "description": "Game where you are given a title and you need to find the appropriate Stack Exchange website",
+    "image": null,
+    "languages": [ "JavaScript" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/StackGame"
+        }
+    ],
+    "nsfw": false,
+    "type": "Website",
+    "highlight": null,
+    "dates": {
+        "start": "2023-08-10",
+        "end": "2023-08-10"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
     "name": "Shika",
     "description": "Analytics tool",
     "image": null,
@@ -147,7 +170,7 @@
         }
     ],
     "image": {
-        "id": null,
+        "id": "Darkness",
         "description": ""
     },
     "nsfw": false,
@@ -422,7 +445,7 @@
     "highlight": null,
     "dates": {
         "start": "2021-05-03",
-        "end": "2023-03-09"
+        "end": "2023-08-15"
     },
     "state": {
         "status": 0,
