@@ -680,7 +680,12 @@
             ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 7600,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "stream": [],
             "gameplay": [ "https://www.youtube.com/watch?v=QHcAmiX1TsM" ]
         },
