@@ -19,6 +19,37 @@
     },
     "jams": [
         {
+            "name": "Polyangry",
+            "fullName": "Polyangry",
+            "location": "Online",
+            "theme": [ "Come Together" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "26657FC24559A568C1D1D21C73BA163A",
+                "8FF0366E56CBECA70BA5ABC3AF62F337",
+                "AFCDA9FF79C9290864AFB0C665EF33B3"
+            ],
+            "event": "Rainbow Jam 2023",
+            "shortEvent": "Rainbow Jam",
+            "eventCategory": null,
+            "date": "2023-09-09",
+            "duration": 544,
+            "engine": "Unity",
+            "version": "2022.3.9f1",
+            "github": "https://github.com/Xwilarg/Polyangry",
+            "website": "https://itch.io/jam/rainbowjam23/rate/2276789",
+            "webgl": [
+                "https://gamejam.zirk.eu/Polyangry/index.html"
+            ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "TankNPower",
             "fullName": "Tank'n Power",
             "location": "Online",
@@ -2458,9 +2489,7 @@
             "name": "Manchaud",
             "fullName": "Manchaud",
             "location": "Paris, France",
-            "theme": [
-                "Green Game"
-            ],
+            "theme": [],
             "language": [ "English" ],
             "tags": [ "asymmetric" ],
             "team": [
@@ -2484,7 +2513,12 @@
             ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 34,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "stream": [],
             "gameplay": []
         },
