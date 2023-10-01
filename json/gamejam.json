@@ -45,7 +45,48 @@
             ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 25,
+                "entriesRated": 22,
+                "totalRatingCount": 77,
+                "scores": {
+                    "Use of Theme": {
+                        "rank": 2,
+                        "score": 4.333,
+                        "ratingCount": 3
+                    },
+                    "Use of Diversifiers": {
+                        "rank": 3,
+                        "score": 4.000,
+                        "ratingCount": 3
+                    },
+                    "Art": {
+                        "rank": 8,
+                        "score": 3.333,
+                        "ratingCount": 3
+                    },
+                    "Audio": {
+                        "rank": 10,
+                        "score": 3.000,
+                        "ratingCount": 10
+                    },
+                    "Gameplay": {
+                        "rank": 14,
+                        "score": 2.667,
+                        "ratingCount": 10
+                    },
+                    "Narrative": {
+                        "rank": 14,
+                        "score": 2.333,
+                        "ratingCount": 10
+                    },
+                    "Fun": {
+                        "rank": 22,
+                        "score": 1.667,
+                        "ratingCount": 10
+                    }
+                }
+            },
             "stream": [],
             "gameplay": []
         },
