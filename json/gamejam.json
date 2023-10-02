@@ -19,6 +19,43 @@
     },
     "jams": [
         {
+            "name": "SPACE",
+            "fullName": "SPACE: Spaceship Pilot - Asteroid Collision Escape",
+            "location": "Online",
+            "theme": [ "Limited space" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "50EE4FBAF5161F54C3482CB93C4D20BF",
+                "186D80A0C3A0FE7F5080DF26ABE94AF5",
+                "21F58B60DEA020580B51ABD3F4F27864",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "A8C419ED88830EA032FAE614047BD5C7",
+                "EBB7B8C7B09372F858720F944DDC04E1",
+                "93DA0E4DC6E7B5612101A6B622167EA7",
+                "BBDCCA6A6432ED7F9C8B13709C619588"
+            ],
+            "event": "Ludum Dare 54",
+            "shortEvent": "Ludum Dare",
+            "eventCategory": null,
+            "date": "2023-09-30",
+            "duration": 72,
+            "engine": "Godot",
+            "version": "4.1.1",
+            "github": "https://github.com/Xwilarg/SPACE",
+            "website": "https://ldjam.com/events/ludum-dare/54/space-spaceship-pilot-asteroid-collision-escape",
+            "webgl": [
+                "https://gamejam.zirk.eu/SPACE/index.html"
+            ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": [
+                "https://www.youtube.com/watch?v=FEajGzPrgIc"
+            ]
+        },
+        {
             "name": "Polyangry",
             "fullName": "Polyangry",
             "location": "Online",
