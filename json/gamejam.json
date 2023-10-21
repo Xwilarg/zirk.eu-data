@@ -49,7 +49,53 @@
             ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 1597,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": {
+                    "Overall": {
+                        "rank": 1056,
+                        "score": 2.875,
+                        "ratingCount": 22
+                    },
+                    "Fun": {
+                        "rank": 1021,
+                        "score": 2.75,
+                        "ratingCount": 22
+                    },
+                    "Innovation": {
+                        "rank": 813,
+                        "score": 3.05,
+                        "ratingCount": 22
+                    },
+                    "Theme": {
+                        "rank": 558,
+                        "score": 3.65,
+                        "ratingCount": 22
+                    },
+                    "Graphics": {
+                        "rank": 888,
+                        "score": 2.881,
+                        "ratingCount": 23
+                    },
+                    "Audio": {
+                        "rank": 572,
+                        "score": 3.056,
+                        "ratingCount": 20
+                    },
+                    "Humor": {
+                        "rank": 720,
+                        "score": 2.579,
+                        "ratingCount": 21
+                    },
+                    "Mood": {
+                        "rank": 1024,
+                        "score": 2.658,
+                        "ratingCount": 21
+                    }
+                }
+            },
             "stream": [],
             "gameplay": [
                 "https://www.youtube.com/watch?v=FEajGzPrgIc"
