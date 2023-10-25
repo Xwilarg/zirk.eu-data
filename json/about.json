@@ -27,130 +27,60 @@
             "link": "https://globalgamejam.org/users/zirk"
         }]
     },
-    "music": [{
-        "name": "キネマ106",
-        "en": "KINEMA106",
-        "link": "https://www.youtube.com/user/Tom106zany",
-        "youtube": [{
-            "name": "ドレミゴール",
-            "en": "Don't let me go!!",
-            "id": "R1u7oCJ8dK4"
+    "music": {
+        "main": [{
+            "name": "キネマ106",
+            "en": "KINEMA106",
+            "link": "https://www.youtube.com/user/Tom106zany",
+            "youtube": [{
+                "name": "ドレミゴール",
+                "en": "Don't let me go!!",
+                "id": "R1u7oCJ8dK4"
+            }, {
+                "name": "ディープブルー",
+                "en": "Deep Blue",
+                "id": "LXjoIE8T-OE"
+            }, {
+                "name": "レンドエンズ",
+                "en": "rEND enS",
+                "id": "Xztk5j98FZs"
+            }]
         }, {
-            "name": "ディープブルー",
-            "en": "Deep Blue",
-            "id": "LXjoIE8T-OE"
+            "name": "森羅万象",
+            "en": "Shinra-Bansho",
+            "link": "https://www.youtube.com/@Shinrabansho_music/",
+            "youtube": [{
+                "name": "ヒューマノイドレギオン",
+                "en": "Humanoid Legion",
+                "id": "2NR0QZznEJM"
+            }, {
+                "name": "無間嫉妬劇場『666』",
+                "en": "Netaminity Theater[666]",
+                "id": "TPjAsus_bZo"
+            }, {
+                "name": "キラメキ居残り大戦争",
+                "en": "Kirameki Inokori Daisensou",
+                "id": "pMXRWurZenY"
+            }]
         }, {
-            "name": "レンドエンズ",
-            "en": "rEND enS",
-            "id": "Xztk5j98FZs"
-        }]
-    }, {
-        "name": "ナナヲアカリ",
-        "en": "Nanawoakari",
-        "link": "https://www.youtube.com/c/nanawoakariSMEJ",
-        "youtube": [{
-            "name": "ラブみ",
-            "en": "Lovemi",
-            "id": "hKCPSpUiwec"
-        }, {
-            "name": "全部ホントで全部ウソ",
-            "en": "Zenbuhonto de Zenbuuso",
-            "id": "SlBmv7w1VqY"
-        }, {
-            "name": "ベイビーあいへいちゅー",
-            "en": "Baby I Hate you",
-            "id": "aprOk-w2lxE"
-        }]
-    }, {
-        "name": "HoneyWorks",
-        "en": "HoneyWorks",
-        "link": "https://www.youtube.com/@HoneyWorksOFFICIAL",
-        "youtube": [{
-            "name": "可愛くてごめん",
-            "en": "Kawaikute Gomen",
-            "id": "K4xLi8IF1FM"
-        }, {
-            "name": "大嫌いなはずだった。",
-            "en": "Daikirai na Hazu Datta.",
-            "id": "zARhHJNrpnU"
-        }, {
-            "name": "Alive",
-            "en": "Alive",
-            "id": "SgRV3IjmxTI"
-        }]
-    }, {
-        "name": "cosMo@暴走P",
-        "en": "cosMo@Bousou-P",
-        "link": "https://www.youtube.com/channel/UC9AYHlE2OLcMlZJo3MBlfkQ",
-        "youtube": [{
-            "name": "ギザバ怪文書",
-            "en": "Gizaba Crazy Letter",
-            "id": "rf-hjy8W2OI"
-        }, {
-            "name": "デッドマンズバラッド",
-            "en": "DEADMAN'S BALLAD",
-            "id": "irp13ainb0E"
-        }, {
-            "name": "サイコパスラヴ",
-            "en": "PSYCHOPATH LoVE",
-            "id": "CTPlzhJTdY4"
-        }]
-    }, {
-        "name": "森羅万象",
-        "en": "Shinra-Bansho",
-        "link": "https://www.youtube.com/@Shinrabansho_music/",
-        "youtube": [{
-            "name": "ヒューマノイドレギオン",
-            "en": "Humanoid Legion",
-            "id": "2NR0QZznEJM"
-        }, {
-            "name": "無間嫉妬劇場『666』",
-            "en": "Netaminity Theater[666]",
-            "id": "TPjAsus_bZo"
-        }, {
-            "name": "キラメキ居残り大戦争",
-            "en": "Kirameki Inokori Daisensou",
-            "id": "pMXRWurZenY"
-        }]
-    }, {
-        "name": "ウォルピス社",
-        "en": "Wolpis Carter",
-        "link": "https://www.youtube.com/channel/UCrFREdqSkLslvG2BpYpZHmg",
-        "youtube": [{
-            "name": "素っ頓狂な夜が来る",
-            "en": "Madness Night",
-            "id": "DiiD3pR0hEs"
-        }, {
-            "name": "泥中に咲く",
-            "en": "Blooming in the Mud",
-            "id": "40dJS_LC6S8"
-        }, {
-            "name": "1％",
-            "en": "1％",
-            "id": "vvGq429iHjk"
-        }]
-    }, {
-        "name": "ホロライブ",
-        "en": "hololive",
-        "link": "https://hololive.hololivepro.com/en/music/",
-        "youtube": [{
-            "name": "P.E.T. (沙花叉クロヱ)",
-            "en": "P.E.T. (Sakamata Chloe)",
-            "id": "wztmSx2_T6w"
-        }, {
-            "name": "ばかばっか (鷹嶺ルイ)",
-            "en": "Fools Fools Fools (Takane Lui)",
-            "id": "By8x65oteIw"
-        }, {
-            "name": "ペルソナ (尾丸ポルカ)",
-            "en": "PERSONA (Omaru Polka)",
-            "id": "g-K6PJi7b0o"
-        }]
-    }, {
-        "name": "Others",
-        "en": "Others",
-        "link": null,
-        "youtube": [{
+            "name": "ホロライブ",
+            "en": "hololive",
+            "link": "https://hololive.hololivepro.com/en/music/",
+            "youtube": [{
+                "name": "P.E.T. (沙花叉クロヱ)",
+                "en": "P.E.T. (Sakamata Chloe)",
+                "id": "wztmSx2_T6w"
+            }, {
+                "name": "ばかばっか (鷹嶺ルイ)",
+                "en": "Fools Fools Fools (Takane Lui)",
+                "id": "By8x65oteIw"
+            }, {
+                "name": "ペルソナ (尾丸ポルカ)",
+                "en": "PERSONA (Omaru Polka)",
+                "id": "g-K6PJi7b0o"
+            }]
+        }],
+        "others": [{
             "name": "魔崇華麗奴 (FAKE TYPE.)",
             "en": "Masquerade (FAKE TYPE.)",
             "id": "yC1lS1mlenc"
@@ -162,12 +92,23 @@
             "name": "悪くないもん (ミルグラム / ムウ)",
             "en": "It's Not My Fault (MILGRAM / Mu)",
             "id": "xl-TuKghSuA"
-        }]
-    }, {
-        "name": "",
-        "en": "",
-        "link": null,
-        "youtube": [{
+        }, {
+            "name": "ネ⠀土⠀会⠀ェ⠀貝⠀南⠀犬⠀☆⠀カ⠀ゞ⠀ん⠀I⠀よ⠀″⠀る⠀ノ⠀D⠀A⠀!!｡ (ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ)",
+            "en": "ネ⠀土⠀会⠀ェ⠀貝⠀南⠀犬⠀☆⠀カ⠀ゞ⠀ん⠀I⠀よ⠀″⠀る⠀ノ⠀D⠀A⠀!!｡ (ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ)",
+            "id": "Or5lCqWyYE8"
+        }, {
+            "name": "ドキメキダイアリー (asmi)",
+            "en": "Dokimeki Diary (asmi)",
+            "id": "cL_M2MSzYQM"
+        }, {
+            "name": "バグってない？ (麻婆豆腐)",
+            "en": "バグってない？ (麻婆豆腐)",
+            "id": "JM_1YKuBlqM"
+        }, {
+            "name": "君はオコサマ (麻婆豆腐)",
+            "en": "君はオコサマ (麻婆豆腐)",
+            "id": "MiXC9icOH9Q"
+        }, {
             "name": "いつかオトナになれるといいね。 (ツユ)",
             "en": "Would be nice if you grow up one day. (TUYU)",
             "id": "cp8UEv8i0lc"
@@ -179,8 +120,25 @@
             "name": "Be The MUSIC! (プロジェクトセカイ)",
             "en": "Be The MUSIC! (Project SEKAI)",
             "id": "mZI9HEVh6Yw"
+        }, {
+            "name": "泥中に咲く (ウォルピス社)",
+            "en": "Blooming in the Mud (Wolpis Carter)",
+            "id": "40dJS_LC6S8"
+        }],
+        "othersSpe": [{
+            "name": "ラミィのうた (IOSYS)",
+            "en": "ラミィのうた (IOSYS)",
+            "id": "jtMq-Vra7dY"
+        }, {
+            "name": "稲荷神社 (MOGURA)",
+            "en": "稲荷神社 (MOGURA)",
+            "id": "vc-kThNPVnc"
+        }, {
+            "name": "球磨ちゃんでサンドキャニオン (ガルナ@オワタP)",
+            "en": "Kuma-chan Sand Canyon (ガルナ@オワタP)",
+            "id": "sm22330849"
         }]
-    }],
+    },
     "games": [{
         "name": "Team Fortress 2",
         "logo": "TF2.jpg",
@@ -251,10 +209,6 @@
         "links": [{
             "name": "Profile",
             "content": "data/img/about/ProjectSekai.png",
-            "type": "image"
-        }, {
-            "name": "Ranked",
-            "content": "data/img/about/ProjectSekaiRank.jpg",
             "type": "image"
         }],
         "video": null,
