@@ -45,8 +45,10 @@
             "engine": "Unity",
             "version": "2022.3.12f1",
             "github": "https://github.com/KatsisStudio/Succ-Ciety",
-            "website": null,
-            "webgl": [],
+            "website": "https://itch.io/jam/lewdie-jam-2023/rate/2388230",
+            "webgl": [
+                "https://gamejam.zirk.eu/SuccCiety/index.html"
+            ],
             "postModification": null,
             "nsfw": true,
             "rating": null,
