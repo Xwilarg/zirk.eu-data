@@ -80,8 +80,10 @@
             "engine": "Unity",
             "version": "2023.3.0a8",
             "github": "https://github.com/Xwilarg/BeGayDoCrimes",
-            "website": null,
-            "webgl": [],
+            "website": "https://itch.io/jam/yuri-game-jam-2023/rate/2387153",
+            "webgl": [
+                "https://gamejam.zirk.eu/BeGayDoCrimes/index.html"
+            ],
             "postModification": null,
             "nsfw": false,
             "rating": null,
