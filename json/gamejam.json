@@ -51,7 +51,12 @@
             ],
             "postModification": null,
             "nsfw": true,
-            "rating": null,
+            "rating": {
+                "entries": 4,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "stream": [],
             "gameplay": []
         },
@@ -86,7 +91,12 @@
             ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 65,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "stream": [],
             "gameplay": []
         },
