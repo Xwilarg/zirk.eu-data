@@ -53,9 +53,35 @@
             "nsfw": true,
             "rating": {
                 "entries": 4,
-                "entriesRated": null,
-                "totalRatingCount": null,
-                "scores": null
+                "entriesRated": 4,
+                "totalRatingCount": 17,
+                "scores": {
+                    "Overall": {
+                        "rank": 3,
+                        "score": 2.917,
+                        "ratingCount": 2
+                    },
+                    "Uniqueness": {
+                        "rank": 3,
+                        "score": 3.000,
+                        "ratingCount": 2
+                    },
+                    "Game Feel": {
+                        "rank": 3,
+                        "score": 2.667,
+                        "ratingCount": 2
+                    },
+                    "Fun": {
+                        "rank": 3,
+                        "score": 3.000,
+                        "ratingCount": 2
+                    },
+                    "Horniness": {
+                        "rank": 4,
+                        "score": 3.000,
+                        "ratingCount": 2
+                    }
+                }
             },
             "stream": [],
             "gameplay": []
