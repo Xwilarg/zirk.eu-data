@@ -116,7 +116,10 @@
 {
     "name": "StackGame",
     "description": "Game where you are given a title and you need to find the appropriate Stack Exchange website",
-    "image": null,
+    "image": {
+        "id": "StackGame",
+        "description": null
+    },
     "languages": [ "JavaScript" ],
     "links": [
         {
@@ -184,7 +187,31 @@
         "status": 2,
         "comment": null
     }
-}, {
+},
+{
+    "name": "ResourcesExporterSharp",
+    "description": "Easily export resx files into one file, and import them back",
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/ResourcesExporterSharp"
+        }
+    ],
+    "image": null,
+    "nsfw": false,
+    "type": "Script",
+    "highlight": null,
+    "dates": {
+        "start": "2023-06-19",
+        "end": "2023-06-20"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
     "name": "Tansy",
     "description": "",
     "languages": [ "C#" ],
@@ -389,7 +416,7 @@
     "highlight": null,
     "dates": {
         "start": "2018-07-16",
-        "end": null
+        "end": "2023-08-21"
     },
     "state": {
         "status": 0,
@@ -596,7 +623,7 @@
     },
     "dates": {
         "start": "2021-02-07",
-        "end": null
+        "end": "2023-08-04"
     },
     "state": {
         "status": 0,
