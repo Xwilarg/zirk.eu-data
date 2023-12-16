@@ -156,8 +156,8 @@
             "link": "https://store.steampowered.com/app/440/Team_Fortress_2/"
         },
         "links": [{
-            "name": "logs.tf",
-            "content": "https://logs.tf/profile/76561198039345808",
+            "name": "TF2 Center",
+            "content": "https://tf2center.com/profile/76561198039345808",
             "type": "link"
         }],
         "video": "GLlLQ3LmZWU",
@@ -268,10 +268,6 @@
             "name": "Equipement List",
             "content": "data/img/about/KanColleEq.png",
             "type": "image"
-        }, {
-            "name": "AirSimulator",
-            "content": "https://aircalc.page.link/zNb4",
-            "type": "link"
         }],
         "video": "iVEpvp-NVvI",
         "gameplay": null,
@@ -294,10 +290,10 @@
         "type": "visual novel",
         "image": "Maitetsu.jpg"
     }, {
-        "name": "Ookami no Kawa wo Kabutta Hitsujihime",
-        "link": "https://anilist.co/manga/124885/Ookami-no-Kawa-wo-Kabutta-Hitsujihime/",
+        "name": "Warui ga Watashi wa Yuri ja Nai",
+        "link": "https://anilist.co/manga/119506/Warui-ga-Watashi-wa-Yuri-ja-Nai",
         "type": "manga",
-        "image": "OokamiNoKawaWoKabuttaHitsujihime.jpg"
+        "image": "WaruiGaWatashiWaYuriJaNai.jpg"
     }, {
         "name": "Anemone wa Netsu wo Obiru",
         "link": "https://anilist.co/manga/126722/Anemone-wa-Netsu-wo-Obiru/",
