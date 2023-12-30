@@ -49,7 +49,48 @@
             ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 239,
+                "entriesRated": 224,
+                "totalRatingCount": 2133,
+                "scores": {
+                    "Fun": {
+                        "rank": 125,
+                        "score": 2.165,
+                        "ratingCount": 6
+                    },
+                    "Special Object Implementation": {
+                        "rank": 126,
+                        "score": 2.309,
+                        "ratingCount": 6
+                    },
+                    "Graphics": {
+                        "rank": 134,
+                        "score": 2.309,
+                        "ratingCount": 6
+                    },
+                    "Gameplay": {
+                        "rank": 136,
+                        "score": 2.021,
+                        "ratingCount": 6
+                    },
+                    "Christmas Vibe": {
+                        "rank": 138,
+                        "score": 2.598,
+                        "ratingCount": 6
+                    },
+                    "Overall": {
+                        "rank": 145,
+                        "score": 2.189,
+                        "ratingCount": 6
+                    },
+                    "Audio": {
+                        "rank": 153,
+                        "score": 1.732,
+                        "ratingCount": 6
+                    }
+                }
+            },
             "stream": [],
             "gameplay": []
         },
