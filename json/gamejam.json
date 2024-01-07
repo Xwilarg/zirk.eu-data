@@ -23,6 +23,38 @@
     },
     "jams": [
         {
+            "name": "FlockFriends",
+            "fullName": "Flock Friends",
+            "location": "Online",
+            "theme": [],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "50BA1C89F6F197D374466A883E6ABB7E",
+                "26F6047EFAF5A43AB5F66015598B0138",
+                "678EFBB09A85892634B3100FCA5C61A0",
+                "50EE4FBAF5161F54C3482CB93C4D20BF",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+            ],
+            "event": "Touhou Fan Game Jam 12",
+            "shortEvent": "Touhou Fan Game Jam",
+            "eventCategory": null,
+            "date": "2024-01-07",
+            "duration": 72,
+            "engine": "Unity",
+            "version": "2023.3.16f1",
+            "github": "https://github.com/Xwilarg/FlockFriends",
+            "website": "https://itch.io/jam/touhou-jam-12/rate/2457909",
+            "webgl": [
+                "https://gamejam.zirk.eu/FlockFriends/index.html"
+            ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "SantasFavorite",
             "fullName": "Santa's Favorite",
             "location": "Online",
