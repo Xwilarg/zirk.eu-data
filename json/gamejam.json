@@ -26,7 +26,7 @@
             "name": "FlockFriends",
             "fullName": "Flock Friends",
             "location": "Online",
-            "theme": [],
+            "theme": [ "Bird" ],
             "language": [ "English" ],
             "tags": [],
             "team": [
