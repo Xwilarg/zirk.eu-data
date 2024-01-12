@@ -23,6 +23,33 @@
     },
     "jams": [
         {
+            "name": "DemonGirlTribute",
+            "fullName": "Demon Girl: Tribute",
+            "location": "Online",
+            "theme": [],
+            "language": [ "English", "French" ],
+            "tags": [],
+            "team": [
+                "8E7970AFFF8A6E0A2C70073440C3B297",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+            ],
+            "event": "Adobe Flash: Flash Sex Games Remaster Game Jam",
+            "shortEvent": "Adobe Flash: Flash Sex Games Remaster Game Jam",
+            "eventCategory": null,
+            "date": "2023-12-23",
+            "duration": 2285.1,
+            "engine": "Unity",
+            "version": "2023.3.16f1",
+            "github": "https://github.com/Xwilarg/AdobeFlashSexGamesRemasterJam",
+            "website": null,
+            "webgl": [],
+            "postModification": null,
+            "nsfw": true,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "FlockFriends",
             "fullName": "Flock Friends",
             "location": "Online",
