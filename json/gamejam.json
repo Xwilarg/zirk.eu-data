@@ -77,9 +77,7 @@
             "postModification": null,
             "nsfw": true,
             "rating": null,
-            "stream": [
-                "https://www.twitch.tv/videos/2034677081?t=00h01m20s"
-            ],
+            "stream": [],
             "gameplay": []
         },
         {
@@ -111,7 +109,9 @@
             "postModification": null,
             "nsfw": false,
             "rating": null,
-            "stream": [],
+            "stream": [
+                "https://www.twitch.tv/videos/2034677081?t=00h01m20s"
+            ],
             "gameplay": []
         },
         {
