@@ -47,7 +47,12 @@
             "github": "https://github.com/KatsisStudio/DreamOfJOI",
             "website": "https://itch.io/jam/nsfw-minijam/rate/2475777",
             "webgl": [],
-            "postModification": null,
+            "postModification": {
+                "entries": 12,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "nsfw": true,
             "rating": null,
             "stream": [],
@@ -109,7 +114,12 @@
             ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 51,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "stream": [
                 "https://www.twitch.tv/videos/2034677081?t=00h01m20s"
             ],
