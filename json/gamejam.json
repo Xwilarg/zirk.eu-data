@@ -26,7 +26,7 @@
             "name": "DreamOfJOI",
             "fullName": "Dream of JOI",
             "location": "Online",
-            "theme": [],
+            "theme": [ "Forbidden" ],
             "language": [ "English" ],
             "tags": [],
             "team": [
@@ -45,13 +45,14 @@
             "engine": "Unity",
             "version": "2023.3.16f1",
             "github": "https://github.com/KatsisStudio/DreamOfJOI",
-            "website": null,
+            "website": "https://itch.io/jam/nsfw-minijam/rate/2475777",
             "webgl": [],
             "postModification": null,
             "nsfw": true,
             "rating": null,
             "stream": [],
-            "gameplay": []
+            "gameplay": [],
+            "imagePosOverrides": "right"
         },
         {
             "name": "DemonGirlTribute",
@@ -850,7 +851,8 @@
                 "scores": null
             },
             "stream": [],
-            "gameplay": []
+            "gameplay": [],
+            "imagePosOverrides": "right"
         },
         {
             "name": "Panotapecon",
