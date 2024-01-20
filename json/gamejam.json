@@ -42,7 +42,9 @@
             "version": "2023.3.16f1",
             "github": "https://github.com/Xwilarg/OneHourJam456",
             "website": "https://onehourgamejam.com/?page=jam&jam=456",
-            "webgl": [],
+            "webgl": [
+                "https://gamejam.zirk.eu/SyncShot/index.html"
+            ],
             "postModification": {
                 "entries": 1,
                 "entriesRated": null,
