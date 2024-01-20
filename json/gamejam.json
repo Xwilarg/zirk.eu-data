@@ -23,6 +23,38 @@
     },
     "jams": [
         {
+            "name": "SyncShot",
+            "fullName": "Sync Shot",
+            "location": "Online",
+            "theme": [ "Rhythm is key" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "50EE4FBAF5161F54C3482CB93C4D20BF",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+            ],
+            "event": "One Hour Game Jam",
+            "shortEvent": "One Hour Game Jam",
+            "eventCategory": null,
+            "date": "2024-01-20",
+            "duration": 1,
+            "engine": "Unity",
+            "version": "2023.3.16f1",
+            "github": "https://github.com/Xwilarg/OneHourJam456",
+            "website": "https://onehourgamejam.com/?page=jam&jam=456",
+            "webgl": [],
+            "postModification": {
+                "entries": 1,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "DreamOfJOI",
             "fullName": "Dream of JOI",
             "location": "Online",
