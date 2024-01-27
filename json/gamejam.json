@@ -88,7 +88,38 @@
                 "scores": null
             },
             "nsfw": true,
-            "rating": null,
+            "rating": {
+                "entries": 12,
+                "entriesRated": 12,
+                "totalRatingCount": 97,
+                "scores": {
+                    "Gameplay": {
+                        "rank": 1,
+                        "score": 4.111,
+                        "ratingCount": 9
+                    },
+                    "Horniness": {
+                        "rank": 3,
+                        "score": 4.556,
+                        "ratingCount": 9
+                    },
+                    "Overall": {
+                        "rank": 3,
+                        "score": 3.972,
+                        "ratingCount": 9
+                    },
+                    "Uniqueness": {
+                        "rank": 4,
+                        "score": 4.111,
+                        "ratingCount": 9
+                    },
+                    "Theme": {
+                        "rank": 7,
+                        "score": 3.111,
+                        "ratingCount": 9
+                    }
+                }
+            },
             "stream": [],
             "gameplay": [],
             "imagePosOverrides": "right"
