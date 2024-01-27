@@ -181,9 +181,50 @@
             "nsfw": false,
             "rating": {
                 "entries": 51,
-                "entriesRated": null,
-                "totalRatingCount": null,
-                "scores": null
+                "entriesRated": 51,
+                "totalRatingCount": 2230,
+                "scores": {
+                    "Use of Theme": {
+                        "rank": 8,
+                        "score": 3.872,
+                        "ratingCount": 47
+                    },
+                    "Story / Writing": {
+                        "rank": 16,
+                        "score": 2.915,
+                        "ratingCount": 47
+                    },
+                    "Challenge": {
+                        "rank": 21,
+                        "score": 3.149,
+                        "ratingCount": 47
+                    },
+                    "Audio / Music": {
+                        "rank": 23,
+                        "score": 3.128,
+                        "ratingCount": 47
+                    },
+                    "Concept": {
+                        "rank": 23,
+                        "score": 3.617,
+                        "ratingCount": 47
+                    },
+                    "Gameplay": {
+                        "rank": 24,
+                        "score": 3.170,
+                        "ratingCount": 47
+                    },
+                    "Overall": {
+                        "rank": 31,
+                        "score": 3.149,
+                        "ratingCount": 47
+                    },
+                    "Visuals": {
+                        "rank": 39,
+                        "score": 2.957,
+                        "ratingCount": 47
+                    }
+                }
             },
             "stream": [
                 "https://www.twitch.tv/videos/2034677081?t=00h01m20s"
