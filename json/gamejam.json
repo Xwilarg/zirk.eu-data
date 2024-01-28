@@ -51,7 +51,8 @@
             "nsfw": false,
             "rating": null,
             "stream": [],
-            "gameplay": []
+            "gameplay": [],
+            "imagePosOverrides": "right"
         },
         {
             "name": "SyncShot",
@@ -153,7 +154,7 @@
             },
             "stream": [],
             "gameplay": [],
-            "imagePosOverrides": "right"
+            "gifPosOverrides": "right"
         },
         {
             "name": "DemonGirlTribute",
@@ -999,7 +1000,7 @@
             },
             "stream": [],
             "gameplay": [],
-            "imagePosOverrides": "right"
+            "gifPosOverrides": "right"
         },
         {
             "name": "Panotapecon",
