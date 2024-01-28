@@ -23,6 +23,37 @@
     },
     "jams": [
         {
+            "name": "TurtlesThrottle",
+            "fullName": "Turtle's Throttle",
+            "location": "Paris, France",
+            "theme": [],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "9E9B8C5DB2EE657F39930FC44A621A88",
+                "2460F1D8470E41FDC746ADD3902EE1EB",
+                "D3A8FFEB91345588431F31714ADE687F",
+                "698E57F8083FC436C51A72778213560D",
+                "78925F4B7482466E0CD41B658F8241D2",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+            ],
+            "event": "Global Game Jam 2024",
+            "shortEvent": "Global Game Jam",
+            "eventCategory": null,
+            "date": "2024-01-26",
+            "duration": 48,
+            "engine": "Unity",
+            "version": "2023.3.4f1",
+            "github": "https://github.com/juliengrima/GlobalGameJam",
+            "website": "https://globalgamejam.org/games/2024/turtles-throttle-1",
+            "webgl": [ "https://gamejam.zirk.eu/TurtlesThrottle/index.html" ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "SyncShot",
             "fullName": "Sync Shot",
             "location": "Online",
