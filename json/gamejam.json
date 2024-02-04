@@ -54,7 +54,8 @@
             "nsfw": true,
             "rating": null,
             "stream": [],
-            "gameplay": []
+            "gameplay": [],
+            "imagePosOverrides": "up"
         },
         {
             "name": "TurtlesThrottle",
