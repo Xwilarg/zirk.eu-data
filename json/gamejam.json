@@ -23,6 +23,67 @@
     },
     "jams": [
         {
+            "name": "MilkyWay",
+            "fullName": "Milky Way",
+            "location": "Online",
+            "theme": [ "Alien", "Fantasy" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "AF3A2CED67B5CA5503341879C03519C7",
+                "727AE26E9F43811F390B6BDFEB4C7B66",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "8E7970AFFF8A6E0A2C70073440C3B297",
+                "50EE4FBAF5161F54C3482CB93C4D20BF"
+            ],
+            "event": "NSFW MiniJam #2",
+            "shortEvent": "NSFW MiniJam",
+            "eventCategory": null,
+            "date": "2024-02-10",
+            "duration": 217,
+            "engine": "Unity",
+            "version": "2022.3.19f1",
+            "github": null,
+            "website": null,
+            "webgl": [],
+            "postModification": null,
+            "nsfw": true,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
+            "name": "Sideband",
+            "fullName": "Sideband",
+            "location": "Online",
+            "theme": [ "Divergence" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "8FF0366E56CBECA70BA5ABC3AF62F337",
+                "7378AA27C2CC9ECAC3C442C578F57C90",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "7A9ACDEA1B0C2BFEA660AEE78602897A",
+                "698E57F8083FC436C51A72778213560D",
+                "50EE4FBAF5161F54C3482CB93C4D20BF"
+            ],
+            "event": "Rhythm Jam 2024",
+            "shortEvent": "Rhythm Jam",
+            "eventCategory": null,
+            "date": "2024-02-09",
+            "duration": 216,
+            "engine": "Unity",
+            "version": "2022.3.19f1",
+            "github": "https://github.com/Xwilarg/Sideband",
+            "website": null,
+            "webgl": [],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "ILoveLargeAstralBodies",
             "fullName": "I ❤️ Large Astral Bodies",
             "location": "Online",
@@ -45,14 +106,14 @@
             "webgl": [
                 "https://gamejam.zirk.eu/ILoveLargeAstralBodies/index.html"
             ],
-            "postModification": {
+            "postModification": null,
+            "nsfw": true,
+            "rating": {
                 "entries": 2,
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
             },
-            "nsfw": true,
-            "rating": null,
             "stream": [],
             "gameplay": [],
             "imagePosOverrides": "up"
