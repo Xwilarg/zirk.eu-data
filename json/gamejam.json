@@ -75,11 +75,18 @@
             "engine": "Unity",
             "version": "2022.3.19f1",
             "github": "https://github.com/Xwilarg/Sideband",
-            "website": null,
-            "webgl": [],
+            "website": "https://itch.io/jam/rhythm-jam-2024/rate/2532133",
+            "webgl": [
+                "https://gamejam.zirk.eu/Sideband/index.html"
+            ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 75,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "stream": [],
             "gameplay": []
         },
