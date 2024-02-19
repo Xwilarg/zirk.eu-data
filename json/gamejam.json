@@ -23,8 +23,8 @@
     },
     "jams": [
         {
-            "name": "MilkyWay",
-            "fullName": "Milky Way",
+            "name": "TheMilkyWayRanch",
+            "fullName": "The Milky Way Ranch",
             "location": "Online",
             "theme": [ "Alien", "Fantasy" ],
             "language": [ "English" ],
@@ -43,9 +43,11 @@
             "duration": 217,
             "engine": "Unity",
             "version": "2022.3.19f1",
-            "github": "https://github.com/KatsisStudio/MilkyWay",
-            "website": null,
-            "webgl": [],
+            "github": "https://github.com/KatsisStudio/TheMilkyWayRanch",
+            "website": "https://itch.io/jam/nsfw-minijam-2/rate/2537441",
+            "webgl": [
+                "https://gamejam.zirk.eu/TheMilkyWayRanch/index.html"
+            ],
             "postModification": null,
             "nsfw": true,
             "rating": null,
