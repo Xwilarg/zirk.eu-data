@@ -84,10 +84,41 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 75,
-                "entriesRated": null,
-                "totalRatingCount": null,
-                "scores": null
+                "entries": 73,
+                "entriesRated": 67,
+                "totalRatingCount": 534,
+                "scores": {
+                    "Rhythm": {
+                        "rank": 18,
+                        "score": 3.333,
+                        "ratingCount": 9
+                    },
+                    "Visuals": {
+                        "rank": 19,
+                        "score": 3.444,
+                        "ratingCount": 9
+                    },
+                    "Overall": {
+                        "rank": 34,
+                        "score": 2.667,
+                        "ratingCount": 9
+                    },
+                    "Fun": {
+                        "rank": 35,
+                        "score": 2.667,
+                        "ratingCount": 9
+                    },
+                    "Sound": {
+                        "rank": 36,
+                        "score": 2.778,
+                        "ratingCount": 9
+                    },
+                    "Creativity": {
+                        "rank": 60,
+                        "score": 1.778,
+                        "ratingCount": 9
+                    },
+                }
             },
             "stream": [],
             "gameplay": []
