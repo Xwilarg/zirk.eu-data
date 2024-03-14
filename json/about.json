@@ -41,9 +41,9 @@
                 "en": "Deep Blue",
                 "id": "LXjoIE8T-OE"
             }, {
-                "name": "バッドエンドロマンス",
-                "en": "Bad End Romance",
-                "id": "Q5RUrhPK8Hw"
+                "name": "残響ノ鎮魂歌",
+                "en": "残響ノ鎮魂歌",
+                "id": "LMGMdSMAfYE"
             }]
         }, {
             "name": "森羅万象",
@@ -122,10 +122,6 @@
             "en": "Would be nice if you grow up one day. (TUYU)",
             "id": "cp8UEv8i0lc"
         }, {
-            "name": "絶対敵対メチャキライヤー (ミクと可不)",
-            "en": "Unfriendly Hater (Meddmia)",
-            "id": "kGDWVV_1do4"
-        }, {
             "name": "Be The MUSIC! (プロジェクトセカイ)",
             "en": "Be The MUSIC! (Project SEKAI)",
             "id": "mZI9HEVh6Yw"
@@ -133,6 +129,10 @@
             "name": "泥中に咲く (ウォルピス社)",
             "en": "Blooming in the Mud (Wolpis Carter)",
             "id": "40dJS_LC6S8"
+        }, {
+            "name": "ラビットホール (DECO*27)",
+            "en": "Rabbit Hole (DECO*27)",
+            "id": "eSW2LVbPThw"
         }],
         "othersSpe": [{
             "name": "ラミィのうた (IOSYS)",
@@ -178,21 +178,6 @@
         "video": "5aUG2Pn-WDs",
         "gameplay": null,
         "type": "FPS"
-    }, {
-        "name": "Fire Emblem",
-        "logo": "FE.jpg",
-        "store": {
-            "name": "Nintendo (3 Houses)",
-            "link": "https://www.nintendo.com/store/products/fire-emblem-three-houses-switch/"
-        },
-        "links": [{
-            "name": "S ranks",
-            "content": "data/img/about/FireEmblem.png",
-            "type": "image"
-        }],
-        "video": "k73RENsZ464",
-        "gameplay": "usDy8YBesqQ",
-        "type": "TRPG"
     }, {
         "name": "pop'n music",
         "logo": "popn.jpg",
@@ -246,9 +231,9 @@
             "content": "data/img/about/Majsoul4P.jpg",
             "type": "image"
         }, {
-            "name": "Profile (3P)",
-            "content": "data/img/about/Majsoul3P.jpg",
-            "type": "image"
+            "name": "MajSoul Stats",
+            "content": "https://amae-koromo.sapk.ch/player/106970934/8/",
+            "type": "link"
         }],
         "video": null,
         "gameplay": "XwQOSMcApDs",
@@ -283,6 +268,29 @@
         "video": null,
         "gameplay": "pfRmag-zkQE",
         "type": "Other"
+    }, {
+        "name": "Baldur's Gate 3",
+        "logo": "BaldursGate.jpg",
+        "store": {
+            "name": "Steam",
+            "link": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/"
+        },
+        "links": [{
+            "name": "1st Run",
+            "content": "data/img/about/BaldursGate_1.jpg",
+            "type": "image"
+        }, {
+            "name": "2nd Run",
+            "content": "data/img/about/BaldursGate_2.jpg",
+            "type": "image"
+        }, {
+            "name": "3rd Run",
+            "content": "data/img/about/BaldursGate_3.jpg",
+            "type": "image"
+        }],
+        "video": "jNY7AEQ59-8",
+        "gameplay": null,
+        "type": "TRPG"
     }],
     "novels": [{
         "name": "Maitetsu",

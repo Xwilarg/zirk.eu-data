@@ -138,104 +138,6 @@
         "status": 0,
         "comment": null
     }
-},
-{
-    "name": "Shika",
-    "description": "Analytics tool",
-    "image": null,
-    "languages": [ "PHP", "JavaScript" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Astylodon/Shika"
-        }
-    ],
-    "nsfw": false,
-    "type": "Website",
-    "highlight": null,
-    "dates": {
-        "start": "2023-02-02",
-        "end": "2023-07-07"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},
-{
-    "name": "Darkness",
-    "description": "Text-based RPG",
-    "languages": [ "PHP", "JavaScript" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Darkness/"
-        }
-    ],
-    "image": {
-        "id": "Darkness",
-        "description": ""
-    },
-    "nsfw": false,
-    "type": "Video Game",
-    "highlight": null,
-    "dates": {
-        "start": "2023-01-09",
-        "end": "2023-02-23"
-    },
-    "state": {
-        "status": 2,
-        "comment": null
-    }
-},
-{
-    "name": "ResourcesExporterSharp",
-    "description": "Easily export resx files into one file, and import them back",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/ResourcesExporterSharp"
-        }
-    ],
-    "image": null,
-    "nsfw": false,
-    "type": "Script",
-    "highlight": null,
-    "dates": {
-        "start": "2023-06-19",
-        "end": "2023-06-20"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},
-{
-    "name": "Tansy",
-    "description": "",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Tansy/"
-        }
-    ],
-    "image": {
-        "id": "Tansy",
-        "description": ""
-    },
-    "nsfw": false,
-    "type": "Discord Bot",
-    "highlight": null,
-    "dates": {
-        "start": "2023-01-08",
-        "end": "2023-01-31"
-    },
-    "state": {
-        "status": 2,
-        "comment": null
-    }
 }, {
     "name": "FIP-Discord",
     "description": "Discord bot that stream musics from the french radio FIP ",
@@ -293,31 +195,6 @@
     "dates": {
         "start": "2022-11-13",
         "end": "2023-02-02"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},{
-    "name": "Genesis",
-    "description": "Tool to fill information about a world",
-    "languages": [ "TypeScript" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Genesis"
-        }
-    ],
-    "image": {
-        "id": "Genesis",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Website",
-    "highlight": null,
-    "dates": {
-        "start": "2022-02-07",
-        "end": "2022-10-06"
     },
     "state": {
         "status": 0,
@@ -387,7 +264,6 @@
 {
     "name": "BooruSharp",
     "description": "C# library to download images from Booru websites (anime image aggregator)",
-    "comment": "Making a common library for so many websites is such a pain, I still don't know why my unit tests randomly fails",
     "image": {
         "id": "BooruSharp",
         "description": "Code to get the URL and rating of a random image having the \"Cirno\" tag"
@@ -420,7 +296,7 @@
     },
     "state": {
         "status": 0,
-        "comment": null
+        "comment": "Works and used since a while, trying to do the V3 is a huge pain so it's kind in a suspended state"
     }
 },
 {
@@ -446,7 +322,7 @@
     },
     "state": {
         "status": 1,
-        "comment": "Only a few methods in the API are implemented"
+        "comment": "Only a few methods in the API are implemented, I'm also doing bad things with SSL verification"
     }
 },
 {
@@ -587,8 +463,8 @@
         "end": "2021-04-30"
     },
     "state": {
-        "status": 0,
-        "comment": "Playlist creation may not work on the latest Flashpoint version"
+        "status": 1,
+        "comment": "Playlist creation may not work on the latest Flashpoint version since I don't update this anymore"
     }
 },
 {
@@ -667,7 +543,6 @@
 {
     "name": "CSV Cleaner",
     "description": "Some handy tools to clean your CSV files",
-    "comment": "A tool I made for someone who had to manually clean CSV files, I'm pretty happy of the end result",
     "image" : {
         "id": "CSVCleaner",
         "description": "CSV data loaded into the software"
@@ -688,7 +563,7 @@
     },
     "state": {
         "status": 0,
-        "comment": "Could be more intuitive to use"
+        "comment": "Not the best UI/UX but works for its intended use"
     }
 },
 {
@@ -922,113 +797,6 @@
     }
 },
 {
-    "name": "FPH",
-    "description": "Gestion game where you have to build a squad and send it fight in a building",
-    "languages": [ "C#" ],
-    "links": [],
-    "image": {
-        "id": "FPH",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Video Game",
-    "highlight": null,
-    "dates": {
-        "start": "2019-02-28",
-        "end": "2019-03-03"
-    },
-    "state": {
-        "status": 0,
-        "comment": "Work was done on the UI but there is nothing behind it"
-    }
-},
-{
-    "name": "WebColor",
-    "description": "Example of client/server implement for syncing a color",
-    "languages": [ "Golang", "C++", "JavaScript" ],
-    "links": [
-        {
-            "name": "Source Code (Golang Server)",
-            "content": "https://github.com/Xwilarg/WebServerGo"
-        },
-        {
-            "name": "Source Code (C++ Server)",
-            "content": "https://github.com/Xwilarg/WebServerPlus"
-        },
-        {
-            "name": "Source Code (Client)",
-            "content": "https://github.com/Xwilarg/WebClient"
-        }
-    ],
-    "image": {
-        "id": "WebColor",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Website",
-    "highlight": null,
-    "dates": {
-        "start": "2019-04-02",
-        "end": "2022-05-17"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},
-{
-    "name": "LOLIS2D",
-    "description": "Wrapper around the SFML",
-    "languages": [ "C++" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/LOLIS2D"
-        }
-    ],
-    "image": {
-        "id": "LOLIS2D",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Library",
-    "highlight": null,
-    "dates": {
-        "start": "2019-02-21",
-        "end": "2019-08-09"
-    },
-    "state": {
-        "status": 1,
-        "comment": "Allow to create an object and move it around but that's all"
-    }
-},
-{
-    "name": "FE3H-Badge",
-    "description": "Create an image to show who you S ranked in Fire Emblem: 3 Houses",
-    "languages": [ "JavaScript" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/FE3H-Badge"
-        }
-    ],
-    "image": {
-        "id": "FE3H-Badge",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Website",
-    "highlight": null,
-    "dates": {
-        "start": "2019-08-12",
-        "end": "2019-08-10"
-    },
-    "state": {
-        "status": 0,
-        "comment": "Is working but even the image generated is quite ugly"
-    }
-},
-{
     "name": "KC-Bomber-Survival",
     "description": "Shoot them 'up based on the browser game Kantai Collection",
     "languages": [ "C#" ],
@@ -1052,238 +820,6 @@
     "state": {
         "status": 1,
         "comment": "You can play a bit but the game doesn't have much"
-    }
-},
-{
-    "name": "RhythmParadise",
-    "description": "Rhythm game",
-    "languages": [ "C++" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/RhythmParadise"
-        }
-    ],
-    "image": {
-        "id": "RhythmParadise",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Video Game",
-    "highlight": null,
-    "dates": {
-        "start": "2019-11-18",
-        "end": "2019-12-01"
-    },
-    "state": {
-        "status": 0,
-        "comment": "Can read music and move notes down but that's all"
-    }
-},
-{
-    "name": "Project Alpha",
-    "description": "Beat them all",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/ProjectAlpha"
-        }
-    ],
-    "image": {
-        "id": "ProjectAlpha",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Video Game",
-    "highlight": null,
-    "dates": {
-        "start": "2019-10-26",
-        "end": "2019-12-26"
-    },
-    "state": {
-        "status": 1,
-        "comment": "Wave system, enemies to fight but that's all"
-    }
-},
-{
-    "name": "Hayari",
-    "description": "A fast and lightweight browser",
-    "languages": [ "C++" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Hayari"
-        }
-    ],
-    "image": {
-        "id": "Hayari",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Software",
-    "highlight": null,
-    "dates": {
-        "start": "2020-01-21",
-        "end": "2020-01-25"
-    },
-    "state": {
-        "status": 1,
-        "comment": "Only is a very basic browser wrapped around Chromium, stuffs like cookies doesn't work"
-    }
-},
-{
-    "name": "Horizon",
-    "description": "Website to compare shipgirls from differents games",
-    "languages": [ "JavaScript" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Horizon"
-        }
-    ],
-    "image": null,
-    "nsfw": false,
-    "type": "Website",
-    "highlight": null,
-    "dates": {
-        "start": "2019-04-07",
-        "end": "2020-02-19"
-    },
-    "state": {
-        "status": 0,
-        "comment": "Used to work before the wiki changed"
-    }
-},
-{
-    "name": "Hanako",
-    "description": "A robot vacuum cleaner",
-    "languages": [ "C++" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Hanako"
-        }
-    ],
-    "image": {
-        "id": "Hanako",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Robot",
-    "highlight": null,
-    "dates": {
-        "start": "2020-03-02",
-        "end": "2020-03-10"
-    },
-    "state": {
-        "status": 0,
-        "comment": "Could turn a motor and play a buzzer"
-    }
-},
-{
-    "name": "TerrariaBot",
-    "description": "A library to make Terraria bots",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/TerrariaBot"
-        },
-        {
-            "name": "Source Code (Example)",
-            "content": "https://github.com/Xwilarg/Meina"
-        }
-    ],
-    "image": {
-        "id": "TerrariaBot",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Library",
-    "highlight": null,
-    "dates": {
-        "start": "2020-04-10",
-        "end": "2020-05-01"
-    },
-    "state": {
-        "status": 1,
-        "comment": "The bot could connect and teleport but couldn't walk around"
-    }
-},
-{
-    "name": "Tami",
-    "description": "Bot to allow you to moderate a server with votes",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Tami"
-        }
-    ],
-    "image": {
-        "id": "Tami",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Script",
-    "highlight": null,
-    "dates": {
-        "start": "2020-06-30",
-        "end": "2020-07-01"
-    },
-    "state": {
-        "status": 0,
-        "comment": "Was working with 3 commands, destroy channels, create channel and kick user"
-    }
-},
-{
-    "name": "Sand and Seeds",
-    "description": "Farming game",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Sand-and-Seeds"
-        }
-    ],
-    "image": {
-        "id": "SandAndSeeds",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Video Game",
-    "highlight": null,
-    "dates": {
-        "start": "2020-04-20",
-        "end": "2020-07-13"
-    },
-    "state": {
-        "status": 1,
-        "comment": "There are lot of basic features but you quickly reach the end of what you can do"
-    }
-},
-{
-    "name": "Alimentation Warning",
-    "description": "Tell you if your laptop isn't plugged-in",
-    "languages": [ "C++" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Alimentation-Warning"
-        }
-    ],
-    "nsfw": false,
-    "image": null,
-    "type": "Script",
-    "highlight": null,
-    "dates": {
-        "start": "2020-04-03",
-        "end": "2020-08-07"
-    },
-    "state": {
-        "status": 0,
-        "comment": "Just color your whole screen in red if it's not plugged in"
     }
 },
 {
@@ -1313,79 +849,6 @@
     }
 },
 {
-    "name": "Isathos",
-    "description": "An RPG",
-    "languages": [ "C#" ],
-    "links": [],
-    "image": {
-        "id": "Isathos",
-        "description": "RPG"
-    },
-    "nsfw": false,
-    "type": "Video Game",
-    "highlight": null,
-    "dates": {
-        "start": "2020-07-24",
-        "end": "2020-10-25"
-    },
-    "state": {
-        "status": 1,
-        "comment": "The start of the game is implemented but you quickly reach the end"
-    }
-},
-{
-    "name": "Arena",
-    "description": "2D fighting game",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Arena"
-        }
-    ],
-    "image": {
-        "id": "Arena",
-        "description": "Example of a character in the arena who equipped a sword"
-    },
-    "nsfw": false,
-    "type": "Video Game",
-    "highlight": null,
-    "dates": {
-        "start": "2020-11-14",
-        "end": "2020-11-28"
-    },
-    "state": {
-        "status": 2,
-        "comment": "You can just move around and throw weapons"
-    }
-},
-{
-    "name": "Natsuri",
-    "description": "Create sentences based on others people messages",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Natsuri"
-        }
-    ],
-    "image": {
-        "id": "Natsuri",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Discord Bot",
-    "highlight": null,
-    "dates": {
-        "start": "2020-11-22",
-        "end": "2020-12-04"
-    },
-    "state": {
-        "status": 0,
-        "comment": "Has to store people message so takes a lot of space after some time"
-    }
-},
-{
     "name": "Joumachi",
     "description": "Correct typos in other people messages",
     "languages": [ "C#" ],
@@ -1409,180 +872,6 @@
     "state": {
         "status": 0,
         "comment": null
-    }
-},
-{
-    "name": "Ship",
-    "description": "Display fanmades couples from animes/games",
-    "languages": [ "JavaScript", "PHP" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Ship"
-        }
-    ],
-    "image": {
-        "id": "Ship",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Website",
-    "highlight": null,
-    "dates": {
-        "start": "2020-09-21",
-        "end": "2021-01-09"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},
-{
-    "name": "HololiveCalendar",
-    "description": "Display debut date of Hololive members",
-    "languages": [ "JavaScript" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/HololiveCalendar"
-        }
-    ],
-    "image": {
-        "id": "HololiveCalendar",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Website",
-    "highlight": null,
-    "dates": {
-        "start": "2020-01-13",
-        "end": "2021-01-19"
-    },
-    "state": {
-        "status": 1,
-        "comment": "The calendar itself is working but the popup displayed does weird things"
-    }
-},
-{
-    "name": "CharaCreator",
-    "description": "Tool to help creating characters and worlds more easily",
-    "languages": [ "JavaScript" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/CharaCreator"
-        }
-    ],
-    "image": {
-        "id": "CharaCreator",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Website",
-    "highlight": null,
-    "dates": {
-        "start": "2020-12-10",
-        "end": "2021-03-10"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},
-{
-    "name": "Cover",
-    "description": "Display differents covers for a song",
-    "languages": [ "JavaScript" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Cover"
-        }
-    ],
-    "image": {
-        "id": "Cover",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Website",
-    "highlight": null,
-    "dates": {
-        "start": "2021-02-12",
-        "end": "2021-03-28"
-    },
-    "state": {
-        "status": 0,
-        "comment": "Have pages for 3 songs, King, Ussewa and EnvyBaby"
-    }
-},
-{
-    "name": "HoloSongs",
-    "description": "List original songs made by Hololive",
-    "languages": [ "JavaScript" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/HoloSongs"
-        }
-    ],
-    "image": {
-        "id": "HoloSongs",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Website",
-    "highlight": null,
-    "dates": {
-        "start": "2021-04-02",
-        "end": "2021-04-06"
-    },
-    "state": {
-        "status": 1,
-        "comment": "Working but the page takes a very huge time to load"
-    }
-},
-{
-    "name": "ML_Ball",
-    "description": "AI learning to play with balls",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/ML_Ball"
-        }
-    ],
-    "image": null,
-    "nsfw": false,
-    "type": "Video Game",
-    "highlight": null,
-    "dates": {
-        "start": "2021-04-21",
-        "end": "2021-04-22"
-    },
-    "state": {
-        "status": 1,
-        "comment": "Train AI to go toward a ball but that's all"
-    }
-},
-{
-    "name": "HoloRPG",
-    "description": "Tactical RPG",
-    "languages": [ "C#" ],
-    "links": [],
-    "image": {
-        "id": "HoloRPG",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Video Game",
-    "highlight": null,
-    "dates": {
-        "start": "2021-05-08",
-        "end": "2021-05-22"
-    },
-    "state": {
-        "status": 2,
-        "comment": "Only contains a pathfinding allowing AI to move toward each other"
     }
 },
 {
@@ -1612,32 +901,6 @@
     }
 },
 {
-    "name": "ImageCategorizer",
-    "description": "Software to help categorizing images",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/ImageCategorizer"
-        }
-    ],
-    "image": {
-        "id": "ImageCategorizer",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Software",
-    "highlight": null,
-    "dates": {
-        "start": "2021-07-09",
-        "end": "2021-07-10"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},
-{
     "name": "Airi",
     "description": "Bot that attempt to play Soul Worker by reading the screen",
     "languages": [ "C++" ],
@@ -1660,33 +923,7 @@
     },
     "state": {
         "status": 1,
-        "comment": "Could kind of work but was often stuck"
-    }
-},
-{
-    "name": "Fuyanami",
-    "description": "Bot that help managing a VPS",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Fuyanami"
-        }
-    ],
-    "image": {
-        "id": "Fuyanami",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Video Game",
-    "highlight": null,
-    "dates": {
-        "start": "2020-11-06",
-        "end": "2021-09-01"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
+        "comment": "Manage to follow the player in the firsts levels but tend to stay stuck in walls"
     }
 },
 {
@@ -1768,81 +1005,6 @@
     }
 },
 {
-    "name": "NHentaiSharp",
-    "description": "Library to use a doujin API",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/NHentaiSharp"
-        }
-    ],
-    "image": null,
-    "nsfw": true,
-    "type": "Library",
-    "highlight": null,
-    "dates": {
-        "start": "2018-08-08",
-        "end": "2021-11-25"
-    },
-    "state": {
-        "status": 0,
-        "comment": "Used to work, not anymore because of the website Cloudflare protection over their API"
-    }
-},
-{
-    "name": "Camellia",
-    "description": "Utility commands",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Camellia"
-        }
-    ],
-    "image": {
-        "id": "Camellia",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Discord Bot",
-    "highlight": null,
-    "dates": {
-        "start": "2021-07-21",
-        "end": "2021-11-26"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},
-{
-    "name": "Konari",
-    "description": "Bot that analyze and censor messages",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Konari"
-        }
-    ],
-    "image": {
-        "id": "Konari",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Discord Bot",
-    "highlight": null,
-    "dates": {
-        "start": "2018-11-29",
-        "end": "2019-09-14"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},
-{
     "name": "Atsuka",
     "description": "Bot that order you to apologize if you say bad things",
     "languages": [ "C#" ],
@@ -1862,32 +1024,6 @@
     "dates": {
         "start": "2019-04-25",
         "end": "2019-07-19"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},
-{
-    "name": "SDVX5ToKamaitachi",
-    "description": "Export SDVX 5 e-amusement data to Kamaitachi JSON",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/SDVX5ToKamaitachi"
-        }
-    ],
-    "image": {
-        "id": "SDVX5ToKamaitachi",
-        "description": "Example of export"
-    },
-    "nsfw": false,
-    "type": "Software",
-    "highlight": null,
-    "dates": {
-        "start": "2022-03-15",
-        "end": "2022-03-16"
     },
     "state": {
         "status": 0,
@@ -1918,32 +1054,6 @@
     "state": {
         "status": 1,
         "comment": "Is only working on the membership page"
-    }
-},
-{
-    "name": "Taikyoku Shogi",
-    "description": "Implementation of Taikyoku Shogi",
-    "languages": [ "JavaScript" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/TaikyokuShogi"
-        }
-    ],
-    "image": {
-        "id": "TaikyokuShogi",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Video Game",
-    "highlight": null,
-    "dates": {
-        "start": "2022-03-28",
-        "end": "2023-02-16"
-    },
-    "state": {
-        "status": 1,
-        "comment": "You can move pieces but not all of them are implemented"
     }
 },
 {
@@ -2000,53 +1110,6 @@
     },
     "state": {
         "status": 0,
-        "comment": null
-    }
-},
-{
-    "name": "Tsuna",
-    "description": "Compile and execute code sent on Discord",
-    "languages": null,
-    "links": [],
-    "image": {
-        "id": "Tsuna",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Discord Bot",
-    "highlight": null,
-    "dates": {
-        "start": "Q1 2019",
-        "end": "Q1 2019"
-    },
-    "state": {
-        "status": 0,
-        "comment": null
-    }
-},
-{
-    "name": "SkyGate",
-    "description": "Rhythm game",
-    "languages": [ "C#" ],
-    "links": [
-        {
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/SkyGate"
-        }
-    ],
-    "image": {
-        "id": "SkyGate",
-        "description": null
-    },
-    "nsfw": false,
-    "type": "Video Game",
-    "highlight": null,
-    "dates": {
-        "start": "2022-09-15",
-        "end": "2022-09-24"
-    },
-    "state": {
-        "status": 2,
         "comment": null
     }
 }]
