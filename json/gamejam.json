@@ -45,9 +45,11 @@
             "duration": 217,
             "engine": "Unity",
             "version": "2022.3.21f1",
-            "github": null,
-            "website": null,
-            "webgl": [],
+            "github": "https://github.com/Xwilarg/ATallOrder",
+            "website": "https://itch.io/jam/nsfw-minijam-3/rate/2585559",
+            "webgl": [
+                "https://gamejam.zirk.eu/ATallOrder/index.html"
+            ],
             "postModification": null,
             "nsfw": true,
             "rating": null,
