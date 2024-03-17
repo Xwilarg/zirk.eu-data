@@ -23,8 +23,8 @@
     },
     "jams": [
         {
-            "name": "Unnamed",
-            "fullName": "",
+            "name": "ATallOrder",
+            "fullName": "A Tall Order",
             "location": "Online",
             "theme": [ "Hide-and-Seek" ],
             "language": [ "English" ],
@@ -35,7 +35,8 @@
                 "D35298FE0A5D34C1A0DB4D02E00BD1F1",
                 "8FF0366E56CBECA70BA5ABC3AF62F337",
                 "50EE4FBAF5161F54C3482CB93C4D20BF",
-                "2D0800F6F0225D5B1B2BF94C6538EF86"
+                "2D0800F6F0225D5B1B2BF94C6538EF86",
+                "B16397EA9190989DD51023DD322B313C"
             ],
             "event": "NSFW MiniJam #3",
             "shortEvent": "NSFW MiniJam",
