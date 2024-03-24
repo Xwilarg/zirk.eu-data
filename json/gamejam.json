@@ -23,6 +23,36 @@
     },
     "jams": [
         {
+            "name": "Ritual",
+            "fullName": "Ritual",
+            "location": "Online",
+            "theme": [ "Villains" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "EBB7B8C7B09372F858720F944DDC04E1",
+                "B8A0B61289EDFC894406EAFE06562D03"
+            ],
+            "event": "Micro Jam 010",
+            "shortEvent": "Micro Jam",
+            "eventCategory": null,
+            "date": "2024-03-23",
+            "duration": 48,
+            "engine": "Unity",
+            "version": "2022.3.21f1",
+            "github": "https://github.com/Xwilarg/Ritual",
+            "website": "https://itch.io/jam/micro-jam-010/rate/2604285",
+            "webgl": [
+                "https://gamejam.zirk.eu/Ritual/index.html"
+            ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "ATallOrder",
             "fullName": "A Tall Order",
             "location": "Online",
