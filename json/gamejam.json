@@ -82,7 +82,43 @@
             ],
             "postModification": null,
             "nsfw": true,
-            "rating": null,
+            "rating": {
+                "entries": 13,
+                "entriesRated": 12,
+                "totalRatingCount": 92,
+                "scores": {
+                    "Horniness": {
+                        "rank": 2,
+                        "score": 3.375,
+                        "ratingCount": 8
+                    },
+                    "Theme": {
+                        "rank": 2,
+                        "score": 4.250,
+                        "ratingCount": 8
+                    },
+                    "Overall": {
+                        "rank": 4,
+                        "score": 3.600,
+                        "ratingCount": 8
+                    },
+                    "Gameplay": {
+                        "rank": 4,
+                        "score": 3.500,
+                        "ratingCount": 8
+                    },
+                    "Presentation": {
+                        "rank": 6,
+                        "score": 3.500,
+                        "ratingCount": 8
+                    },
+                    "Uniqueness": {
+                        "rank": 9,
+                        "score": 3.375,
+                        "ratingCount": 8
+                    }
+                }
+            },
             "stream": [],
             "gameplay": []
         },
