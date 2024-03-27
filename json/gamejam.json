@@ -48,7 +48,48 @@
             ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 21,
+                "entriesRated": 21,
+                "totalRatingCount": 116,
+                "scores": {
+                    "Presentation": {
+                        "rank": 4,
+                        "score": 3.714,
+                        "ratingCount": 7
+                    },
+                    "Controls": {
+                        "rank": 6,
+                        "score": 3.143,
+                        "ratingCount": 7
+                    },
+                    "Use of theme": {
+                        "rank": 7,
+                        "score": 3.429,
+                        "ratingCount": 7
+                    },
+                    "Enjoyment": {
+                        "rank": 8,
+                        "score": 3.143,
+                        "ratingCount": 7
+                    },
+                    "Concept": {
+                        "rank": 8,
+                        "score": 3.286,
+                        "ratingCount": 7
+                    },
+                    "Overall": {
+                        "rank": 9,
+                        "score": 3.143,
+                        "ratingCount": 7
+                    },
+                    "Use of prerequisite": {
+                        "rank": 12,
+                        "score": 2.143,
+                        "ratingCount": 7
+                    }
+                }
+            },
             "stream": [],
             "gameplay": []
         },
