@@ -300,16 +300,19 @@
         "name": "Maitetsu",
         "link": "https://vndb.org/v18131",
         "type": "visual novel",
-        "image": "Maitetsu.jpg"
+        "image": "Maitetsu.jpg",
+        "nsfw": true
     }, {
         "name": "Warui ga Watashi wa Yuri ja Nai",
         "link": "https://anilist.co/manga/119506/Warui-ga-Watashi-wa-Yuri-ja-Nai",
         "type": "manga",
-        "image": "WaruiGaWatashiWaYuriJaNai.jpg"
+        "image": "WaruiGaWatashiWaYuriJaNai.jpg",
+        "nsfw": false
     }, {
         "name": "Anemone wa Netsu wo Obiru",
         "link": "https://anilist.co/manga/126722/Anemone-wa-Netsu-wo-Obiru/",
         "type": "manga",
-        "image": "Anemone.png"
+        "image": "Anemone.png",
+        "nsfw": false
     }]
 }
