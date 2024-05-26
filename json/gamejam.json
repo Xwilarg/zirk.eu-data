@@ -23,6 +23,35 @@
     },
     "jams": [
         {
+            "name": "DoingHisjobman",
+            "fullName": "Doing Hisjobman",
+            "location": "Online",
+            "theme": [ "Fork" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "8E7970AFFF8A6E0A2C70073440C3B297",
+                "AF3A2CED67B5CA5503341879C03519C7",
+                "727AE26E9F43811F390B6BDFEB4C7B66"
+            ],
+            "event": "Devs That Jam",
+            "shortEvent": "Devs That Jam",
+            "eventCategory": null,
+            "date": "2024-05-25",
+            "duration": 36,
+            "engine": "Unity",
+            "version": "2022.3.21f1",
+            "github": "https://github.com/Xwilarg/DoingHisjobman",
+            "website": "https://itch.io/jam/devs-that-jam-36hr-challenge-may24/rate/2732970",
+            "webgl": [],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "Ritual",
             "fullName": "Ritual",
             "location": "Online",
