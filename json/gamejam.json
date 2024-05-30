@@ -53,7 +53,43 @@
             ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 22,
+                "entriesRated": 22,
+                "totalRatingCount": 176,
+                "scores": {
+                    "Visuals": {
+                        "rank": 5,
+                        "score": 3.000,
+                        "ratingCount": 8
+                    },
+                    "Audio": {
+                        "rank": 8,
+                        "score": 2.750,
+                        "ratingCount": 8
+                    },
+                    "Theme": {
+                        "rank": 9,
+                        "score": 3.000,
+                        "ratingCount": 8
+                    },
+                    "Polish": {
+                        "rank": 9,
+                        "score": 2.625,
+                        "ratingCount": 8
+                    },
+                    "Functionality": {
+                        "rank": 13,
+                        "score": 2.250,
+                        "ratingCount": 8
+                    },
+                    "Experience": {
+                        "rank": 13,
+                        "score": 2.125,
+                        "ratingCount": 8
+                    }
+                }
+            },
             "stream": [],
             "gameplay": []
         },
