@@ -92,47 +92,35 @@
                 "en": null,
                 "id": "Or5lCqWyYE8"
             }, {
-                "name": "ずんだもんの好きって言って欲しいんだもんっ！ (南ノ南)",
+                "name": "我が家のおすすめ料理1選 ～お正月編～ (ひらうみ)",
                 "en": null,
-                "id": "Lqq0S7VWCf8"
+                "id": "AEnITdYpfrU"
             }]
         }],
         "others": [{
+            "name": "ドキメキダイアリー (asmi)",
+            "en": "Dokimeki Diary (asmi)",
+            "id": "cL_M2MSzYQM"
+        }, {
             "name": "魔崇華麗奴 (FAKE TYPE.)",
             "en": "Masquerade (FAKE TYPE.)",
             "id": "yC1lS1mlenc"
-        }, {
-            "name": "アイドル (YOASOBI)",
-            "en": "Idol (YOASOBI)",
-            "id": "ZRtdQ81jPUQ"
         }, {
             "name": "悪くないもん (ミルグラム / ムウ)",
             "en": "It's Not My Fault (MILGRAM / Mu)",
             "id": "xl-TuKghSuA"
         }, {
-            "name": "ドキメキダイアリー (asmi)",
-            "en": "Dokimeki Diary (asmi)",
-            "id": "cL_M2MSzYQM"
-        }, {
             "name": "バグってない？ (麻婆豆腐)",
             "en": "Bug ttenai? (MABODOFU)",
             "id": "JM_1YKuBlqM"
         }, {
-            "name": "いつかオトナになれるといいね。 (ツユ)",
-            "en": "Would be nice if you grow up one day. (TUYU)",
-            "id": "cp8UEv8i0lc"
-        }, {
-            "name": "Be The MUSIC! (プロジェクトセカイ)",
-            "en": "Be The MUSIC! (Project SEKAI)",
+            "name": "ガチコイワズライ (キノシタ)",
+            "en": "Love me please! (kinoshita)",
             "id": "mZI9HEVh6Yw"
         }, {
             "name": "泥中に咲く (ウォルピス社)",
             "en": "Blooming in the Mud (Wolpis Carter)",
             "id": "40dJS_LC6S8"
-        }, {
-            "name": "ラビットホール (DECO*27)",
-            "en": "Rabbit Hole (DECO*27)",
-            "id": "eSW2LVbPThw"
         }],
         "othersSpe": [{
             "name": "ラミィのうた (IOSYS)",
@@ -275,20 +263,21 @@
             "name": "Steam",
             "link": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/"
         },
+        "display": "inline",
         "links": [{
-            "name": "1st Run",
+            "name": "1",
             "content": "data/img/about/BaldursGate_1.jpg",
             "type": "image"
         }, {
-            "name": "2nd Run",
+            "name": "2",
             "content": "data/img/about/BaldursGate_2.jpg",
             "type": "image"
         }, {
-            "name": "3rd Run",
+            "name": "3",
             "content": "data/img/about/BaldursGate_3.jpg",
             "type": "image"
         }, {
-            "name": "4th Run (Tactician)",
+            "name": "4T",
             "content": "data/img/about/BaldursGate_4.jpg",
             "type": "image"
         }],

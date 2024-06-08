@@ -33,21 +33,21 @@
     "highlight": {
         "components": [{
             "name": "Discord Bot",
-            "techDescription": "Made in C# with Discord.NET, uses Rethinkdb as a database and makes call to various API for the different services",
+            "techDescription": "Made in C# with Discord.NET, uses Rethinkdb as a database and makes call to various API for some services",
             "description": [
                 "Discord Bot made for the VoIP software Discord",
-                "Its main features are:",
+                "Contains a multitude of commands but its main ones are:",
                 " - Games: Play games such as quizzes directly on Discord, support single player and multiplayer on versus and cooperation mode",
-                " - Subscriptions: Subscribe to a service to be informed",
-                " - Translations: Translate text in any language by providing either a sentence or an image",
+                " - Subscriptions: Subscribe on a channel to be informed about news such as the latest anime releases",
+                " - Translations: Translate text by providing either a sentence or an image",
                 "And various other commands such as image search, image/text generation, gather information about anime/manga/drama..."
             ],
             "languages": [ "C#" ]
         }, {
             "name": "Website",
-            "techDescription": "Made from scratch in HTML / CSS / JavaScript / PHP",
+            "techDescription": "Made from with Twig in HTML / CSS / JavaScript / PHP",
             "description": [
-                "Website used to gather information such as:",
+                "Website used to display information such as:",
                 " - Command list, splitted by modules",
                 " - General stats about the bot, amount of server it is in, commands used, games played...",
                 " - Developer documentation, information on how to use the bot from its source code and contribute to it",
@@ -68,7 +68,7 @@
 {
     "name": "Euphonia",
     "description": "Website to host and play your music",
-    "languages": [ "JavaScript", "PHP", "Python", "Kotlin" ],
+    "languages": [ "TypeScript", "PHP", "Python", "Kotlin" ],
     "links": [
         {
             "name": "Demo",
@@ -81,14 +81,14 @@
     ],
     "image": {
         "id": "Euphonia",
-        "description": "Example of the website with a music playing. Top right: Preview from mobile notification"
+        "description": "Example of the website with a music playing. Left: Mobile application"
     },
     "nsfw": false,
     "type": "Website",
     "highlight": {
         "components": [{
             "name": "Website",
-            "techDescription": "Made from scratch in HTML / CSS / JavaScript",
+            "techDescription": "Made with HTML / CSS / TypeScript",
             "description": [
                 "Display musics splitted into playlist and allow to play them in a random order",
                 "Have a few others features such as a search bar or a way to switch to minimalist mode",
@@ -115,7 +115,7 @@
 },
 {
     "name": "StackGame",
-    "description": "Game where you are given a title and you need to find the appropriate Stack Exchange website",
+    "description": "Game where you are given a post title and you need to find from which Stack Exchange website it's from",
     "image": {
         "id": "StackGame",
         "description": null
@@ -140,7 +140,7 @@
     }
 }, {
     "name": "FIP-Discord",
-    "description": "Discord bot that stream musics from the french radio FIP ",
+    "description": "Discord bot that stream musics from the french radio FIP",
     "languages": [ "C#" ],
     "links": [
         {
@@ -203,7 +203,7 @@
 },
 {
     "name": "Deer Lister",
-    "description": "Directory Lister",
+    "description": "A website to display your files",
     "languages": [ "PHP", "JavaScript" ],
     "links": [
         {
@@ -484,19 +484,7 @@
     ],
     "nsfw": false,
     "type": "Android App",
-    "highlight": {
-        "components": [{
-            "name": "Android App",
-            "techDescription": "Made in Kotlin with Android Studio",
-            "description": [
-                "Handle Japanese and Korean, display a word each day and provide sentences to show how it can be used",
-                "Test your knowledge either with a choice based quizz, or one where you write/draw (drawing use Google OCR to recognize the answer)",
-                "Then display your progress and how many days in a row you complete the quizz on a calendar",
-                "Also provide a widget to display the daily work on your phone"
-            ],
-            "languages": [ "Kotlin" ]
-        }]
-    },
+    "highlight": null,
     "dates": {
         "start": "2021-02-07",
         "end": "2023-08-04"
@@ -902,7 +890,7 @@
 },
 {
     "name": "Airi",
-    "description": "Bot that attempt to play Soul Worker by reading the screen",
+    "description": "Bot that attempt to play Soul Worker by reading the minimap",
     "languages": [ "C++" ],
     "links": [
         {
@@ -928,7 +916,7 @@
 },
 {
     "name": "NHentaiAnalytics",
-    "description": "Find doujins based on your preferences",
+    "description": "Find doujinshi based on your preferences",
     "languages": [ "JavaScript" ],
     "links": [
         {
