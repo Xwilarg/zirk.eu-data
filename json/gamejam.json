@@ -33,7 +33,14 @@
             "theme": [],
             "language": [ "English" ],
             "tags": [],
-            "team": [],
+            "team": [
+                "38C86B53A8C4DDCCE1DF92203451FDBD",
+                "BBDCCA6A6432ED7F9C8B13709C619588",
+                "CFFEC5C4F8FE8BC4EAFA2BAAF1334AF2",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "6B3B3D69138D0DA8D7F6589F5F03825D",
+                "F7F85938E9FE6D8D633CB04E684F3968"
+            ],
             "event": "Touhou Pride Game Jam 6",
             "shortEvent": "Touhou Pride Game Jam",
             "eventCategory": null,
