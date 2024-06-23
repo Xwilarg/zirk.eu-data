@@ -27,8 +27,8 @@
     },
     "jams": [
         {
-            "name": "StrategicPolyamory",
-            "fullName": "Strategic Polyamory",
+            "name": "MariMariMari",
+            "fullName": "Mari! Mari! Mari!",
             "location": "Online",
             "theme": [],
             "language": [ "English" ],
@@ -48,7 +48,7 @@
             "duration": 336,
             "engine": "Unity",
             "version": "6000.0.5f1",
-            "github": null,
+            "github": "https://github.com/Xwilarg/MariMariMari",
             "website": null,
             "webgl": [],
             "postModification": null,
