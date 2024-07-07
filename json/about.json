@@ -280,6 +280,10 @@
             "name": "4T",
             "content": "data/img/about/BaldursGate_4.jpg",
             "type": "image"
+        }, {
+            "name": "5T",
+            "content": "data/img/about/BaldursGate_5.jpg",
+            "type": "image"
         }],
         "video": "jNY7AEQ59-8",
         "gameplay": null,
