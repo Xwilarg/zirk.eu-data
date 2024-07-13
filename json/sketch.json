@@ -1,0 +1,57 @@
+[{
+    "id": "home",
+    "name": "Home",
+    "scene": "Main",
+    "explanations": []
+}, {
+    "id": "map-gen",
+    "name": "Map Generation",
+    "scene": "MapGeneration",
+    "explanations": [
+        "Drag&amp;drop to move around the map",
+        "Click on a room to highlight it"
+    ]
+}, {
+    "id": "circle",
+    "name": "Capture",
+    "scene": "Circle",
+    "explanations": [
+        "Move your mouse while holding down left click to draw on screen",
+        "Make a circle around a shape without touching it to make it disappear"
+    ]
+}, {
+    "id": "trpg",
+    "name": "Turn-based RPG",
+    "scene": "TRPG",
+    "explanations": [
+        "Click on a tile within your range to move there",
+        "Turn the mouth around to see your line of sight"
+    ]
+}, {
+    "id": "fishing",
+    "name": "Fishing",
+    "scene": "Fishing",
+    "explanations": [
+        "Move your cursor to move your hook until a fish is foccused on it",
+        "When a fish is bitting, move your mouse to keep it on your target until you capture it"
+    ]
+}, {
+    "id": "visual-novel",
+    "name": "Visual Novel",
+    "scene": "VN",
+    "explanations": [
+        "Click to read the text"
+    ]
+}, {
+    "id": "credits",
+    "name": "Credits",
+    "scene": "Credits",
+    "explanations": []
+}, {
+    "id": "achievements",
+    "name": "Achievements",
+    "scene": "Achievements",
+    "explanations": [
+        "Play the others games to unlock these!"
+    ]
+}]
