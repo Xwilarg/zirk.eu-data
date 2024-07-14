@@ -53,7 +53,53 @@
             "webgl": [],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 33,
+                "entriesRated": 22,
+                "totalRatingCount": 863,
+                "scores": {
+                    "Audio / Music": {
+                        "rank": 12,
+                        "score": 3.360,
+                        "ratingCount": 25
+                    },
+                    "Use of LGBTQ+ Themes": {
+                        "rank": 17,
+                        "score": 3.080,
+                        "ratingCount": 25
+                    },
+                    "Concept": {
+                        "rank": 17,
+                        "score": 3.360,
+                        "ratingCount": 25
+                    },
+                    "Gameplay": {
+                        "rank": 18,
+                        "score": 2.800,
+                        "ratingCount": 25
+                    },
+                    "Balance (Challenge and Fairness)": {
+                        "rank": 19,
+                        "score": 2.680,
+                        "ratingCount": 25
+                    },
+                    "Story / Writing": {
+                        "rank": 24,
+                        "score": 2.640,
+                        "ratingCount": 25
+                    },
+                    "Overall": {
+                        "rank": 26,
+                        "score": 2.800,
+                        "ratingCount": 25
+                    },
+                    "Visuals": {
+                        "rank": 27,
+                        "score": 2.920,
+                        "ratingCount": 25
+                    }
+                }
+            },
             "stream": [],
             "gameplay": []
         },
