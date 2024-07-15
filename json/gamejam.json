@@ -55,7 +55,7 @@
             "nsfw": false,
             "rating": {
                 "entries": 33,
-                "entriesRated": 22,
+                "entriesRated": 33,
                 "totalRatingCount": 863,
                 "scores": {
                     "Audio / Music": {
