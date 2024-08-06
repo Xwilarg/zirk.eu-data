@@ -63,21 +63,21 @@
                 "id": "pMXRWurZenY"
             }]
         }, {
-            "name": "ホロライブ",
-            "en": "hololive",
-            "link": "https://hololive.hololivepro.com/en/music/",
+            "name": "鷹嶺ルイ",
+            "en": "Takane Lui",
+            "link": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
             "youtube": [{
-                "name": "P.E.T. (沙花叉クロヱ)",
-                "en": "P.E.T. (Sakamata Chloe)",
-                "id": "wztmSx2_T6w"
+                "name": "魔眼ウインク",
+                "en": "Evil Eye Wink",
+                "id": "T9umJXIGM9w"
             }, {
-                "name": "ばかばっか (鷹嶺ルイ)",
-                "en": "Fools Fools Fools (Takane Lui)",
+                "name": "ばかばっか",
+                "en": "Fools Fools Fools",
                 "id": "By8x65oteIw"
             }, {
-                "name": "饗宴ソリダリティ～SHAKE★NABE～ (秘密結社holoX)",
-                "en": "Kyouen Solidarity~SHAKE★NABE~ (Secret Society holoX)",
-                "id": "g-K6PJi7b0o"
+                "name": "オーバード",
+                "en": "Overd",
+                "id": "O0aSJdN3mVY"
             }]
         }, {
             "name": "ずんだもん",
@@ -144,26 +144,11 @@
             "link": "https://store.steampowered.com/app/440/Team_Fortress_2/"
         },
         "links": [{
-            "name": "TF2 Center",
-            "content": "https://tf2center.com/profile/76561198039345808",
-            "type": "link"
+            "name": "Loadout",
+            "content": "data/img/about/TF2Loadout.png",
+            "type": "image"
         }],
         "video": "GLlLQ3LmZWU",
-        "gameplay": null,
-        "type": "FPS"
-    }, {
-        "name": "Rainbow 6 Siege",
-        "logo": "R6.jpg",
-        "store": {
-            "name": "Steam",
-            "link": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/"
-        },
-        "links": [{
-            "name": "R6 Tracker",
-            "content": "https://r6.tracker.network/profile/id/a5f1eb6b-9f4c-4079-9115-8662ccae055e",
-            "type": "link"
-        }],
-        "video": "5aUG2Pn-WDs",
         "gameplay": null,
         "type": "FPS"
     }, {
