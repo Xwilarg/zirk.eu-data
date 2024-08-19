@@ -2,30 +2,71 @@
     "people": {
         "C833038CF16E37422842F3887D8D6EE0": {
             "name": "Astrø",
-            "link": "https://alexandrecoulon.itch.io/"
+            "link": "https://alexandrecoulon.itch.io/",
+            "roles": [ "Programmer", "VFX Artist" ]
         },
         "442E1C026A58E1CD17046E9A09FD4905": {
             "name": "loge",
-            "link": "https://loge0.itch.io/"
+            "link": "https://loge0.itch.io/",
+            "roles": [ "Pixel Artist", "3D Artist" ]
         },
         "EBB7B8C7B09372F858720F944DDC04E1": {
             "name": "Jadith",
-            "link": null
+            "link": null,
+            "roles": [ "3D Artist" ]
         },
         "AC7EEDA7ACF39B61E8F1D02E06EF0C2A": {
             "name": "TheIndra",
-            "link": "https://theindra.eu/"
+            "link": "https://theindra.eu/",
+            "roles": [ "Programmer" ]
         },
         "50EE4FBAF5161F54C3482CB93C4D20BF": {
             "name": "WordedPuppet",
-            "link": "https://wordedpuppet.neocities.org/"
+            "link": "https://wordedpuppet.neocities.org/",
+            "roles": [ "Music" ]
         },
         "AF3A2CED67B5CA5503341879C03519C7": {
             "name": "Fractal",
-            "link": null
+            "link": null,
+            "roles": [ "2D Artist, Programmer" ]
+        },
+        "BBDCCA6A6432ED7F9C8B13709C619588": {
+            "name": "Verdant_Jack",
+            "link": null,
+            "roles": [ "Writer", "Pixel Artist" ]
         }
     },
     "jams": [
+        {
+            "name": "EntROBOneur",
+            "fullName": "EntROBOneur",
+            "location": "Online",
+            "theme": [ "Built to Scale" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "2823010A995BFF0FC292B7F5408DEB57",
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "FF280F48A72102711345E96488578655",
+                "EBB7B8C7B09372F858720F944DDC04E1",
+                "BBDCCA6A6432ED7F9C8B13709C619588"
+            ],
+            "event": "GMTK Game Jam 2024",
+            "shortEvent": "GMTK Game Jam",
+            "eventCategory": null,
+            "date": "2024-08-16",
+            "duration": 96,
+            "engine": "Unity",
+            "version": "6000.0.15f1",
+            "github": "https://github.com/Xwilarg/GMTKGameJam2024",
+            "website": null,
+            "webgl": [],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
         {
             "name": "MariMariMari",
             "fullName": "Mari! Mari! Mari!",
