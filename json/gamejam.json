@@ -59,11 +59,16 @@
             "engine": "Unity",
             "version": "6000.0.15f1",
             "github": "https://github.com/Xwilarg/GMTKGameJam2024",
-            "website": null,
+            "website": "https://itch.io/jam/gmtk-2024/rate/2908447",
             "webgl": [],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 7735,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "stream": [],
             "gameplay": []
         },
