@@ -64,13 +64,15 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 7735,
+                "entries": 7708,
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
             },
             "stream": [],
-            "gameplay": []
+            "gameplay": [
+                "https://www.youtube.com/watch?v=nzfd24PwOqg"
+            ]
         },
         {
             "name": "MariMariMari",
@@ -584,14 +586,14 @@
             "webgl": [
                 "https://gamejam.zirk.eu/SyncShot/index.html"
             ],
-            "postModification": {
+            "postModification": null,
+            "nsfw": false,
+            "rating": {
                 "entries": 1,
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
             },
-            "nsfw": false,
-            "rating": null,
             "stream": [],
             "gameplay": []
         },
