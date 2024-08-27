@@ -64,10 +64,31 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 7708,
-                "entriesRated": null,
-                "totalRatingCount": null,
-                "scores": null
+                "entries": 7644,
+                "entriesRated": 7430,
+                "totalRatingCount": 158210,
+                "scores": {
+                    "Style": {
+                        "rank": 4834,
+                        "score": 2.424,
+                        "ratingCount": 7
+                    },
+                    "Creativity": {
+                        "rank": 5202,
+                        "score": 2.424,
+                        "ratingCount": 7
+                    },
+                    "Overall": {
+                        "rank": 5327,
+                        "score": 2.290,
+                        "ratingCount": 7
+                    },
+                    "Enjoyment": {
+                        "rank": 5572,
+                        "score": 2.020,
+                        "ratingCount": 7
+                    }
+                }
             },
             "stream": [],
             "gameplay": [
@@ -1151,7 +1172,7 @@
             "postModification": "Fix reset button",
             "nsfw": false,
             "rating": {
-                "entries": 6842,
+                "entries": 6745,
                 "entriesRated": 6738,
                 "totalRatingCount": 160479,
                 "scores": {
