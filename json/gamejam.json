@@ -64,7 +64,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 7644,
+                "entries": { "total": 7644, "category": null },
                 "entriesRated": 7430,
                 "totalRatingCount": 158210,
                 "scores": {
@@ -123,7 +123,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 33,
+                "entries": { "total": 33, "category": null },
                 "entriesRated": 33,
                 "totalRatingCount": 863,
                 "scores": {
@@ -200,7 +200,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 22,
+                "entries": { "total": 22, "category": null },
                 "entriesRated": 22,
                 "totalRatingCount": 176,
                 "scores": {
@@ -266,7 +266,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 21,
+                "entries": { "total": 21, "category": null },
                 "entriesRated": 21,
                 "totalRatingCount": 116,
                 "scores": {
@@ -341,7 +341,7 @@
             "postModification": null,
             "nsfw": true,
             "rating": {
-                "entries": 13,
+                "entries": { "total": 13, "category": null },
                 "entriesRated": 12,
                 "totalRatingCount": 92,
                 "scores": {
@@ -409,7 +409,7 @@
             "postModification": null,
             "nsfw": true,
             "rating": {
-                "entries": 12,
+                "entries": { "total": 12, "category": null },
                 "entriesRated": 10,
                 "totalRatingCount": 62,
                 "scores": {
@@ -478,7 +478,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 73,
+                "entries": { "total": 73, "category": null },
                 "entriesRated": 67,
                 "totalRatingCount": 534,
                 "scores": {
@@ -543,7 +543,7 @@
             "postModification": null,
             "nsfw": true,
             "rating": {
-                "entries": 2,
+                "entries": { "total": 2, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -556,7 +556,7 @@
             "name": "TurtlesThrottle",
             "fullName": "Turtle's Throttle",
             "location": "Paris, France",
-            "theme": [],
+            "theme": [ "Make Me Laugh" ],
             "language": [ "English" ],
             "tags": [],
             "team": [
@@ -579,7 +579,12 @@
             "webgl": [ "https://gamejam.zirk.eu/TurtlesThrottle/index.html" ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": { "total": 9964, "category": null },
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "stream": [],
             "gameplay": [],
             "imagePosOverrides": "right"
@@ -610,7 +615,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 1,
+                "entries": { "total": 1, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -644,14 +649,14 @@
             "website": "https://itch.io/jam/nsfw-minijam/rate/2475777",
             "webgl": [],
             "postModification": {
-                "entries": 12,
+                "entries": { "total": 12, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
             },
             "nsfw": true,
             "rating": {
-                "entries": 12,
+                "entries": { "total": 12, "category": null },
                 "entriesRated": 12,
                 "totalRatingCount": 97,
                 "scores": {
@@ -715,7 +720,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 51,
+                "entries": { "total": 51, "category": null },
                 "entriesRated": 51,
                 "totalRatingCount": 2230,
                 "scores": {
@@ -794,7 +799,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 239,
+                "entries": { "total": 239, "category": null },
                 "entriesRated": 224,
                 "totalRatingCount": 2133,
                 "scores": {
@@ -868,7 +873,7 @@
             "postModification": null,
             "nsfw": true,
             "rating": {
-                "entries": 4,
+                "entries": { "total": 4, "category": null },
                 "entriesRated": 4,
                 "totalRatingCount": 17,
                 "scores": {
@@ -935,7 +940,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 65,
+                "entries": { "total": 65, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -975,7 +980,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 1597,
+                "entries": { "total": 2166, "category": 1597 },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": {
@@ -1054,7 +1059,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 25,
+                "entries": { "total": 25, "category": null },
                 "entriesRated": 22,
                 "totalRatingCount": 77,
                 "scores": {
@@ -1128,7 +1133,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 2,
+                "entries": { "total": 2, "category": null },
                 "entriesRated": 2,
                 "totalRatingCount": null,
                 "scores": {
@@ -1172,7 +1177,7 @@
             "postModification": "Fix reset button",
             "nsfw": false,
             "rating": {
-                "entries": 6745,
+                "entries": { "total": 6745, "category": null },
                 "entriesRated": 6738,
                 "totalRatingCount": 160479,
                 "scores": {
@@ -1230,7 +1235,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 16,
+                "entries": { "total": 16, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -1266,7 +1271,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 31,
+                "entries": { "total": 31, "category": null },
                 "entriesRated": 31,
                 "totalRatingCount": 984,
                 "scores": {
@@ -1341,7 +1346,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 12,
+                "entries": { "total": 12, "category": null },
                 "entriesRated": 12,
                 "totalRatingCount": null,
                 "scores": {
@@ -1383,7 +1388,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 46,
+                "entries": { "total": 46, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -1416,7 +1421,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 491,
+                "entries": { "total": 2308, "category": 491 },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": {
@@ -1496,7 +1501,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 87,
+                "entries": { "total": 87, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -1535,7 +1540,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 62,
+                "entries": { "total": 62, "category": null },
                 "entriesRated": 59,
                 "totalRatingCount": 701,
                 "scores": {
@@ -1609,7 +1614,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 86,
+                "entries": { "total": 86, "category": null },
                 "entriesRated": 83,
                 "totalRatingCount": 925,
                 "scores": {
@@ -1681,7 +1686,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 54,
+                "entries": { "total": 54, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -1721,7 +1726,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 18,
+                "entries": { "total": 18, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -1762,7 +1767,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 7600,
+                "entries": { "total": 7600, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -1797,7 +1802,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 4,
+                "entries": { "total": 4, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -1835,7 +1840,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 9,
+                "entries": { "total": 9, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -1875,7 +1880,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 1703,
+                "entries": { "total": 2420, "category": 1703 },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": {
@@ -1952,7 +1957,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 3,
+                "entries": { "total": 3, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -1989,7 +1994,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 30,
+                "entries": { "total": 30, "category": null },
                 "entriesRated": 28,
                 "totalRatingCount": null,
                 "scores": {
@@ -2070,7 +2075,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 9,
+                "entries": { "total": 9, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -2090,7 +2095,7 @@
             ],
             "event": "TF2Maps 72-Hour Summer Jam",
             "shortEvent": "TF2Maps 72-Hour Jam",
-            "eventCategory": null,
+            "eventCategory": "Games and Programs",
             "date": "2022-07-22",
             "duration": 72,
             "engine": "Unity",
@@ -2102,7 +2107,12 @@
             ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": { "total": 908, "category": null },
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "stream": [],
             "gameplay": []
         },
@@ -2138,7 +2148,7 @@
             "postModification": "Fix intro not playing and blocking game on a black screen in WebGL build",
             "nsfw": false,
             "rating": {
-                "entries": 61,
+                "entries": { "total": 61, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -2179,7 +2189,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 31,
+                "entries": { "total": 31, "category": null },
                 "entriesRated": 30,
                 "totalRatingCount": 843,
                 "scores": {
@@ -2257,7 +2267,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 42,
+                "entries": { "total": 42, "category": null },
                 "entriesRated": 42,
                 "totalRatingCount": 802,
                 "scores": {
@@ -2329,7 +2339,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 7,
+                "entries": { "total": 7, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -2369,7 +2379,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 82,
+                "entries": { "total": 82, "category": null },
                 "entriesRated": 84,
                 "totalRatingCount": 993,
                 "scores": {
@@ -2441,7 +2451,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 5,
+                "entries": { "total": 5, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -2482,7 +2492,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 1923,
+                "entries": { "total": 2901, "category": 1922 },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": {
@@ -2559,7 +2569,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 4,
+                "entries": { "total": 4, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -2599,7 +2609,7 @@
             "postModification": "Update project to 2021.2 to fix WebGL build crashing",
             "nsfw": false,
             "rating": {
-                "entries": 7,
+                "entries": { "total": 7, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -2636,7 +2646,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 66,
+                "entries": { "total": 66, "category": null },
                 "entriesRated": 67,
                 "totalRatingCount": 854,
                 "scores": {
@@ -2698,7 +2708,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 4,
+                "entries": { "total": 4, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -2740,7 +2750,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 18,
+                "entries": { "total": 18, "category": null },
                 "entriesRated": 20,
                 "totalRatingCount": 205,
                 "scores": {
@@ -2810,7 +2820,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 7,
+                "entries": { "total": 7, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -2846,7 +2856,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 5,
+                "entries": { "total": 5, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -2884,7 +2894,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 5,
+                "entries": { "total": 5, "category": null },
                 "entriesRated": 5,
                 "totalRatingCount": 21,
                 "scores": {
@@ -2960,7 +2970,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 2,
+                "entries": { "total": 2, "category": null },
                 "entriesRated": 1,
                 "totalRatingCount": 1,
                 "scores": {
@@ -3025,7 +3035,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 2204,
+                "entries": { "total": 2939, "category": 2204 },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": {
@@ -3093,7 +3103,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 59,
+                "entries": { "total": 59, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -3133,7 +3143,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 2721,
+                "entries": { "total": 3866, "category": 2721 },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -3174,7 +3184,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 9601,
+                "entries": { "total": 9601, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -3212,7 +3222,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 8,
+                "entries": { "total": 8, "category": null },
                 "entriesRated": 8,
                 "totalRatingCount": 23,
                 "scores": {
@@ -3286,7 +3296,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 33,
+                "entries": { "total": 33, "category": null },
                 "entriesRated": 33,
                 "totalRatingCount": 307,
                 "scores": {
@@ -3352,7 +3362,7 @@
             "postModification": null,
             "nsfw": true,
             "rating": {
-                "entries": 16,
+                "entries": { "total": 16, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -3391,7 +3401,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 9010,
+                "entries": { "total": 9010, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -3428,7 +3438,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 32,
+                "entries": { "total": 32, "category": null },
                 "entriesRated": 38,
                 "totalRatingCount": 331,
                 "scores": {
@@ -3492,7 +3502,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 2013,
+                "entries": { "total": 3066, "category": 2013 },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": {
@@ -3565,7 +3575,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 34,
+                "entries": { "total": 34, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -3608,7 +3618,7 @@
             "postModification": "Fix data files not being found making the player unable to pick items",
             "nsfw": false,
             "rating": {
-                "entries": 8606,
+                "entries": { "total": 8606, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -3643,7 +3653,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 1846,
+                "entries": { "total": 2884, "category": 1846 },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": {
@@ -3711,7 +3721,7 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 7263,
+                "entries": { "total": 7263, "category": null },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -3749,7 +3759,7 @@
             "postModification": "Fix bug with layers making player appears under the ground",
             "nsfw": false,
             "rating": {
-                "entries": 1489,
+                "entries": { "total": 2389, "category": 1489 },
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": {
