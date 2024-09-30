@@ -23,7 +23,7 @@
         "50EE4FBAF5161F54C3482CB93C4D20BF": {
             "name": "WordedPuppet",
             "link": "https://wordedpuppet.neocities.org/",
-            "roles": [ "Music" ]
+            "roles": [ "Composer" ]
         },
         "AF3A2CED67B5CA5503341879C03519C7": {
             "name": "Fractal",
@@ -34,6 +34,11 @@
             "name": "Verdant_Jack",
             "link": null,
             "roles": [ "Writer", "Pixel Artist" ]
+        },
+        "8E7970AFFF8A6E0A2C70073440C3B297": {
+            "name": "SweaterWeather",
+            "link": "https://x.com/Sweather_art",
+            "roles": [ "2D Artist" ]
         }
     },
     "jams": [
