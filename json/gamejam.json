@@ -73,7 +73,9 @@
             "version": "6000.0.22f1",
             "github": "https://github.com/Xwilarg/ShrinkAndSlime",
             "website": "https://ldjam.com/events/ludum-dare/56/shrink-slime",
-            "webgl": [],
+            "webgl": [
+                "https://gamejam.zirk.eu/ShrinkAndSlime/index.html"
+            ],
             "postModification": null,
             "nsfw": false,
             "rating": null,
