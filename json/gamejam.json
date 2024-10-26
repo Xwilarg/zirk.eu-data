@@ -50,7 +50,7 @@
         {
             "name": "StrawberryRodeo",
             "fullName": "Strawberry Rodeo",
-            "formatOverrides": "png",
+            "format": "png",
             "location": "Online",
             "theme": [
                 "jam"
@@ -77,8 +77,7 @@
             "nsfw": true,
             "rating": null,
             "stream": [],
-            "gameplay": [],
-            "imagePosOverrides": "down"
+            "gameplay": []
         },
         {
             "name": "ShrinkAndSlime",
