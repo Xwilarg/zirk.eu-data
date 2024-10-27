@@ -76,7 +76,7 @@
             "postModification": null,
             "nsfw": true,
             "rating": {
-                "entries": 1,
+                "entries": 2,
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
@@ -115,7 +115,53 @@
             ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 1479,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": {
+                    "Overall": {
+                        "rank": 695,
+                        "score": 3.389,
+                        "ratingCount": 29
+                    },
+                    "Fun": {
+                        "rank": 815,
+                        "score": 3.054,
+                        "ratingCount": 30
+                    },
+                    "Innovation": {
+                        "rank": 424,
+                        "score": 3.444,
+                        "ratingCount": 29
+                    },
+                    "Theme": {
+                        "rank": 150,
+                        "score": 4.161,
+                        "ratingCount": 30
+                    },
+                    "Graphics": {
+                        "rank": 746,
+                        "score": 3.315,
+                        "ratingCount": 29
+                    },
+                    "Audio": {
+                        "rank": 625,
+                        "score": 2.769,
+                        "ratingCount": 28
+                    },
+                    "Humor": {
+                        "rank": 248,
+                        "score": 3.577,
+                        "ratingCount": 28
+                    },
+                    "Mood": {
+                        "rank": 593,
+                        "score": 3.464,
+                        "ratingCount": 30
+                    }
+                }
+            },
             "stream": [],
             "gameplay": []
         },
