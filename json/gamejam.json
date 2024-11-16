@@ -49,6 +49,11 @@
             "name": "cookie",
             "link": "https://x.com/iCreativeCookie",
             "roles": [ "2D Artist" ]
+        },
+         "4E2DE7AC29399B28966B83C11F79533B": {
+            "name": "NehNeh",
+            "link": "https://nehneh.carrd.co/",
+            "roles": [ "2D Artist" ]
         }
     },
     "jams": [
@@ -66,7 +71,8 @@
                 "D35298FE0A5D34C1A0DB4D02E00BD1F1",
                 "AF3A2CED67B5CA5503341879C03519C7",
                 "8E7970AFFF8A6E0A2C70073440C3B297",
-                "4E2DE7AC29399B28966B83C11F79533B"
+                "4E2DE7AC29399B28966B83C11F79533B",
+                "727AE26E9F43811F390B6BDFEB4C7B66"
             ],
             "event": "One Hour Game Jam 499",
             "shortEvent": "One Hour Game Jam",
