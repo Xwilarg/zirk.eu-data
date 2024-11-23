@@ -83,9 +83,9 @@
                 "https://gamejam.zirk.eu/315050/index.html"
             ],
             "postModification": null,
-            "nsfw": true,
+            "nsfw": false,
             "rating": {
-                "entries": 7,
+                "entries": 8,
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
