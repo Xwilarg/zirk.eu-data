@@ -58,6 +58,42 @@
     },
     "jams": [
         {
+            "name": "315050",
+            "fullName": "3x150+50",
+            "format": "png",
+            "location": "Online",
+            "theme": [
+                "500!"
+            ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+            ],
+            "event": "One Hour Game Jam 500",
+            "shortEvent": "One Hour Game Jam",
+            "eventCategory": null,
+            "date": "2024-11-23",
+            "duration": 1,
+            "engine": "Unity",
+            "version": "6000.0.27f1",
+            "github": "https://github.com/Xwilarg/OneHourJam500",
+            "website": "https://onehourgamejam.com/?page=jam&jam=500",
+            "webgl": [
+                "https://gamejam.zirk.eu/315050/index.html"
+            ],
+            "postModification": null,
+            "nsfw": true,
+            "rating": {
+                "entries": 7,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "AndroidBoxing",
             "fullName": "Android Boxing",
             "format": "png",
