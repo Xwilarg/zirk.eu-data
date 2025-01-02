@@ -829,7 +829,12 @@
             "webgl": [ "https://gamejam.zirk.eu/TurtlesThrottle/index.html" ],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 9964,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "stream": [],
             "gameplay": [],
             "imagePosOverrides": "right"
