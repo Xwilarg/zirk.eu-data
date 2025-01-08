@@ -1,0 +1,1103 @@
+[{
+    "name": "Sanara",
+    "description": "Multipurpose bot for Discord",
+    "image": {
+        "id": "Sanara",
+        "description": "Top left: image search<br/>Bottom left: shiritori (Japanese associative word game)<br/>Right: text translation from image"
+    },
+    "languages": [ "C#", "JavaScript", "PHP" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Sanara"
+        },
+        {
+            "name": "Website",
+            "content": "https://sanara.zirk.eu"
+        },
+        {
+            "name": "top.gg",
+            "content": "https://top.gg/bot/329664361016721408"
+        },
+        {
+            "name": "Invitation Link",
+            "content": "https://discord.com/oauth2/authorize?client_id=329664361016721408&permissions=51264&scope=bot%20applications.commands"
+        },
+        {
+            "name": "Invitation Link (All Ages)",
+            "content": "https://discord.com/oauth2/authorize?client_id=883767204733157397&permissions=51264&scope=bot%20applications.commands"
+        }
+    ],
+    "nsfw": false,
+    "type": "Discord Bot",
+    "highlight": {
+        "components": [{
+            "name": "Discord Bot",
+            "techDescription": "Made in C# with Discord.NET, uses Rethinkdb as a database and makes call to various API for some services",
+            "description": [
+                "Discord Bot made for the VoIP software Discord",
+                "Contains a multitude of commands but its main ones are:",
+                " - Games: Play games such as quizzes directly on Discord, support single player and multiplayer on versus and cooperation mode",
+                " - Subscriptions: Subscribe on a channel to be informed about news such as the latest anime releases",
+                " - Translations: Translate text by providing either a sentence or an image",
+                "And various other commands such as image search, image/text generation, gather information about anime/manga/drama..."
+            ],
+            "languages": [ "C#" ]
+        }, {
+            "name": "Website",
+            "techDescription": "Made from with Twig in HTML / CSS / JavaScript / PHP",
+            "description": [
+                "Website used to display information such as:",
+                " - Command list, splitted by modules",
+                " - General stats about the bot, amount of server it is in, commands used, games played...",
+                " - Developer documentation, information on how to use the bot from its source code and contribute to it",
+                " - Gallery: Past images used for the bot"
+            ],
+            "languages": [ "PHP", "JavaScript" ]
+        }]
+    },
+    "dates": {
+        "start": "2017-08-28",
+        "end": null
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "Euphonia",
+    "description": "Website to host and play your music",
+    "languages": [ "TypeScript", "PHP", "Python", "Kotlin" ],
+    "links": [
+        {
+            "name": "Demo",
+            "content": "https://euphonia.zirk.eu"
+        },
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Euphonia"
+        }
+    ],
+    "image": {
+        "id": "Euphonia",
+        "description": "Example of the website with a music playing. Left: Mobile application"
+    },
+    "nsfw": false,
+    "type": "Website",
+    "highlight": {
+        "components": [{
+            "name": "Website",
+            "techDescription": "Made with HTML / CSS / TypeScript",
+            "description": [
+                "Display musics splitted into playlist and allow to play them in a random order",
+                "Have a few others features such as a search bar or a way to switch to minimalist mode",
+                "Allow integrate last.fm to track the songs played"
+            ],
+            "languages": [ "JavaScript" ]
+        }, {
+            "name": "Android App",
+            "techDescription": "Made in Kotlin with Android Studio",
+            "description": [
+                "Download the data for offline use and allow to play the musics"
+            ],
+            "languages": [ "Kotlin" ]
+        }]
+    },
+    "dates": {
+        "start": "2021-11-25",
+        "end": null
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "StackGame",
+    "description": "Game where you are given a post title and you need to find from which Stack Exchange website it's from",
+    "image": {
+        "id": "StackGame",
+        "description": null
+    },
+    "languages": [ "JavaScript" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/StackGame"
+        }
+    ],
+    "nsfw": false,
+    "type": "Website",
+    "highlight": null,
+    "dates": {
+        "start": "2023-08-10",
+        "end": "2023-08-10"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+}, {
+    "name": "FIP-Discord",
+    "description": "Discord bot that stream musics from the french radio FIP",
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/FIP-Discord/"
+        },
+        {
+            "name": "Invitation Link",
+            "content": "https://discord.com/oauth2/authorize?client_id=1062043607252606976&permissions=3145728&scope=bot%20applications.commands"
+        },
+        {
+            "name": "top.gg",
+            "content": "https://top.gg/bot/1062043607252606976"
+        }
+    ],
+    "image": {
+        "id": "FIP-Discord",
+        "description": "A playlist being played"
+    },
+    "nsfw": false,
+    "type": "Discord Bot",
+    "highlight": null,
+    "dates": {
+        "start": "2023-01-09",
+        "end": "2023-03-07"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+}, {
+    "name": "Chessweeper",
+    "description": "A mix between Chess and Minesweeper",
+    "languages": [ "TypeScript", "PHP" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Chessweeper"
+        },
+        {
+            "name": "Game",
+            "content": "https://chessweeper.zirk.eu/"
+        }
+    ],
+    "image": {
+        "id": "Chessweeper",
+        "description": "Example of board in 'classic' mode"
+    },
+    "nsfw": false,
+    "type": "Game",
+    "highlight": null,
+    "dates": {
+        "start": "2022-11-13",
+        "end": "2023-02-02"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "Deer Lister",
+    "description": "A website to display your files",
+    "languages": [ "PHP", "JavaScript" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Astylodon/DeerLister"
+        },
+        {
+            "name": "Demo",
+            "content": "https://deerlister.astylodon.org/"
+        }
+    ],
+    "image": {
+        "id": "DeerLister",
+        "description": "Example of usage of the website"
+    },
+    "nsfw": false,
+    "type": "Website",
+    "highlight": null,
+    "dates": {
+        "start": "2022-08-25",
+        "end": "2022-11-02"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "NHentai Downloader",
+    "description": "Allows to download doujinshi (fan-made manga) from some popular website",
+    "image": {
+        "description": "Download of many doujinshi at once",
+        "id": "NHentaiDownloader"
+    },
+    "languages": [ "TypeScript" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/NHentaiDownloader"
+        },
+        {
+            "name": "Website",
+            "content": "https://nhentaidownloader.zirk.eu"
+        }
+    ],
+    "nsfw": true,
+    "type": "Web Extension",
+    "highlight": null,
+    "dates": {
+        "start": "2018-09-04",
+        "end": "2022-11-06"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "BooruSharp",
+    "description": "C# library to download images from Booru websites (anime image aggregator)",
+    "image": {
+        "id": "BooruSharp",
+        "description": "Code to get the URL and rating of a random image having the \"Cirno\" tag"
+    },
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/BooruSharp"
+        },
+        {
+            "name": "NuGet",
+            "content": "https://www.nuget.org/packages/BooruSharp"
+        },
+        {
+            "name": "Website",
+            "content": "https://boorusharp.zirk.eu"
+        },
+        {
+            "name": "Documentation",
+            "content": "https://boorusharp.zirk.eu/doc/index.html"
+        }
+    ],
+    "nsfw": true,
+    "type": "Library",
+    "highlight": null,
+    "dates": {
+        "start": "2018-07-16",
+        "end": "2023-08-21"
+    },
+    "state": {
+        "status": 0,
+        "comment": "Works and used since a while, trying to do the V3 is a huge pain so it's kind in a suspended state"
+    }
+},
+{
+    "name": "Colodex",
+    "description": "Library to use Holodex (vtuber stream aggregator) in C",
+    "languages": [ "C" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Colodex"
+        }
+    ],
+    "image": {
+        "id": "Colodex",
+        "description": "Request to get information about the latest streams"
+    },
+    "nsfw": false,
+    "type": "Library",
+    "highlight": null,
+    "dates": {
+        "start": "2021-09-08",
+        "end": "2021-10-27"
+    },
+    "state": {
+        "status": 1,
+        "comment": "Only a few methods in the API are implemented, I'm also doing bad things with SSL verification"
+    }
+},
+{
+    "name": "TwitterSharp",
+    "description": "C# wrapper around Twitter API V2",
+    "image": {
+        "id": "TwitterSharp",
+        "description": "Code to search the 10 latests tweet of Mori Calliope"
+    },
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/TwitterSharp"
+        },
+        {
+            "name": "Documentation",
+            "content": "https://twittersharp.zirk.eu/"
+        }
+    ],
+    "nsfw": false,
+    "type": "Library",
+    "highlight": null,
+    "dates": {
+        "start": "2021-05-03",
+        "end": "2023-08-15"
+    },
+    "state": {
+        "status": 0,
+        "comment": "Still a few API endpoints not implemented but the most important ones are here"
+    }
+},
+{
+    "name": "GitHub Traffic",
+    "description": "Statistics about the traffic of your GitHub repositories",
+    "languages": [ "Python" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/GitHubTraffic"
+        }
+    ],
+    "image": {
+        "id": "GitHubTraffic",
+        "description": "Most popular repositories for user \"Xwilarg\""
+    },
+    "nsfw": false,
+    "type": "Library",
+    "highlight": null,
+    "dates": {
+        "start": "2021-04-10",
+        "end": "2022-02-16"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "Pina",
+    "description": "A Discord bot that allow anyone to pin messages in your server without the \"Manage Messages\" permission",
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Pina"
+        },
+        {
+            "name": "top.gg",
+            "content": "https://top.gg/bot/583314556848308261"
+        }
+    ],
+    "image": {
+        "id": "Pina",
+        "description": "Example of how to pin a message using the bot, followed by setting a whitelist"
+    },
+    "nsfw": false,
+    "type": "Discord Bot",
+    "highlight": null,
+    "dates": {
+        "start": "2019-05-29",
+        "end": "2023-05-06"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "Discord OAuth2 PHP",
+    "description": "PHP library to easily use Discord OAuth2 authentification",
+    "languages": [ "PHP" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Discord-OAuth2-PHP"
+        },
+        {
+            "name": "Packagist",
+            "content": "https://packagist.org/packages/xwilarg/discord-oauth2-php"
+        }
+    ],
+    "image": {
+        "description": "Code to get and display the username of someone",
+        "id": "Discord-OAuth2-PHP"
+    },
+    "nsfw": false,
+    "type": "Library",
+    "highlight": null,
+    "dates": {
+        "start": "2019-04-19",
+        "end": "2021-09-01"
+    },
+    "state": {
+        "status": 1,
+        "comment": "Still some issue where if the user reload the page, he has to authentify again"
+    }
+},
+{
+    "name": "FPL-TimePlayed",
+    "description": "Flashpoint extension to display how much time you spent on a game",
+    "languages": [ "TypeScript" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/FPL-TimePlayed"
+        }
+    ],
+    "image": {
+        "id": "FPL-TimePlayed",
+        "description": "Example of usage"
+    },
+    "nsfw": false,
+    "type": "Flashpoint extension",
+    "highlight": null,
+    "dates": {
+        "start": "2021-04-04",
+        "end": "2021-04-30"
+    },
+    "state": {
+        "status": 1,
+        "comment": "Playlist creation may not work on the latest Flashpoint version since I don't update this anymore"
+    }
+},
+{
+    "name": "DailyReset",
+    "description": "Android application to help learning Korean and Japanese, give a new word every day and do quizzes based on them",
+    "comment": "Made this project to motivate myself to continue learning Japanese... that didn't work",
+    "image": {
+        "id": "DailyReset",
+        "description": "Image 1: Daily word<br/>Image 2: Quizz with handwritten input<br/>Image 3: Quizz result<br/>Image 4: Sample sentence with daily word"
+    },
+    "languages": [ "Kotlin" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/DailyReset"
+        }
+    ],
+    "nsfw": false,
+    "type": "Android App",
+    "highlight": null,
+    "dates": {
+        "start": "2021-02-07",
+        "end": "2023-08-04"
+    },
+    "state": {
+        "status": 0,
+        "comment": "The app would need more gamification and a better design to be great"
+    }
+},
+{
+    "name": "Yuuka",
+    "description": "A Discord bot that allow you to create tags with text, audio or images, and then play/show them when you want to",
+    "image": {
+        "id": "Yuuka",
+        "description": "Tags"
+    },
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Yuuka"
+        },
+        {
+            "name": "Invitation Link",
+            "content": "https://discord.com/oauth2/authorize?client_id=734788725388869742&permissions=3196928&scope=bot"
+        },
+        {
+            "name": "top.gg",
+            "content": "https://top.gg/bot/734788725388869742"
+        }
+    ],
+    "nsfw": false,
+    "type": "Discord Bot",
+    "highlight": null,
+    "dates": {
+        "start": "2020-07-20",
+        "end": "2021-12-21"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "CSV Cleaner",
+    "description": "Some handy tools to clean your CSV files",
+    "image" : {
+        "id": "CSVCleaner",
+        "description": "CSV data loaded into the software"
+    },
+    "languages": [ "C++" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/CSVCleaner"
+        }
+    ],
+    "nsfw": false,
+    "type": "Software",
+    "highlight": null,
+    "dates": {
+        "start": "2019-01-22",
+        "end": "2019-02-03"
+    },
+    "state": {
+        "status": 0,
+        "comment": "Not the best UI/UX but works for its intended use"
+    }
+},
+{
+    "name": "Lania",
+    "description": "A Discord bot than open a gate allowing you to send an image to a random guild and to see the reactions they add to it",
+    "comment": "Was expecting this project to be more popular but it never took of",
+    "image": {
+        "id": "Lania",
+        "description": "Left: An image send to others guilds<br/>Right: 2 images received"
+    },
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Lania"
+        }
+    ],
+    "nsfw": false,
+    "type": "Discord Bot",
+    "highlight": null,
+    "dates": {
+        "start": "2018-06-08",
+        "end": "2020-09-03"
+    },
+    "state": {
+        "status": 0,
+        "comment": "Had some minor annoying bugs were some information weren't transmit properly between servers"
+    }
+},
+{
+    "name": "Konawall",
+    "description": "Set a random anime wallpaper on your computer",
+    "languages": [ "Python" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Konawall"
+        }
+    ],
+    "image": {
+        "id": "Konawall",
+        "description": "Setting a random wallpaper with the tag \"kantai_collection\""
+    },
+    "nsfw": false,
+    "type": "Script",
+    "highlight": null,
+    "dates": {
+        "start": "2018-12-30",
+        "end": "2019-01-20"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "FightEpitechGrades",
+    "description": "2D fighting game where you import your marks and fight against them",
+    "image": {
+        "id": "FightEpitechGrades",
+        "description": "Player versus AI"
+    },
+    "languages": [ "C++" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/FightEpitechGrades-Old"
+        }
+    ],
+    "nsfw": false,
+    "type": "Game",
+    "highlight": null,
+    "dates": {
+        "start": "End of 2016",
+        "end": "End of 2016"
+    },
+    "state": {
+        "status": 1,
+        "comment": "The \"fight against grades\" that was supposed to be the main part of the game ended up not being here"
+    }
+},
+{
+    "name": "ProjetISNProcessing",
+    "description": "Turned-based RPG where you need to go inside an endless dungeon",
+    "image": {
+        "id": "ProjetISNProcessing",
+        "description": "Ongoing game"
+    },
+    "languages": [ "Java" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/ProjetISNProcessing"
+        }
+    ],
+    "nsfw": false,
+    "type": "Game",
+    "highlight": null,
+    "dates": {
+        "start": "2015",
+        "end": "2016"
+    },
+    "state": {
+        "status": 1,
+        "comment": "After some levels the game became really laggy and thus unplayable"
+    }
+},
+{
+    "name": "The Quest Of Zirk",
+    "description": "Text-based game for TI-83+",
+    "image": {
+        "id": "TQOZ",
+        "description": "Screen 1: Main menu (Main menu 1-Play 2-Stats 3-Reset 4-Achievements 5-Codes 6-Credit 7-Exit)<br/>Screen 2: Fight (You are attacking, your enemy loose: 12  He Still has: 33)<br/>Screen 3: In-game menu (Where are you going? 1- Capital 2-City 3-River 4-Graveyard 5-Dungeon)<br/>Screen 4: Stats recap (Enemies killed: 1  Damages done: 67  Damages received: 100)"
+    },
+    "languages": [ "TI-Basic" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/TQOZ"
+        }
+    ],
+    "nsfw": false,
+    "type": "Game",
+    "highlight": null,
+    "dates": {
+        "start": "Around 2012",
+        "end": "Around 2012"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "jpo",
+    "description": "Showcase of some EPITECH projects in VR, mostly in a parodic way",
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/jpo"
+        }
+    ],
+    "image": {
+        "id": "jpo",
+        "description": null
+    },
+    "nsfw": false,
+    "type": "Game",
+    "highlight": null,
+    "dates": {
+        "start": "2017-12-17",
+        "end": "2018-03-04"
+    },
+    "state": {
+        "status": 0,
+        "comment": "Still could be improved but was still used during open days"
+    }
+},
+{
+    "name": "Lab2D",
+    "description": "Adventure / RPG game where you are a service agent uncovering the secrets of a laboratory",
+    "languages": [ "C#" ],
+    "links": [],
+    "image": {
+        "id": "Lab2D",
+        "description": null
+    },
+    "nsfw": false,
+    "type": "Game",
+    "highlight": null,
+    "dates": {
+        "start": "2017-11-09",
+        "end": "2017-11-23"
+    },
+    "state": {
+        "status": 1,
+        "comment": "You can explore things for a bit but will quickly get stopped by the fact that the game isn't finished"
+    }
+},
+{
+    "name": "FightEpitechGrades",
+    "description": "2D fighting game where you import your marks and fight against them",
+    "languages": [ "C++" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/FightEpitechGrades"
+        }
+    ],
+    "image": {
+        "id": "FightEpitechGrades-2",
+        "description": null
+    },
+    "nsfw": false,
+    "type": "Game",
+    "highlight": null,
+    "dates": {
+        "start": "2018-06-08",
+        "end": "2018-10-04"
+    },
+    "state": {
+        "status": 1,
+        "comment": "Improved version of the project with the same name one, still lacking in a lot of points"
+    }
+},
+{
+    "name": "Particles",
+    "description": "Example of particles system with the SFML",
+    "languages": [ "C++" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Particles"
+        }
+    ],
+    "image": {
+        "id": "Particles",
+        "description": null
+    },
+    "nsfw": false,
+    "type": "Software",
+    "highlight": null,
+    "dates": {
+        "start": "2018-12-29",
+        "end": "2019-01-10"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "KC-Bomber-Survival",
+    "description": "Shoot them 'up based on the browser game Kantai Collection",
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/KC-Bomber-Survival"
+        }
+    ],
+    "image": {
+        "id": "KC-Bomber-Survival",
+        "description": null
+    },
+    "nsfw": false,
+    "type": "Game",
+    "highlight": null,
+    "dates": {
+        "start": "2019-09-11",
+        "end": "2019-09-24"
+    },
+    "state": {
+        "status": 1,
+        "comment": "You can play a bit but the game doesn't have much"
+    }
+},
+{
+    "name": "Yousei",
+    "description": "A quizz based app to learn Japanese",
+    "languages": [ "Kotlin" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Yousei"
+        }
+    ],
+    "image": {
+        "id": "Yousei",
+        "description": null
+    },
+    "nsfw": false,
+    "type": "Mobile Application",
+    "highlight": null,
+    "dates": {
+        "start": "2020-07-06",
+        "end": "2020-10-22"
+    },
+    "state": {
+        "status": 0,
+        "comment": "Lot of differents kind of quizzes are implemented"
+    }
+},
+{
+    "name": "Joumachi",
+    "description": "Correct typos in other people messages",
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Joumachi"
+        }
+    ],
+    "image": {
+        "id": "Joumachi",
+        "description": null
+    },
+    "nsfw": false,
+    "type": "Discord Bot",
+    "highlight": null,
+    "dates": {
+        "start": "2020-12-04",
+        "end": "2020-12-04"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "Onigiri",
+    "description": "Bot that post every new tweet from Hololive",
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Onigiri"
+        }
+    ],
+    "image": {
+        "id": "Onigiri",
+        "description": null
+    },
+    "nsfw": false,
+    "type": "Discord Bot",
+    "highlight": null,
+    "dates": {
+        "start": "2021-05-05",
+        "end": "2021-07-12"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "Airi",
+    "description": "Bot that attempt to play Soul Worker by reading the minimap",
+    "languages": [ "C++" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Airi"
+        }
+    ],
+    "image": {
+        "id": "Airi",
+        "description": "Example of a bot that follow the player and help him"
+    },
+    "nsfw": false,
+    "type": "Bot",
+    "highlight": null,
+    "dates": {
+        "start": "2019-03-18",
+        "end": "2021-07-28"
+    },
+    "state": {
+        "status": 1,
+        "comment": "Manage to follow the player in the firsts levels but tend to stay stuck in walls"
+    }
+},
+{
+    "name": "NHentaiAnalytics",
+    "description": "Find doujinshi based on your preferences",
+    "languages": [ "JavaScript" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/NHentaiAnalytics"
+        }
+    ],
+    "image": {
+        "id": "NHentaiAnalytics",
+        "description": null
+    },
+    "nsfw": true,
+    "type": "Browser Extension",
+    "highlight": null,
+    "dates": {
+        "start": "2019-12-07",
+        "end": "2021-09-22"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "VNotify",
+    "description": "Desktop notifications for new vtubers streams",
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/VNotify"
+        }
+    ],
+    "image": {
+        "id": "VNotify",
+        "description": null
+    },
+    "nsfw": false,
+    "type": "Software",
+    "highlight": null,
+    "dates": {
+        "start": "2021-09-15",
+        "end": "2021-09-29"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "TrafficSimulator",
+    "description": "Simulation of car traffic",
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/TrafficSimulator"
+        }
+    ],
+    "image": {
+        "id": "TrafficSimulator",
+        "description": null
+    },
+    "nsfw": false,
+    "type": "Library",
+    "highlight": null,
+    "dates": {
+        "start": "2020-12-19",
+        "end": "2021-11-01"
+    },
+    "state": {
+        "status": 1,
+        "comment": "Contains example of 'cars' moving around and trying to not crash into each others, not always succeeding"
+    }
+},
+{
+    "name": "Atsuka",
+    "description": "Bot that order you to apologize if you say bad things",
+    "languages": [ "C#" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Atsuka"
+        }
+    ],
+    "image": {
+        "id": "Atsuka",
+        "description": "Example of censorship by the bot"
+    },
+    "nsfw": false,
+    "type": "Discord Bot",
+    "highlight": null,
+    "dates": {
+        "start": "2019-04-25",
+        "end": "2019-07-19"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+},
+{
+    "name": "HumbleWish",
+    "description": "Extension to know where game in Humble Bundle are in the wishlist of your friends",
+    "languages": [ "JavaScript" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/HumbleWish"
+        }
+    ],
+    "image": {
+        "id": "HumbleWish",
+        "description": null
+    },
+    "nsfw": false,
+    "type": "Browser Extension",
+    "highlight": null,
+    "dates": {
+        "start": "2022-04-13",
+        "end": "2022-04-14"
+    },
+    "state": {
+        "status": 1,
+        "comment": "Is only working on the membership page"
+    }
+},
+{
+    "name": "CommitMessageAnalyzer",
+    "description": "Analyze the commit messages on one of your repository",
+    "languages": [ "JavaScript", "PHP" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/CommitMessageAnalyzer"
+        }
+    ],
+    "image": {
+        "id": "CommitMessageAnalyzer",
+        "description": "Analyze of the lasts commits of a repository"
+    },
+    "nsfw": false,
+    "type": "Website",
+    "highlight": null,
+    "dates": {
+        "start": "2018-08-14",
+        "end": "2022-04-16"
+    },
+    "state": {
+        "status": 0,
+        "comment": "Only display the firsts 500 commits (to avoid spamming the API)"
+    }
+},
+{
+    "name": "zirk.eu",
+    "description": "This website",
+    "languages": [ "PHP", "JavaScript" ],
+    "links": [
+        {
+            "name": "Source Code (Current)",
+            "content": "https://github.com/Xwilarg/zirk.eu-v7"
+        },
+        {
+            "name": "Source Code (V5)",
+            "content": "https://github.com/Xwilarg/zirk.eu-v5"
+        },
+        {
+            "name": "Source Code (V2 to V4)",
+            "content": "https://github.com/Xwilarg/zirk.eu-old"
+        }
+    ],
+    "image": null,
+    "nsfw": false,
+    "type": "Website",
+    "highlight": null,
+    "dates": {
+        "start": "2018",
+        "end": null
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+}]
