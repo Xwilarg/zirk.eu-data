@@ -29,37 +29,64 @@
             }
         ]
     }, {
-    "name": "Sanara",
-    "description": "Multipurpose Discord bot centered around Japanese culture",
-    "links": [
-        {
-            "type": "primary",
-            "name": "Website",
-            "content": "https://sanara.zirk.eu"
-        },
-        {
-            "type": "github",
-            "name": "Source Code",
-            "content": "https://github.com/Xwilarg/Sanara"
-        },
-        {
-            "type": "other",
-            "name": "top.gg",
-            "content": "https://top.gg/bot/329664361016721408"
-        }
-    ],
-    "images": [
-        {
-            "name": "Sanara-01.png",
-            "description": "Example of 'cosplay' command and download the content from the bot"
-        },
-        {
-            "name": "Sanara-02.png",
-            "description": "Example of 'translate' command by passing an image"
-        },
-        {
-            "name": "Sanara-03.png",
-            "description": "Example of 'anime' game where user need to make a guess from a clip"
-        }
-    ]
-}]
+        "name": "Sanara",
+        "description": "Multipurpose Discord bot centered around Japanese culture",
+        "links": [
+            {
+                "type": "primary",
+                "name": "Website",
+                "content": "https://sanara.zirk.eu"
+            },
+            {
+                "type": "github",
+                "name": "Source Code",
+                "content": "https://github.com/Xwilarg/Sanara"
+            },
+            {
+                "type": "other",
+                "name": "top.gg",
+                "content": "https://top.gg/bot/329664361016721408"
+            }
+        ],
+        "images": [
+            {
+                "name": "Sanara-01.png",
+                "description": "Example of 'cosplay' command and download the content from the bot"
+            },
+            {
+                "name": "Sanara-02.png",
+                "description": "Example of 'translate' command by passing an image"
+            },
+            {
+                "name": "Sanara-03.png",
+                "description": "Example of 'anime' game where user need to make a guess from a clip"
+            }
+        ]
+    }, {
+        "name": "Katsis",
+        "description": "",
+        "links": [
+            {
+                "type": "primary",
+                "name": "Website",
+                "content": "https://katsis.net/",
+                "nsfw": true
+            }
+        ],
+        "images": [
+            {
+                "name": "Katsis-01.png",
+                "description": "Katsis Catcher, circle Katsises to capture them"
+            },
+            {
+                "name": "Katsis-02.png",
+                "description": "Nano's Lab, look for hint arounds to find secret words"
+            },
+            {
+                "name": "Katsis-03.png",
+                "description": "Aethra's Eggflation 2, merge eggs to grow them bigger",
+                "nsfw": true
+            }
+        ]
+    }
+]
