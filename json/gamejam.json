@@ -58,6 +58,43 @@
     },
     "jams": [
         {
+            "name": "StravaganzHAT",
+            "fullName": "Stravaganz'HAT",
+            "format": "png",
+            "location": "Online",
+            "theme": [
+                "Extravaganza"
+            ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "4808163EA30FC22ED1809A8238CDEB6A"
+            ],
+            "event": "One Hour Game Jam 508",
+            "shortEvent": "One Hour Game Jam",
+            "eventCategory": null,
+            "date": "2025-01-18",
+            "duration": 1,
+            "engine": "Unity",
+            "version": "6000.0.34f1",
+            "github": "https://github.com/Xwilarg/OneHourJam508",
+            "website": "https://onehourgamejam.com/?page=jam&jam=508",
+            "webgl": [
+                "https://gamejam.zirk.eu/StravaganzHAT/index.html"
+            ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": {
+                "entries": 2,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "315050",
             "fullName": "3x150+50",
             "format": "png",
