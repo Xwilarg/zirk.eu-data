@@ -45,12 +45,7 @@
             "link": "https://x.com/FragantPauline",
             "roles": [ "2D Artist" ]
         },
-        "FD37DC14A95BE5F5924D787756C356C4": {
-            "name": "cookie",
-            "link": "https://x.com/iCreativeCookie",
-            "roles": [ "2D Artist" ]
-        },
-         "4E2DE7AC29399B28966B83C11F79533B": {
+        "4E2DE7AC29399B28966B83C11F79533B": {
             "name": "NehNeh",
             "link": "https://nehneh.carrd.co/",
             "roles": [ "2D Artist" ]
@@ -86,13 +81,14 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 2,
+                "entries": 4,
                 "entriesRated": null,
                 "totalRatingCount": null,
                 "scores": null
             },
             "stream": [],
-            "gameplay": []
+            "gameplay": [],
+            "imagePosOverrides": "up"
         },
         {
             "name": "315050",
