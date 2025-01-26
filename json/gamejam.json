@@ -53,6 +53,37 @@
     },
     "jams": [
         {
+            "name": "BulbBubbleBattle",
+            "fullName": "Bulb Bubble Battle",
+            "format": "png",
+            "location": "Bures-Sur-Yvette, France",
+            "theme": [],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "4808163EA30FC22ED1809A8238CDEB6A",
+                "8DAFAA501157D2B0BCF45E059352E26A",
+                "14E8E465D31C84CF9122853F89E91419",
+                "F63EEFF60F766695E606A503E59C79B3"
+            ],
+            "event": "Global Game Jam 2025",
+            "shortEvent": "Global Game Jam",
+            "eventCategory": null,
+            "date": "2025-01-24",
+            "duration": 48,
+            "engine": "Unity",
+            "version": "6000.0.34f1",
+            "github": "https://github.com/Xwilarg/GlobalGameJam2025",
+            "website": "https://globalgamejam.org/games/2025/tulpenmanie-3",
+            "webgl": [ "http://gamejam.zirk.eu/BulbBubbleBattle/index.html" ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "StravaganzHAT",
             "fullName": "Stravaganz'HAT",
             "format": "png",
