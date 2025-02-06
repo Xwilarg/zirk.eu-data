@@ -32,6 +32,44 @@
             }
         ]
     }, {
+        "name": "Amiko",
+        "description": "Chat software",
+        "metadata": {
+            "start": "09-2024"
+        },
+        "links": [
+            {
+                "type": "github",
+                "name": "Source Code",
+                "content": "https://github.com/Xwilarg/Amiko"
+            }
+        ],
+        "images": [
+            {
+                "name": "Amiko-01.png",
+                "description": "Conversation preview"
+            }
+        ]
+    }, {
+        "name": "Magia",
+        "description": "Drawing software",
+        "metadata": {
+            "start": "02-2025"
+        },
+        "links": [
+            {
+                "type": "github",
+                "name": "Source Code",
+                "content": "https://github.com/Xwilarg/Magia"
+            }
+        ],
+        "images": [
+            {
+                "name": "Magia-01.png",
+                "description": "Drawing preview"
+            }
+        ]
+    }, {
         "name": "Sanara",
         "description": "Multipurpose Discord bot centered around Japanese culture",
         "metadata": {
