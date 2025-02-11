@@ -47,7 +47,7 @@
         "images": [
             {
                 "name": "Magia-01.png",
-                "description": "Drawing preview"
+                "description": "Drawing preview (Art by Fractal)"
             }
         ]
     }, {
@@ -123,7 +123,7 @@
         "images": [
             {
                 "name": "Katsis-01.png",
-                "description": "Katsis Catcher, circle Katsises to capture them"
+                "description": "Katsis Catcher, circle katsises to capture them"
             },
             {
                 "name": "Katsis-02.png",
