@@ -32,25 +32,6 @@
             }
         ]
     }, {
-        "name": "Amiko",
-        "description": "Chat software",
-        "metadata": {
-            "start": "09-2024"
-        },
-        "links": [
-            {
-                "type": "github",
-                "name": "Source Code",
-                "content": "https://github.com/Xwilarg/Amiko"
-            }
-        ],
-        "images": [
-            {
-                "name": "Amiko-01.png",
-                "description": "Conversation preview"
-            }
-        ]
-    }, {
         "name": "Magia",
         "description": "Drawing software",
         "metadata": {
@@ -67,6 +48,25 @@
             {
                 "name": "Magia-01.png",
                 "description": "Drawing preview"
+            }
+        ]
+    }, {
+        "name": "Amiko",
+        "description": "Chat software",
+        "metadata": {
+            "start": "09-2024"
+        },
+        "links": [
+            {
+                "type": "github",
+                "name": "Source Code",
+                "content": "https://github.com/Xwilarg/Amiko"
+            }
+        ],
+        "images": [
+            {
+                "name": "Amiko-01.png",
+                "description": "Conversation preview"
             }
         ]
     }, {
