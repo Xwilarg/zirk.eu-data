@@ -80,7 +80,12 @@
             "webgl": [],
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 2239,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "stream": [],
             "gameplay": []
         },
