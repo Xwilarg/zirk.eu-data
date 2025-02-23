@@ -53,6 +53,38 @@
     },
     "jams": [
         {
+            "name": "Functional Fairgrounds",
+            "fullName": "FunctionalFairgrounds",
+            "format": "png",
+            "location": "Online",
+            "theme": [ "Nothing can go wrong..." ],
+            "language": [ "English", "French", "Danish" ],
+            "tags": [],
+            "team": [
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
+                "EBB7B8C7B09372F858720F944DDC04E1",
+                "4E2DE7AC29399B28966B83C11F79533B",
+                "7F246C13861F3C2D7435B79B30E7426C",
+                "FF1BF4F891F35F1CF3E3A56D3BD53923",
+                "DCBDE9095F97ED3699263A9A79642CA6"
+            ],
+            "event": "Brackeys Game Jam 2025.1",
+            "shortEvent": "Brackeys Game Jam",
+            "eventCategory": null,
+            "date": "2025-02-16",
+            "duration": 168,
+            "engine": "Unity",
+            "version": "6000.0.36f1",
+            "github": "https://github.com/ReneBossen/BrackeysGameJam2025",
+            "website": "https://itch.io/jam/brackeys-13/rate/3344709",
+            "webgl": [],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "BulbBubbleBattle",
             "fullName": "Bulb Bubble Battle",
             "format": "png",
