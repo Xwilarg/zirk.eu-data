@@ -53,8 +53,8 @@
     },
     "jams": [
         {
-            "name": "Functional Fairgrounds",
-            "fullName": "FunctionalFairgrounds",
+            "name": "FunctionalFairgrounds",
+            "fullName": "Functional Fairgrounds",
             "format": "png",
             "location": "Online",
             "theme": [ "Nothing can go wrong..." ],
