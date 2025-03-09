@@ -81,10 +81,46 @@
             "postModification": null,
             "nsfw": false,
             "rating": {
-                "entries": 2239,
-                "entriesRated": null,
-                "totalRatingCount": null,
-                "scores": null
+                "entries": 2199,
+                "entriesRated": 2140,
+                "totalRatingCount": 45378,
+                "scores": {
+                    "Innovation": {
+                        "rank": 491,
+                        "score": 3.389,
+                        "ratingCount": 12
+                    },
+                    "Audio": {
+                        "rank": 620,
+                        "score": 3.122,
+                        "ratingCount": 12
+                    },
+                    "Visuals": {
+                        "rank": 686,
+                        "score": 3.363,
+                        "ratingCount": 12
+                    },
+                    "Gameplay": {
+                        "rank": 698,
+                        "score": 3.042,
+                        "ratingCount": 12
+                    },
+                    "Overall": {
+                        "rank": 702,
+                        "score": 3.136,
+                        "ratingCount": 12
+                    },
+                    "Theme": {
+                        "rank": 820,
+                        "score": 2.962,
+                        "ratingCount": 12
+                    },
+                    "Enjoyment": {
+                        "rank": 850,
+                        "score": 3.042,
+                        "ratingCount": 12
+                    }
+                }
             },
             "stream": [],
             "gameplay": []
