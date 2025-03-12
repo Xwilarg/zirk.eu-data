@@ -47,6 +47,10 @@
         "images": [
             {
                 "name": "Magia-01.png",
+                "description": "Example of color blending"
+            },
+            {
+                "name": "Magia-02.png",
                 "description": "Drawing preview (Art by Fractal)"
             }
         ]
