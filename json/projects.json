@@ -51,7 +51,30 @@
             },
             {
                 "name": "Magia-02.png",
-                "description": "Drawing preview (Art by Fractal)"
+                "description": "Drawing by Fractal"
+            },
+            {
+                "name": "Magia-03.png",
+                "description": "Drawing by Mel"
+            }
+        ]
+    }, {
+        "name": "Amiko",
+        "description": "Chat software",
+        "metadata": {
+            "start": "09-2024"
+        },
+        "links": [
+            {
+                "type": "github",
+                "name": "Source Code",
+                "content": "https://github.com/Xwilarg/Amiko"
+            }
+        ],
+        "images": [
+            {
+                "name": "Amiko-01.png",
+                "description": "Conversation"
             }
         ]
     }, {
