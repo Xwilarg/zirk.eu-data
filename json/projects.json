@@ -40,6 +40,11 @@
         "links": [
             {
                 "type": "github",
+                "name": "Website",
+                "content": "https://magia.zirk.eu"
+            },
+            {
+                "type": "github",
                 "name": "Source Code",
                 "content": "https://github.com/Xwilarg/Magia"
             }
@@ -93,6 +98,11 @@
                 "type": "github",
                 "name": "Source Code",
                 "content": "https://github.com/Xwilarg/Sanara"
+            },
+            {
+                "type": "github",
+                "name": "Source Code (Website)",
+                "content": "https://github.com/Xwilarg/Sanara-Website"
             },
             {
                 "type": "other",
