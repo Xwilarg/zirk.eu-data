@@ -1386,7 +1386,7 @@
             ],
             "event": "Ludum Dare 54",
             "shortEvent": "Ludum Dare",
-            "eventCategory": null,
+            "eventCategory": "Jam",
             "date": "2023-09-30",
             "duration": 72,
             "engine": "Godot",
