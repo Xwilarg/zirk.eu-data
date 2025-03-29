@@ -1,0 +1,60 @@
+[{
+    "name": "Gamejams",
+    "link": {
+        "name": "See More",
+        "target": "gamejam"
+    },
+    "images": [
+        {
+            "name": "Gamejam-01.png"
+        },
+        {
+            "name": "Gamejam-02.png"
+        },
+        {
+            "name": "Gamejam-03.png"
+        }
+    ]
+}, {
+    "name": "Projects",
+    "link": {
+        "name": "See More",
+        "target": "project"
+    },
+    "images": [
+        {
+            "name": "Magia-02.png",
+            "folder": "projects"
+        },
+        {
+            "name": "Amiko-01.png",
+            "folder": "projects"
+        },
+        {
+            "name": "Euphonia-01.png",
+            "folder": "projects"
+        }
+    ]
+}, {
+    "name": "Katsis",
+    "link": {
+        "name": "Website",
+        "content": "https://katsis.net/",
+        "nsfw": true
+    },
+    "images": [
+        {
+            "name": "Katsis-01.png",
+            "description": "Katsis Catcher, circle katsises to capture them"
+        },
+        {
+            "name": "Katsis-02.png",
+            "description": "Nano's Lab, look for hint arounds to find secret words"
+        },
+        {
+            "name": "Katsis-03.png",
+            "description": "Aethra's Eggflation 2, merge eggs to grow them bigger",
+            "nsfw": true
+        }
+    ]
+}]
