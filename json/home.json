@@ -6,13 +6,16 @@
     },
     "images": [
         {
-            "name": "Gamejam-01.png"
+            "name": "Gamejam-01.png",
+            "description": "anomaly.exe"
         },
         {
-            "name": "Gamejam-02.png"
+            "name": "Gamejam-02.png",
+            "description": "Graphy's Crypt"
         },
         {
-            "name": "Gamejam-03.png"
+            "name": "Gamejam-03.png",
+            "description": "Bulb Bubble Battle!"
         }
     ]
 }, {
@@ -24,14 +27,17 @@
     "images": [
         {
             "name": "Magia-02.png",
+            "description": "Magia",
             "folder": "projects"
         },
         {
             "name": "Amiko-01.png",
+            "description": "Amiko",
             "folder": "projects"
         },
         {
             "name": "Euphonia-01.png",
+            "description": "Euphonia",
             "folder": "projects"
         }
     ]
