@@ -39,7 +39,7 @@
         },
         "links": [
             {
-                "type": "github",
+                "type": "primary",
                 "name": "Website",
                 "content": "https://magia.zirk.eu"
             },
