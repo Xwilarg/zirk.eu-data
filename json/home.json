@@ -14,8 +14,13 @@
             "description": "Graphy's Crypt"
         },
         {
+            "name": "Gamejam-03-NSFW.png",
+            "description": "Dream of JOI",
+            "nsfw": true
+        },
+        {
             "name": "Gamejam-03.png",
-            "description": "Bulb Bubble Battle!"
+            "description": "Escape from Space"
         }
     ]
 }, {
@@ -59,6 +64,10 @@
         },
         {
             "name": "Katsis-03.png",
+            "description": "Aethra's Hyper Ball, play with physics to avoid obstacles and reach the end of the level"
+        },
+        {
+            "name": "Katsis-03-NSFW.png",
             "description": "Aethra's Eggflation 2, merge eggs to grow them bigger",
             "nsfw": true
         }
