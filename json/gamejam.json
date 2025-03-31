@@ -89,9 +89,35 @@
             "nsfw": false,
             "rating": {
                 "entries": 7,
-                "entriesRated": null,
-                "totalRatingCount": null,
-                "scores": null
+                "entriesRated": 7,
+                "totalRatingCount": 30,
+                "scores": {
+                    "🎮 Gameplay": {
+                        "rank": 2,
+                        "score": 2.000,
+                        "ratingCount": 5
+                    },
+                    "⚙️ Adherence to the specified game mechanics": {
+                        "rank": 3,
+                        "score": 2.400,
+                        "ratingCount": 9
+                    },
+                    "🎨 Adherence to the theme": {
+                        "rank": 4,
+                        "score": 2.400,
+                        "ratingCount": 9
+                    },
+                    "🤡 Fun Factor": {
+                        "rank": 5,
+                        "score": 1.600,
+                        "ratingCount": 9
+                    },
+                    "Overall": {
+                        "rank": 5,
+                        "score": 2.100,
+                        "ratingCount": 9
+                    }
+                }
             },
             "stream": [],
             "gameplay": []
@@ -126,9 +152,40 @@
             "nsfw": true,
             "rating": {
                 "entries": 17,
-                "entriesRated": null,
-                "totalRatingCount": null,
-                "scores": null
+                "entriesRated": 17,
+                "totalRatingCount": 146,
+                "scores": {
+                    "Horniness": {
+                        "rank": 1,
+                        "score": 3.889,
+                        "ratingCount": 9
+                    },
+                    "Presentation": {
+                        "rank": 1,
+                        "score": 4.111,
+                        "ratingCount": 9
+                    },
+                    "Theme": {
+                        "rank": 2,
+                        "score": 4.444,
+                        "ratingCount": 9
+                    },
+                    "Uniqueness": {
+                        "rank": 2,
+                        "score": 4.111,
+                        "ratingCount": 9
+                    },
+                    "Overall": {
+                        "rank": 2,
+                        "score": 3.933,
+                        "ratingCount": 9
+                    },
+                    "Gameplay": {
+                        "rank": 5,
+                        "score": 3.111,
+                        "ratingCount": 9
+                    }
+                }
             },
             "stream": [],
             "gameplay": []
