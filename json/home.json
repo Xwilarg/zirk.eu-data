@@ -20,7 +20,8 @@
         },
         {
             "name": "Gamejam-03.png",
-            "description": "Escape from Space"
+            "description": "Escape from Space",
+            "nsfw": false
         }
     ]
 }, {
@@ -56,7 +57,13 @@
     "images": [
         {
             "name": "Katsis-01.png",
-            "description": "Katsis Catcher, circle katsises to capture them"
+            "description": "Katsis Catcher, circle katsises to capture them",
+            "nsfw": false
+        },
+        {
+            "name": "Katsis-01-NSFW.png",
+            "description": "Katsis Catcher, circle katsises to capture them",
+            "nsfw": true
         },
         {
             "name": "Katsis-02.png",
@@ -64,7 +71,8 @@
         },
         {
             "name": "Katsis-03.png",
-            "description": "Aethra's Hyper Ball, play with physics to avoid obstacles and reach the end of the level"
+            "description": "Aethra's Hyper Ball, play with physics to avoid obstacles and reach the end of the level",
+            "nsfw": false
         },
         {
             "name": "Katsis-03-NSFW.png",
