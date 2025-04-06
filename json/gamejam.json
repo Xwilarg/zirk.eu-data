@@ -63,6 +63,35 @@
     },
     "jams": [
         {
+            "name": "SelectiveDrilling",
+            "fullName": "Selective Drilling",
+            "format": "png",
+            "location": "Online",
+            "theme": [ "Depths" ],
+            "language": [ "English" ],
+            "tags": [],
+            "team": [
+                "D35298FE0A5D34C1A0DB4D02E00BD1F1"
+            ],
+            "event": "Ludum Dare 57",
+            "shortEvent": "Ludum Dare",
+            "eventCategory": "Compo",
+            "date": "2025-04-06",
+            "duration": 48,
+            "engine": "Unity",
+            "version": "6000.0.42f1",
+            "github": "https://github.com/Xwilarg/LudumDare57",
+            "website": "https://ldjam.com/events/ludum-dare/57/selective-drilling",
+            "webgl": [
+                "https://gamejam.zirk.eu/SelectiveDrilling/index.html"
+            ],
+            "postModification": null,
+            "nsfw": false,
+            "rating": null,
+            "stream": [],
+            "gameplay": []
+        },
+        {
             "name": "KeepItRunning",
             "fullName": "Keep It Running",
             "format": "png",
