@@ -1,5 +1,30 @@
 [{
+    "name": "Projects",
+    "catch": "Where the sheeps unites",
+    "link": {
+        "name": "See More",
+        "target": "project"
+    },
+    "images": [
+        {
+            "name": "Magia-02.png",
+            "description": "Magia",
+            "folder": "projects"
+        },
+        {
+            "name": "Amiko-01.png",
+            "description": "Amiko",
+            "folder": "projects"
+        },
+        {
+            "name": "Euphonia-01.png",
+            "description": "Euphonia",
+            "folder": "projects"
+        }
+    ]
+}, {
     "name": "Gamejams",
+    "catch": "Where the deadlines unites",
     "link": {
         "name": "See More",
         "target": "gamejam"
@@ -25,30 +50,8 @@
         }
     ]
 }, {
-    "name": "Projects",
-    "link": {
-        "name": "See More",
-        "target": "project"
-    },
-    "images": [
-        {
-            "name": "Magia-02.png",
-            "description": "Magia",
-            "folder": "projects"
-        },
-        {
-            "name": "Amiko-01.png",
-            "description": "Amiko",
-            "folder": "projects"
-        },
-        {
-            "name": "Euphonia-01.png",
-            "description": "Euphonia",
-            "folder": "projects"
-        }
-    ]
-}, {
     "name": "Katsis",
+    "catch": "Where the occuli unites",
     "link": {
         "name": "Website",
         "content": "https://katsis.net/",
@@ -78,6 +81,23 @@
             "name": "Katsis-03-NSFW.png",
             "description": "Aethra's Eggflation 2, merge eggs to grow them bigger",
             "nsfw": true
+        }
+    ]
+}, {
+    "name": "Astylodon",
+    "catch": "Where the deers unites",
+    "link": {
+        "name": "Website",
+        "content": "https://astylodon.org/"
+    },
+    "images": [
+        {
+            "name": "Astylodon-01.png",
+            "description": "Deer Lister"
+        },
+        {
+            "name": "Astylodon-02.png",
+            "description": "Shika"
         }
     ]
 }]
