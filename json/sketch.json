@@ -8,8 +8,9 @@
     "name": "Map Generation",
     "scene": "MapGeneration",
     "explanations": [
-        "Drag&amp;drop to move around the map",
-        "Click on a room to highlight it"
+        "Drag&amp;drop to move around the map and click on a room to highlight it",
+        "",
+        "This was used in some gamejams like Frog Quest"
     ]
 }, {
     "id": "circle",
@@ -17,7 +18,9 @@
     "scene": "Circle",
     "explanations": [
         "Move your mouse while holding down left click to draw on screen",
-        "Make a circle around a shape without touching it to make it disappear"
+        "Make a circle around a shape without touching it to make it disappear",
+        "",
+        "This was used in some projects like Aethra's Katsis Catcher"
     ]
 }, {
     "id": "trpg",
@@ -40,13 +43,22 @@
     "name": "Visual Novel",
     "scene": "VN",
     "explanations": [
-        "Click to read the text"
+        "Click to read the text",
+        "",
+        "This is used in most projects and jam where I need to display text in a dialogue kind of way"
     ]
 }, {
     "id": "credits",
     "name": "Credits",
     "scene": "Credits",
     "explanations": []
+}, {
+    "id": "persistency",
+    "name": "Persistency",
+    "scene": "Persistency",
+    "explanations": [
+        "Unlocking an achievement and coming back should keep it unlocked, this is done by the persistency module!"
+    ]
 }, {
     "id": "achievements",
     "name": "Achievements",
