@@ -15,7 +15,6 @@
     ],
     "nsfw": false,
     "type": "Website",
-    "highlight": null,
     "dates": {
         "start": "2023-08-10",
         "end": "2023-08-10"
@@ -48,7 +47,6 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": null,
     "dates": {
         "start": "2023-01-09",
         "end": "2023-03-07"
@@ -77,7 +75,6 @@
     },
     "nsfw": false,
     "type": "Game",
-    "highlight": null,
     "dates": {
         "start": "2022-11-13",
         "end": "2023-02-02"
@@ -107,7 +104,6 @@
     ],
     "nsfw": true,
     "type": "Web Extension",
-    "highlight": null,
     "dates": {
         "start": "2018-09-04",
         "end": "2022-11-06"
@@ -145,7 +141,6 @@
     ],
     "nsfw": true,
     "type": "Library",
-    "highlight": null,
     "dates": {
         "start": "2018-07-16",
         "end": "2023-08-21"
@@ -171,7 +166,6 @@
     },
     "nsfw": false,
     "type": "Library",
-    "highlight": null,
     "dates": {
         "start": "2021-09-08",
         "end": "2021-10-27"
@@ -201,7 +195,6 @@
     ],
     "nsfw": false,
     "type": "Library",
-    "highlight": null,
     "dates": {
         "start": "2021-05-03",
         "end": "2023-08-15"
@@ -227,7 +220,6 @@
     },
     "nsfw": false,
     "type": "Library",
-    "highlight": null,
     "dates": {
         "start": "2021-04-10",
         "end": "2022-02-16"
@@ -257,7 +249,6 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": null,
     "dates": {
         "start": "2019-05-29",
         "end": "2023-05-06"
@@ -287,7 +278,6 @@
     },
     "nsfw": false,
     "type": "Library",
-    "highlight": null,
     "dates": {
         "start": "2019-04-19",
         "end": "2021-09-01"
@@ -313,7 +303,6 @@
     },
     "nsfw": false,
     "type": "Flashpoint extension",
-    "highlight": null,
     "dates": {
         "start": "2021-04-04",
         "end": "2021-04-30"
@@ -340,7 +329,6 @@
     ],
     "nsfw": false,
     "type": "Android App",
-    "highlight": null,
     "dates": {
         "start": "2021-02-07",
         "end": "2023-08-04"
@@ -374,7 +362,6 @@
     ],
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": null,
     "dates": {
         "start": "2020-07-20",
         "end": "2021-12-21"
@@ -400,7 +387,6 @@
     ],
     "nsfw": false,
     "type": "Software",
-    "highlight": null,
     "dates": {
         "start": "2019-01-22",
         "end": "2019-02-03"
@@ -427,7 +413,6 @@
     ],
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": null,
     "dates": {
         "start": "2018-06-08",
         "end": "2020-09-03"
@@ -453,7 +438,6 @@
     },
     "nsfw": false,
     "type": "Script",
-    "highlight": null,
     "dates": {
         "start": "2018-12-30",
         "end": "2019-01-20"
@@ -479,7 +463,6 @@
     ],
     "nsfw": false,
     "type": "Game",
-    "highlight": null,
     "dates": {
         "start": "End of 2016",
         "end": "End of 2016"
@@ -505,7 +488,6 @@
     ],
     "nsfw": false,
     "type": "Game",
-    "highlight": null,
     "dates": {
         "start": "2015",
         "end": "2016"
@@ -531,7 +513,6 @@
     ],
     "nsfw": false,
     "type": "Game",
-    "highlight": null,
     "dates": {
         "start": "Around 2012",
         "end": "Around 2012"
@@ -557,7 +538,6 @@
     },
     "nsfw": false,
     "type": "Game",
-    "highlight": null,
     "dates": {
         "start": "2017-12-17",
         "end": "2018-03-04"
@@ -578,7 +558,6 @@
     },
     "nsfw": false,
     "type": "Game",
-    "highlight": null,
     "dates": {
         "start": "2017-11-09",
         "end": "2017-11-23"
@@ -604,7 +583,6 @@
     },
     "nsfw": false,
     "type": "Game",
-    "highlight": null,
     "dates": {
         "start": "2018-06-08",
         "end": "2018-10-04"
@@ -630,7 +608,6 @@
     },
     "nsfw": false,
     "type": "Software",
-    "highlight": null,
     "dates": {
         "start": "2018-12-29",
         "end": "2019-01-10"
@@ -656,7 +633,6 @@
     },
     "nsfw": false,
     "type": "Game",
-    "highlight": null,
     "dates": {
         "start": "2019-09-11",
         "end": "2019-09-24"
@@ -682,7 +658,6 @@
     },
     "nsfw": false,
     "type": "Mobile Application",
-    "highlight": null,
     "dates": {
         "start": "2020-07-06",
         "end": "2020-10-22"
@@ -708,7 +683,6 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": null,
     "dates": {
         "start": "2020-12-04",
         "end": "2020-12-04"
@@ -734,7 +708,6 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": null,
     "dates": {
         "start": "2021-05-05",
         "end": "2021-07-12"
@@ -760,7 +733,6 @@
     },
     "nsfw": false,
     "type": "Bot",
-    "highlight": null,
     "dates": {
         "start": "2019-03-18",
         "end": "2021-07-28"
@@ -786,7 +758,6 @@
     },
     "nsfw": true,
     "type": "Browser Extension",
-    "highlight": null,
     "dates": {
         "start": "2019-12-07",
         "end": "2021-09-22"
@@ -812,7 +783,6 @@
     },
     "nsfw": false,
     "type": "Software",
-    "highlight": null,
     "dates": {
         "start": "2021-09-15",
         "end": "2021-09-29"
@@ -838,7 +808,6 @@
     },
     "nsfw": false,
     "type": "Library",
-    "highlight": null,
     "dates": {
         "start": "2020-12-19",
         "end": "2021-11-01"
@@ -864,7 +833,6 @@
     },
     "nsfw": false,
     "type": "Discord Bot",
-    "highlight": null,
     "dates": {
         "start": "2019-04-25",
         "end": "2019-07-19"
@@ -890,7 +858,6 @@
     },
     "nsfw": false,
     "type": "Browser Extension",
-    "highlight": null,
     "dates": {
         "start": "2022-04-13",
         "end": "2022-04-14"
@@ -916,7 +883,6 @@
     },
     "nsfw": false,
     "type": "Website",
-    "highlight": null,
     "dates": {
         "start": "2018-08-14",
         "end": "2022-04-16"
