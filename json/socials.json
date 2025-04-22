@@ -1,0 +1,32 @@
+[{
+    "icon": "fa-brands fa-steam",
+    "url": "https://steamcommunity.com/id/xwilarg"
+}, {
+    "icon": "fa-brands fa-discord",
+    "url": "https://discord.com/users/144851584478740481"
+}, {
+    "icon": "fa-brands fa-youtube",
+    "url": "https://www.youtube.com/@Xwilarg"
+}, {
+    "icon": "fa-brands fa-twitch",
+    "url": "https://www.twitch.tv/xwilarg"
+}, {
+    "icon": "fa-brands fa-github",
+    "url": "https://github.com/Xwilarg"
+}, {
+    "icon": "fa-brands fa-itch-io",
+    "url": "https://zirk.itch.io/"
+}, {
+    "icon": "fa-solid fa-gamepad",
+    "sub": "fa-solid fa-l",
+    "url": "https://ldjam.com/users/xwilarg/games"
+}, {
+    "icon": "fa-solid fa-gamepad",
+    "sub": "fa-solid fa-g",
+    "url": "https://globalgamejam.org/users/zirk"
+}, {
+    "icon": "fa-solid fa-gamepad",
+    "sub": "fa-solid fa-o",
+    "url": "https://onehourgamejam.com/?page=author&author=xwilarg",
+    "nsfw": true
+}]
