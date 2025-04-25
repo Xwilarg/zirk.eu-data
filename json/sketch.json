@@ -1,11 +1,13 @@
 [{
     "id": "home",
-    "name": "Home",
+    "name": "home",
+    "type": "icon",
     "scene": "Main",
     "explanations": []
 }, {
     "id": "map-gen",
     "name": "Map Generation",
+    "type": "text",
     "scene": "MapGeneration",
     "explanations": [
         "Drag&amp;drop to move around the map and click on a room to highlight it",
@@ -15,6 +17,7 @@
 }, {
     "id": "circle",
     "name": "Capture",
+    "type": "text",
     "scene": "Circle",
     "explanations": [
         "Move your mouse while holding down left click to draw on screen",
@@ -25,6 +28,7 @@
 }, {
     "id": "trpg",
     "name": "Turn-based RPG",
+    "type": "text",
     "scene": "TRPG",
     "explanations": [
         "Click on a tile within your range to move there",
@@ -33,6 +37,7 @@
 }, {
     "id": "fishing",
     "name": "Fishing",
+    "type": "text",
     "scene": "Fishing",
     "explanations": [
         "Move your cursor to move your hook until a fish is foccused on it",
@@ -41,6 +46,7 @@
 }, {
     "id": "visual-novel",
     "name": "Visual Novel",
+    "type": "text",
     "scene": "VN",
     "explanations": [
         "Click to read the text",
@@ -49,19 +55,22 @@
     ]
 }, {
     "id": "credits",
-    "name": "Credits",
+    "name": "groups",
+    "type": "icon",
     "scene": "Credits",
     "explanations": []
 }, {
     "id": "persistency",
-    "name": "Persistency",
+    "name": "save",
+    "type": "icon",
     "scene": "Persistency",
     "explanations": [
         "Unlocking an achievement and coming back should keep it unlocked, this is done by the persistency module!"
     ]
 }, {
     "id": "achievements",
-    "name": "Achievements",
+    "name": "trophy",
+    "type": "icon",
     "scene": "Achievements",
     "explanations": [
         "Play the others games to unlock these!"
