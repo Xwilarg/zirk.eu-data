@@ -89,10 +89,46 @@
             "nsfw": false,
             
             "rating": {
-                "entries": 366,
+                "entries": 363,
                 "entriesRated": null,
                 "totalRatingCount": null,
-                "scores": null
+                "scores": {
+                    "Overall": {
+                        "rank": 236,
+                        "score": 3.1,
+                        "ratingCount": 22
+                    },
+                    "Fun": {
+                        "rank": 202,
+                        "score": 3.075,
+                        "ratingCount": 22
+                    },
+                    "Innovation": {
+                        "rank": 255,
+                        "score": 2.7,
+                        "ratingCount": 22
+                    },
+                    "Theme": {
+                        "rank": 132,
+                        "score": 3.65,
+                        "ratingCount": 22
+                    },
+                    "Graphics": {
+                        "rank": 255,
+                        "score": 2.85,
+                        "ratingCount": 22
+                    },
+                    "Audio": {
+                        "rank": 215,
+                        "score": 2.64,
+                        "ratingCount": 22
+                    },
+                    "Mood": {
+                        "rank": 194,
+                        "score": 3.2,
+                        "ratingCount": 22
+                    }
+                }
             },
             "stream": [],
             "gameplay": []
