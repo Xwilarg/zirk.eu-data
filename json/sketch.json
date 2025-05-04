@@ -6,7 +6,7 @@
     "explanations": []
 }, {
     "id": "map-gen",
-    "name": "Map Generation",
+    "name": "Map Gen",
     "type": "text",
     "scene": "MapGeneration",
     "explanations": [
@@ -14,6 +14,21 @@
         "",
         "This was used in some gamejams like Frog Quest"
     ]
+}, {
+    "id": "trpg",
+    "name": "T-RPG",
+    "type": "text",
+    "scene": "TRPG",
+    "explanations": [
+        "Click on a tile within your range to move there",
+        "Turn the mouth around to see your line of sight"
+    ]
+}, {
+    "id": "fps",
+    "name": "First Person",
+    "type": "text",
+    "scene": "FPS",
+    "explanations": []
 }, {
     "id": "circle",
     "name": "Capture",
@@ -26,15 +41,6 @@
         "This was used in some projects like Aethra's Katsis Catcher"
     ]
 }, {
-    "id": "trpg",
-    "name": "Turn-based RPG",
-    "type": "text",
-    "scene": "TRPG",
-    "explanations": [
-        "Click on a tile within your range to move there",
-        "Turn the mouth around to see your line of sight"
-    ]
-}, {
     "id": "fishing",
     "name": "Fishing",
     "type": "text",
@@ -45,7 +51,7 @@
     ]
 }, {
     "id": "visual-novel",
-    "name": "Visual Novel",
+    "name": "Dialogue",
     "type": "text",
     "scene": "VN",
     "explanations": [
