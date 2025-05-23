@@ -3,7 +3,12 @@
     "url": "https://steamcommunity.com/id/xwilarg"
 }, {
     "icon": "fa-brands fa-discord",
-    "url": "https://discord.com/users/144851584478740481"
+    "url": null,
+    "hint": "zirk"
+}, {
+    "icon": "fa-solid fa-r",
+    "url": null,
+    "hint": "Zirk#4550"
 }, {
     "icon": "fa-brands fa-youtube",
     "url": "https://www.youtube.com/@Xwilarg"
