@@ -15,14 +15,11 @@
         "This was used in some gamejams like Frog Quest"
     ]
 }, {
-    "id": "trpg",
-    "name": "T-RPG",
+    "id": "los",
+    "name": "LoS",
     "type": "text",
-    "scene": "TRPG",
-    "explanations": [
-        "Click on a tile within your range to move there",
-        "Turn the mouth around to see your line of sight"
-    ]
+    "scene": "LoS",
+    "explanations": []
 }, {
     "id": "fps",
     "name": "First Person",
@@ -59,6 +56,12 @@
         "",
         "This is used in most projects and jam where I need to display text in a dialogue kind of way"
     ]
+}, {
+    "id": "inventory",
+    "name": "Inventory",
+    "type": "text",
+    "scene": "Inventory",
+    "explanations": []
 }, {
     "id": "credits",
     "name": "groups",
