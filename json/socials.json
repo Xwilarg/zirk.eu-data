@@ -1,37 +1,43 @@
-[{
-    "icon": "fa-brands fa-steam",
-    "url": "https://steamcommunity.com/id/xwilarg"
-}, {
-    "icon": "fa-brands fa-discord",
-    "url": null,
-    "hint": "zirk"
-}, {
-    "icon": "fa-solid fa-r",
-    "url": null,
-    "hint": "Zirk#4550"
-}, {
-    "icon": "fa-brands fa-youtube",
-    "url": "https://www.youtube.com/@Xwilarg"
-}, {
-    "icon": "fa-brands fa-twitch",
-    "url": "https://www.twitch.tv/xwilarg"
-}, {
-    "icon": "fa-brands fa-github",
-    "url": "https://github.com/Xwilarg"
-}, {
-    "icon": "fa-brands fa-itch-io",
-    "url": "https://zirk.itch.io/"
-}, {
-    "icon": "fa-solid fa-gamepad",
-    "sub": "fa-solid fa-l",
-    "url": "https://ldjam.com/users/xwilarg/games"
-}, {
-    "icon": "fa-solid fa-gamepad",
-    "sub": "fa-solid fa-g",
-    "url": "https://globalgamejam.org/users/zirk"
-}, {
-    "icon": "fa-solid fa-gamepad",
-    "sub": "fa-solid fa-o",
-    "url": "https://onehourgamejam.com/?page=author&author=xwilarg",
-    "nsfw": true
-}]
+{
+    "contacts": [{
+        "icon": "fa-solid fa-envelope",
+        "url": "mailto:contact@zirk.eu"
+    }, {
+        "icon": "fa-brands fa-discord",
+        "url": null,
+        "hint": "zirk"
+    }, {
+        "icon": "fa-solid fa-r",
+        "url": null,
+        "hint": "Zirk#4550"
+    }],
+    "socials": [{
+        "icon": "fa-brands fa-steam",
+        "url": "https://steamcommunity.com/id/xwilarg"
+    }, {
+        "icon": "fa-brands fa-youtube",
+        "url": "https://www.youtube.com/@Xwilarg"
+    }, {
+        "icon": "fa-brands fa-twitch",
+        "url": "https://www.twitch.tv/xwilarg"
+    }, {
+        "icon": "fa-brands fa-github",
+        "url": "https://github.com/Xwilarg"
+    }, {
+        "icon": "fa-brands fa-itch-io",
+        "url": "https://zirk.itch.io/"
+    }, {
+        "icon": "fa-solid fa-gamepad",
+        "sub": "fa-solid fa-l",
+        "url": "https://ldjam.com/users/xwilarg/games"
+    }, {
+        "icon": "fa-solid fa-gamepad",
+        "sub": "fa-solid fa-g",
+        "url": "https://globalgamejam.org/users/zirk"
+    }, {
+        "icon": "fa-solid fa-gamepad",
+        "sub": "fa-solid fa-o",
+        "url": "https://onehourgamejam.com/?page=author&author=xwilarg",
+        "nsfw": true
+    }]
+}
