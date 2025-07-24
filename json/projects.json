@@ -32,38 +32,6 @@
             }
         ]
     }, {
-        "name": "Magia",
-        "description": "Drawing software",
-        "metadata": {
-            "start": "02-2025"
-        },
-        "links": [
-            {
-                "type": "primary",
-                "name": "Website",
-                "content": "https://magia.zirk.eu"
-            },
-            {
-                "type": "github",
-                "name": "Source Code",
-                "content": "https://github.com/Xwilarg/Magia"
-            }
-        ],
-        "images": [
-            {
-                "name": "Magia-01.png",
-                "description": "Example of color blending"
-            },
-            {
-                "name": "Magia-02.png",
-                "description": "Drawing by Fractal"
-            },
-            {
-                "name": "Magia-03.png",
-                "description": "Drawing by Mel"
-            }
-        ]
-    }, {
         "name": "Amiko",
         "description": "Chat software aiming to put the user first",
         "metadata": {

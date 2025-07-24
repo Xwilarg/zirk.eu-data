@@ -1,5 +1,28 @@
-[
-{
+[{
+    "name": "Magia",
+    "description": "Drawing software",
+    "image": {
+        "id": "Magia",
+        "description": "Art by Mel"
+    },
+    "languages": [ "C++" ],
+    "links": [
+        {
+            "name": "Source Code",
+            "content": "https://github.com/Xwilarg/Magia"
+        }
+    ],
+    "nsfw": false,
+    "type": "Website",
+    "dates": {
+        "start": "2025-07-12",
+        "end": "2025-02-06"
+    },
+    "state": {
+        "status": 0,
+        "comment": null
+    }
+}, {
     "name": "StackGame",
     "description": "Game where you are given a post title and you need to find from which Stack Exchange website it's from",
     "image": {
