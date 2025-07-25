@@ -39,6 +39,11 @@
         },
         "links": [
             {
+                "type": "primary",
+                "name": "Demo",
+                "content": "https://amiko.zirk.eu"
+            },
+            {
                 "type": "github",
                 "name": "Source Code",
                 "content": "https://github.com/Xwilarg/Amiko"
@@ -61,6 +66,16 @@
                 "type": "primary",
                 "name": "Website",
                 "content": "https://sanara.zirk.eu"
+            },
+            {
+                "type": "discord",
+                "name": "Invite on Discord",
+                "content": "https://discord.com/api/oauth2/authorize?client_id=329664361016721408&permissions=51264&scope=bot%20applications.commands"
+            },
+            {
+                "type": "revolt",
+                "name": "Invite on Revolt",
+                "content": "https://app.revolt.chat/bot/01JWZMD7W3D14NG8846QB1YD0Z"
             },
             {
                 "type": "github",
