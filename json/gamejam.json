@@ -63,34 +63,6 @@
     },
     "jams": [
         {
-            "name": "WargoAdventure",
-            "fullName": "Wargo Adventure",
-            "format": "png",
-            "location": "Online",
-            "theme": [],
-            "language": [ "English" ],
-            "tags": [],
-            "team": [
-                "D35298FE0A5D34C1A0DB4D02E00BD1F1",
-                "AC7EEDA7ACF39B61E8F1D02E06EF0C2A"
-            ],
-            "event": "SNESDEV 2025",
-            "shortEvent": "SNESDEV",
-            "eventCategory": null,
-            "date": "2025-06-01",
-            "duration": 2352,
-            "engine": "PVSnesLib",
-            "version": "4.4.0",
-            "github": "https://github.com/Xwilarg/SNESJam",
-            "website": null,
-            "webgl": [],
-            "postModification": null,
-            "nsfw": false,
-            "rating": null,
-            "stream": [],
-            "gameplay": []
-        },
-        {
             "name": "SelectiveDrilling",
             "fullName": "Selective Drilling",
             "format": "png",
