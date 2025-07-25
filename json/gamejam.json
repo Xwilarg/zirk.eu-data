@@ -85,6 +85,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/SelectiveDrilling/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/SelectiveDrilling/Build/",
+                "filename": "SelectiveDrilling"
+            },
             "postModification": null,
             "nsfw": false,
             
