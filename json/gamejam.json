@@ -3364,7 +3364,7 @@
             "date": "2022-03-18",
             "duration": 48,
             "engine": "Unity",
-            "versions": "2021.2.16f1",
+            "version": "2021.2.16f1",
             "github": "https://github.com/Xwilarg/ScientificGameJam",
             "website": "https://itch.io/jam/scientific-game-jam-spring-2022/rate/1448850",
             "webgl": [
