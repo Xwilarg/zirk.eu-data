@@ -86,7 +86,7 @@
                 "https://gamejam.zirk.eu/SelectiveDrilling/index.html"
             ],
             "sketch": {
-                "folder": "https://gamejam.zirk.eu/SelectiveDrilling/Build/",
+                "folder": "https://gamejam.zirk.eu/SelectiveDrilling/",
                 "filename": "SelectiveDrilling"
             },
             "postModification": null,
@@ -161,7 +161,7 @@
             "website": "https://itch.io/jam/pp-jam-19/rate/3434811",
             "webgl": [ "https://gamejam.zirk.eu/KeepItRunning/index.html" ],
             "sketch": {
-                "folder": "https://gamejam.zirk.eu/KeepItRunning/Build/",
+                "folder": "https://gamejam.zirk.eu/KeepItRunning/",
                 "filename": "PPWeb"
             },
             "postModification": null,
@@ -228,7 +228,7 @@
             "website": "https://itch.io/jam/nsfw-minijam-15/rate/3414488",
             "webgl": [ "https://gamejam.zirk.eu/DracoFestival/index.html" ],
             "sketch": {
-                "folder": "https://gamejam.zirk.eu/DracoFestival/Build/",
+                "folder": "https://gamejam.zirk.eu/DracoFestival/",
                 "filename": "MiniJam15-Web"
             },
             "postModification": null,
@@ -299,6 +299,7 @@
             "github": "https://github.com/ReneBossen/BrackeysGameJam2025",
             "website": "https://itch.io/jam/brackeys-13/rate/3344709",
             "webgl": [],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -372,7 +373,7 @@
             "website": "https://globalgamejam.org/games/2025/tulpenmanie-3",
             "webgl": [ "http://gamejam.zirk.eu/BulbBubbleBattle/index.html" ],
             "sketch": {
-                "folder": "https://gamejam.zirk.eu/BulbBubbleBattle/Build/",
+                "folder": "https://gamejam.zirk.eu/BulbBubbleBattle/",
                 "filename": "BBB-Web"
             },
             "postModification": null,
@@ -408,7 +409,7 @@
                 "https://gamejam.zirk.eu/StravaganzHAT/index.html"
             ],
             "sketch": {
-                "folder": "https://gamejam.zirk.eu/StravaganzHAT/Build/",
+                "folder": "https://gamejam.zirk.eu/StravaganzHAT/",
                 "filename": "OneHourJam"
             },
             "postModification": null,
@@ -449,7 +450,7 @@
                 "https://gamejam.zirk.eu/315050/index.html"
             ],
             "sketch": {
-                "folder": "https://gamejam.zirk.eu/315050/Build/",
+                "folder": "https://gamejam.zirk.eu/315050/",
                 "filename": "MathWeb"
             },
             "postModification": null,
@@ -490,6 +491,7 @@
             "github": "https://github.com/KatsisStella/OneHourJam499",
             "website": "https://onehourgamejam.com/?page=jam&jam=499",
             "webgl": [],
+            "sketch": null,
             "postModification": "Fix NSFW disclaimer not appearing",
             "nsfw": true,
             "rating": {
@@ -528,7 +530,7 @@
                 "https://gamejam.zirk.eu/GardeNationale/index.html"
             ],
             "sketch": {
-                "folder": "https://gamejam.zirk.eu/GardeNationale/Build/",
+                "folder": "https://gamejam.zirk.eu/GardeNationale/",
                 "filename": "OneHourJam"
             },
             "postModification": null,
@@ -570,7 +572,7 @@
                 "https://gamejam.zirk.eu/StrawberryRodeo/index.html"
             ],
             "sketch": {
-                "folder": "https://gamejam.zirk.eu/StrawberryRodeo/Build/",
+                "folder": "https://gamejam.zirk.eu/StrawberryRodeo/",
                 "filename": "StrawberryRodeo"
             },
             "postModification": null,
@@ -614,7 +616,7 @@
                 "https://gamejam.zirk.eu/ShrinkAndSlime/index.html"
             ],
             "sketch": {
-                "folder": "https://gamejam.zirk.eu/ShrinkAndSlime/Build/",
+                "folder": "https://gamejam.zirk.eu/ShrinkAndSlime/",
                 "filename": "LD56-Web"
             },
             "postModification": null,
@@ -693,6 +695,7 @@
             "github": "https://github.com/Xwilarg/GMTKGameJam2024",
             "website": "https://itch.io/jam/gmtk-2024/rate/2908447",
             "webgl": [],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -752,6 +755,7 @@
             "github": "https://github.com/Xwilarg/MariMariMari",
             "website": "https://itch.io/jam/touhou-pride-6/rate/2784898",
             "webgl": [],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -829,6 +833,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/DoingHisjobman/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/DoingHisjobman/",
+                "filename": "DoingHisjobman-WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -895,6 +903,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Ritual/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/Ritual/",
+                "filename": "MicroJam10-Web"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -970,6 +982,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/ATallOrder/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/ATallOrder/",
+                "filename": "ATallOrder-WebGL"
+            },
             "postModification": null,
             "nsfw": true,
             "rating": {
@@ -1038,6 +1054,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/TheMilkyWayRanch/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/TheMilkyWayRanch/",
+                "filename": "Web-TheMilkyWayRanch"
+            },
             "postModification": null,
             "nsfw": true,
             "rating": {
@@ -1107,6 +1127,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Sideband/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/Sideband/",
+                "filename": "Sideband-WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -1172,6 +1196,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/ILoveLargeAstralBodies/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/ILoveLargeAstralBodies/",
+                "filename": "OneHourJamWebGL"
+            },
             "postModification": null,
             "nsfw": true,
             "rating": {
@@ -1209,6 +1237,10 @@
             "github": "https://github.com/juliengrima/GlobalGameJam",
             "website": "https://globalgamejam.org/games/2024/turtles-throttle-1",
             "webgl": [ "https://gamejam.zirk.eu/TurtlesThrottle/index.html" ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/TurtlesThrottle/",
+                "filename": "GGJ-Web"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -1244,6 +1276,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/SyncShot/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/SyncShot/",
+                "filename": "SyncShotWebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -1280,6 +1316,7 @@
             "github": "https://github.com/KatsisStudio/DreamOfJOI",
             "website": "https://itch.io/jam/nsfw-minijam/rate/2475777",
             "webgl": [],
+            "sketch": null,
             "postModification": {
                 "entries": 12,
                 "entriesRated": null,
@@ -1349,6 +1386,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/FlockFriends/index.html"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -1428,6 +1466,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/SantasFavorite/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/SantasFavorite/",
+                "filename": "JameGam"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -1502,6 +1544,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/SuccCiety/index.html"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": true,
             "rating": {
@@ -1569,6 +1612,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/BeGayDoCrimes/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/BeGayDoCrimes/",
+                "filename": "BeGayDoCrimes"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -1609,6 +1656,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/SPACE/index.html"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -1688,6 +1736,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Polyangry/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/Polyangry/",
+                "filename": "RainbowWeb"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -1762,6 +1814,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/TankNPower/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/TankNPower/",
+                "filename": "TankNPowerWebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -1806,6 +1862,7 @@
             "github": null,
             "website": "https://itch.io/jam/gmtk-2023/rate/2158854",
             "webgl": [],
+            "sketch": null,
             "postModification": "Fix reset button",
             "nsfw": false,
             "rating": {
@@ -1864,6 +1921,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/UnderbeatMelodyOfMight/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/UnderbeatMelodyOfMight/",
+                "filename": "FurryWeb"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -1900,6 +1961,7 @@
             "github": null,
             "website": "https://itch.io/jam/touhou-pride-5/rate/2114859",
             "webgl": [],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -1975,6 +2037,7 @@
             "github": "https://github.com/Xwilarg/QuantumJump",
             "website": "https://itch.io/jam/4mb-jam-2023/rate/2095910",
             "webgl": [],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2017,6 +2080,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/FlowerInTheMud/index.html"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2050,6 +2114,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/OtherworldlyDelivery/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/OtherworldlyDelivery/",
+                "filename": "WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2130,6 +2198,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/FUUUUUUUUDogs/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/FUUUUUUUUDogs/",
+                "filename": "WebNord"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2169,6 +2241,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Panotapecon/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/Panotapecon/",
+                "filename": "FinalWEBGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2243,6 +2319,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/MaitreDuDonjon/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/MaitreDuDonjon/",
+                "filename": "WebGLJam"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2315,6 +2395,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/WigglingHunt/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/WigglingHunt/",
+                "filename": "FINAL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2355,6 +2439,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/CritterCatcher/index.html"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2396,6 +2481,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Carroot/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/Carroot/",
+                "filename": "WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2431,6 +2520,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/YouAreFired/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/YouAreFired/",
+                "filename": "JamBuild"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2469,6 +2562,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/TheShadowOfBearrintown/index.html"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2509,6 +2603,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Nachoverflow/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/Nachoverflow/",
+                "filename": "WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2586,6 +2684,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/TankYou/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/TankYou/",
+                "filename": "TankWebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2623,6 +2725,7 @@
             "version": "3.5.0",
             "website": "https://itch.io/jam/shitty-horror-game-jam/rate/1699024",
             "webgl": [],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2704,6 +2807,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/DodgingTheFuture/index.html"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2737,6 +2841,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/GoingStraightToThePoint/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/GoingStraightToThePoint/",
+                "filename": "WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": null,
@@ -2772,6 +2880,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/KupalaNight/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/KupalaNight/",
+                "filename": "WebGL"
+            },
             "postModification": "Fix intro not playing and blocking game on a black screen in WebGL build",
             "nsfw": false,
             "rating": {
@@ -2813,6 +2925,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/FrogQuest/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/FrogQuest/",
+                "filename": "WebBuildJam"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2891,6 +3007,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/DontWasteYourTime/index.html"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -2963,6 +3080,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/DiNAsaurTime/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/DiNAsaurTime/",
+                "filename": "WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3003,6 +3124,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/anomalyexe/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/anomalyexe/",
+                "filename": "WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3075,6 +3200,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/DontCallALadyABug/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/DontCallALadyABug/",
+                "filename": "WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3116,6 +3245,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/DemainSeraBien/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/DemainSeraBien/",
+                "filename": "DemainSeraBien"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3193,6 +3326,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/BarkThemAll/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/BarkThemAll/",
+                "filename": "BarkThemAll"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3233,6 +3370,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/AcCELL%C3%A8re/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/AcCELL%C3%A8re/",
+                "filename": "WebGL2021"
+            },
             "postModification": "Update project to 2021.2 to fix WebGL build crashing",
             "nsfw": false,
             "rating": {
@@ -3270,6 +3411,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/GraphysCrypt/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/GraphysCrypt/",
+                "filename": "NewJamWebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3332,6 +3477,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/ThereIsNoCloudItsJustSomeoneElsesComputer/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/ThereIsNoCloudItsJustSomeoneElsesComputer/",
+                "filename": "WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3374,6 +3523,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Under/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/Under/",
+                "filename": "VarWelGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3444,6 +3597,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/NotAllHeroesWearSwords/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/NotAllHeroesWearSwords/",
+                "filename": "WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3480,6 +3637,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Catchmeleon/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/Catchmeleon/",
+                "filename": "WebGLChameleon"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3518,6 +3679,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/GlobeTrotter/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/GlobeTrotter/",
+                "filename": "WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3594,6 +3759,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/%D0%9A%D1%83%D1%80%D1%8F%D1%82%D0%BD%D0%B8%D0%BA/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/%D0%9A%D1%83%D1%80%D1%8F%D1%82%D0%BD%D0%B8%D0%BA/",
+                "filename": "Курятник-WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3659,6 +3828,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/EscapeFromSpace/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/EscapeFromSpace/",
+                "filename": "WebGL"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3727,6 +3900,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/TheRollingDices/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/TheRollingDices/",
+                "filename": "TheRollingDices"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3767,6 +3944,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Nautilus/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/Nautilus/",
+                "filename": "Nautilus"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3808,6 +3989,7 @@
             "webgl": [
                 "https://unityroom.com/games/ggj2020_akibaha_team2_rrr"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3846,6 +4028,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Unity/index.html?jamName=dungeonMaster"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3920,6 +4103,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Unity/index.html?jamName=larryTheSheepsMuseumInvasion"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -3986,6 +4170,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Unity/index.html?jamName=kibouNoImouto"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": true,
             "rating": {
@@ -4025,6 +4210,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Unreal/index.html"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -4062,6 +4248,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Unity/index.html?jamName=jovialJudgement"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -4126,6 +4313,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Unity/index.html?jamName=toFSDfSftPDRRoDwL"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -4199,6 +4387,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Unity/index.html?jamName=manchaud"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -4242,6 +4431,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Unity/index.html?jamName=hadipoRun"
             ],
+            "sketch": null,
             "postModification": "Fix data files not being found making the player unable to pick items",
             "nsfw": false,
             "rating": {
@@ -4277,6 +4467,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Unity/index.html?jamName=powerDown"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -4345,6 +4536,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Unity/index.html?jamName=talesOfLayinskia"
             ],
+            "sketch": null,
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -4383,6 +4575,7 @@
             "webgl": [
                 "https://gamejam.zirk.eu/Unity/index.html?jamName=vespias"
             ],
+            "sketch": null,
             "postModification": "Fix bug with layers making player appears under the ground",
             "nsfw": false,
             "rating": {
