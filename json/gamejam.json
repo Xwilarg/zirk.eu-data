@@ -160,6 +160,10 @@
             "github": "https://github.com/Xwilarg/PPJam",
             "website": "https://itch.io/jam/pp-jam-19/rate/3434811",
             "webgl": [ "https://gamejam.zirk.eu/KeepItRunning/index.html" ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/KeepItRunning/Build/",
+                "filename": "PPWeb"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -223,6 +227,10 @@
             "github": "https://github.com/KatsisStudioProjects/NSFWMiniJam15-Group1",
             "website": "https://itch.io/jam/nsfw-minijam-15/rate/3414488",
             "webgl": [ "https://gamejam.zirk.eu/DracoFestival/index.html" ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/DracoFestival/Build/",
+                "filename": "MiniJam15-Web"
+            },
             "postModification": null,
             "nsfw": true,
             "rating": {
@@ -363,6 +371,10 @@
             "github": "https://github.com/Xwilarg/GlobalGameJam2025",
             "website": "https://globalgamejam.org/games/2025/tulpenmanie-3",
             "webgl": [ "http://gamejam.zirk.eu/BulbBubbleBattle/index.html" ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/BulbBubbleBattle/Build/",
+                "filename": "BBB-Web"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": null,
@@ -395,6 +407,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/StravaganzHAT/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/StravaganzHAT/Build/",
+                "filename": "OneHourJam"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -432,6 +448,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/315050/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/315050/Build/",
+                "filename": "MathWeb"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
@@ -507,6 +527,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/GardeNationale/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/GardeNationale/Build/",
+                "filename": "OneHourJam"
+            },
             "postModification": null,
             "nsfw": true,
             "rating": {
@@ -545,6 +569,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/StrawberryRodeo/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/StrawberryRodeo/Build/",
+                "filename": "StrawberryRodeo"
+            },
             "postModification": null,
             "nsfw": true,
             "rating": {
@@ -585,6 +613,10 @@
             "webgl": [
                 "https://gamejam.zirk.eu/ShrinkAndSlime/index.html"
             ],
+            "sketch": {
+                "folder": "https://gamejam.zirk.eu/ShrinkAndSlime/Build/",
+                "filename": "LD56-Web"
+            },
             "postModification": null,
             "nsfw": false,
             "rating": {
