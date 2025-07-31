@@ -378,7 +378,12 @@
             },
             "postModification": null,
             "nsfw": false,
-            "rating": null,
+            "rating": {
+                "entries": 12100,
+                "entriesRated": null,
+                "totalRatingCount": null,
+                "scores": null
+            },
             "stream": [],
             "gameplay": []
         },
